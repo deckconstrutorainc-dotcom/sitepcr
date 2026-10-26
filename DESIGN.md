@@ -364,7 +364,7 @@ Plano, sem sombras. A profundidade vem da troca de camada (`canvas` → `stone` 
 - `<video muted playsinline loop preload="none" poster>`. O **pôster é o LCP** (AVIF/WebP, `priority`), e o vídeo só carrega depois do `load`.
 - Não carrega com `prefers-reduced-motion`, `Save-Data` ou conexão 2G/3G (`navigator.connection`); nesses casos fica a foto.
 - **Botão de pausar/reproduzir** visível (exigência do WCAG 2.2.2 para movimento automático acima de 5s), canto inferior direito, 44×44, com `aria-label` que alterna.
-- Arquivo: trecho de 12s, 1280×720, H.264 com CRF 30, sem áudio, `faststart`, cerca de 2,1 MB (já gerado a partir de `DJI_0809.MP4`). A versão WebM/AV1 é opcional.
+- Arquivos: trecho de 12 s de `DJI_0809.MP4`, H.264 em duas passadas, sem áudio, `faststart`, sem filtro de nitidez. **Full HD** (1920×1080, 5 Mbps, ~7 MB) quando a área do vídeo passa de ~1400 px físicos; **720p** (2,5 Mbps, ~3,7 MB) no celular. A primeira versão (720p a CRF 30, 2,1 MB) ficou borrada em tela cheia no desktop e foi substituída.
 
 ### WhatsApp
 Círculo de 56px no canto inferior direito, verde `success`, ícone branco e `aria-label` "Conversar no WhatsApp". Só aparece quando houver número configurado e se afasta do botão de pausa do vídeo no topo.
