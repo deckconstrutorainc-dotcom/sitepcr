@@ -15,6 +15,7 @@ import { SectionHead } from "@/components/SectionHead";
 import { StatsBand } from "@/components/StatsBand";
 import { ServicesIndex } from "@/components/ServicesIndex";
 import { ProcessStrip } from "@/components/ProcessStrip";
+import { ClientLogos } from "@/components/ClientLogos";
 
 export async function generateMetadata(): Promise<Metadata> {
   const { locale, d } = await getDict();
@@ -87,6 +88,9 @@ export default async function Home() {
           </dl>
         </div>
       </section>
+
+      {/* 2b. Clientes (logos do site antigo) */}
+      <ClientLogos title={d.home.clientesTitle} />
 
       {/* 3. Obras em destaque: grade fechada, uma grande e duas empilhadas */}
       <section className="section pt-0!" aria-labelledby="dest-t">

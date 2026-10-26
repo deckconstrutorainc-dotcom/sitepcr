@@ -47,7 +47,7 @@
     "currentShort": "EN",
     "menuHints": {
       "sobre": "since 2018",
-      "servicos": "6 services",
+      "servicos": "7 services",
       "obras": "{n} completed",
       "numeros": "with sources",
       "contato": "{tel}"
@@ -58,7 +58,7 @@
     "verObra": "View project",
     "verObras": "View projects",
     "verTodas": "View all {n} projects",
-    "falar": "Talk to PCR",
+    "falar": "Request a technical contact",
     "preencher": "[TO BE PROVIDED]",
     "emAndamento": "In progress",
     "semFoto": "No photographs on file",
@@ -99,7 +99,8 @@
     "stripLabel": "Work-in-progress photos, scroll sideways",
     "coverTitle": "Tell us about your project.",
     "coverText": "Site visit, assessment and an itemised proposal, with a clear schedule and a named engineer in charge.",
-    "coverAlt": "Aerial view of the Jacaraípe coastline in Serra, with the neighbourhood and the sea behind"
+    "coverAlt": "Aerial view of the Jacaraípe coastline in Serra, with the neighbourhood and the sea behind",
+    "clientesTitle": "Companies and institutions that have hired PCR."
   },
   "strip": [
     {
@@ -135,6 +136,14 @@
   ],
   "services": [
     {
+      "id": "construcao",
+      "img": "galpao-terraplenagem",
+      "title": "Construction",
+      "short": "Residential, commercial, industrial and institutional buildings.",
+      "body": "Building from groundworks to handover, with planning, in-house crews and an engineer in charge. Projects include the Luamar semi-detached houses and the food court at Vitória Airport.",
+      "caption": "Earthworks inside a warehouse project"
+    },
+    {
       "id": "fachadas",
       "img": "nahum-antes",
       "title": "Facade repair",
@@ -161,7 +170,7 @@
     {
       "id": "reformas",
       "img": "saoluiz",
-      "title": "Renovations and extensions",
+      "title": "Renovations and upgrades",
       "short": "Hospitals, offices, retail and common areas.",
       "body": "Renovation of hospital wards, imaging departments, bathrooms and kitchens, as well as shops, offices and condominium common areas.",
       "caption": "Hospital São Luiz, Vila Velha"
@@ -169,9 +178,9 @@
     {
       "id": "laudos",
       "img": "nahum-jau",
-      "title": "Technical reports and surveys",
-      "short": "Building inspections, technical opinions and certified reports.",
-      "body": "Technical opinions for condominiums and inspection reports, issued with a technical responsibility record (ART) by a civil engineer, to support decisions before work is commissioned.",
+      "title": "Technical surveys and expert support",
+      "short": "Surveys, reports, technical opinions and expert support, with a technical responsibility record.",
+      "body": "Technical surveys, inspection reports and opinions for condominiums and companies, plus expert technical support, always issued with a technical responsibility record (ART) by a civil engineer.",
       "caption": "Facade inspection from a suspended platform"
     },
     {
@@ -211,6 +220,7 @@
     "lead": "PCR Engenharia e Incorporação was incorporated on 27 April 2018 in Serra, Espírito Santo, to serve condominiums and companies that needed proper engineering for repair and renovation work.",
     "historia": [
       "The first contracts, in 2018, were the construction of the Cafeteria e Choperia do Mestre in the arrivals hall of Vitória Airport and works at the Laguna building in Jardim Camburi.",
+      "PCR delivers civil engineering solutions built on planning, organisation and technical commitment, with qualified crews and well-defined processes that ensure safety, efficiency and durability on every project.",
       "From 2019 the company took on facade repairs for residential buildings in Vitória and, in 2021, began working for the Kora Saúde hospital group on renovations and extensions, including the steel-frame extension of Hospital São Luiz in Vila Velha.",
       "In 2023 PCR completed its first in-house development, the Luamar condominium: three semi-detached houses in Jacaraípe."
     ],
@@ -223,7 +233,7 @@
   },
   "servicos": {
     "title": "Services",
-    "lead": "Six lines of work, always with an engineer of record, a technical responsibility record and itemised progress reports."
+    "lead": "Seven lines of work, always with an engineer of record, a technical responsibility record and itemised progress reports."
   },
   "obras": {
     "title": "Projects",

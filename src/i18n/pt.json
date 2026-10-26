@@ -47,7 +47,7 @@
     "currentShort": "PT",
     "menuHints": {
       "sobre": "desde 2018",
-      "servicos": "6 frentes",
+      "servicos": "7 frentes",
       "obras": "{n} concluídas",
       "numeros": "com fonte",
       "contato": "{tel}"
@@ -58,7 +58,7 @@
     "verObra": "Ver obra",
     "verObras": "Ver obras",
     "verTodas": "Ver as {n} obras",
-    "falar": "Falar com a PCR",
+    "falar": "Solicitar contato técnico",
     "preencher": "[PREENCHER]",
     "emAndamento": "Em andamento",
     "semFoto": "Sem registro fotográfico",
@@ -99,7 +99,8 @@
     "stripLabel": "Fotos de obra em andamento, role para os lados",
     "coverTitle": "Conte qual é a obra.",
     "coverText": "Visita técnica, diagnóstico e proposta por item, com prazo e responsável definidos.",
-    "coverAlt": "Vista aérea do litoral de Jacaraípe, em Serra, com o bairro e o mar ao fundo"
+    "coverAlt": "Vista aérea do litoral de Jacaraípe, em Serra, com o bairro e o mar ao fundo",
+    "clientesTitle": "Empresas e instituições que já contrataram a PCR."
   },
   "strip": [
     {
@@ -135,6 +136,14 @@
   ],
   "services": [
     {
+      "id": "construcao",
+      "img": "galpao-terraplenagem",
+      "title": "Construção civil",
+      "short": "Edificações residenciais, comerciais, industriais e institucionais.",
+      "body": "Construção de edificações do canteiro à entrega, com planejamento, equipe própria e engenheiro responsável. Entre elas, as casas geminadas do Condomínio Luamar e a praça de alimentação no Aeroporto de Vitória.",
+      "caption": "Movimento de terra em obra de galpão"
+    },
+    {
       "id": "fachadas",
       "img": "nahum-antes",
       "title": "Recuperação de fachadas",
@@ -161,7 +170,7 @@
     {
       "id": "reformas",
       "img": "saoluiz",
-      "title": "Reformas e ampliações",
+      "title": "Reformas e adequações",
       "short": "Hospitais, escritórios, comércio e áreas comuns.",
       "body": "Reformas de enfermarias, setores de imagem, banheiros e cozinhas hospitalares, além de lojas, salas comerciais e áreas comuns de condomínio.",
       "caption": "Hospital São Luiz, Vila Velha"
@@ -169,9 +178,9 @@
     {
       "id": "laudos",
       "img": "nahum-jau",
-      "title": "Laudos e perícias",
-      "short": "Inspeção predial, pareceres técnicos e laudos com ART.",
-      "body": "Pareceres técnicos para condomínios e laudos de inspeção, emitidos com ART por engenheiro civil, que orientam a decisão sobre a obra antes da contratação.",
+      "title": "Perícia e assistência técnica",
+      "short": "Perícias, laudos, pareceres técnicos e assistência técnica com ART.",
+      "body": "Perícias, laudos de inspeção e pareceres técnicos para condomínios e empresas, além de assistência técnica, sempre emitidos com ART por engenheiro civil.",
       "caption": "Inspeção de fachada com andaime suspenso"
     },
     {
@@ -211,6 +220,7 @@
     "lead": "A PCR Engenharia e Incorporação foi aberta em 27 de abril de 2018, em Serra, no Espírito Santo, para atender condomínios e empresas que precisavam de engenharia em obras de recuperação e reforma.",
     "historia": [
       "Os primeiros contratos, em 2018, foram a construção da Cafeteria e Choperia do Mestre no desembarque do Aeroporto de Vitória e os serviços no Ed. Laguna, em Jardim Camburi.",
+      "A PCR desenvolve soluções em engenharia civil com planejamento, organização e compromisso técnico. Trabalha com equipes qualificadas e processos bem definidos para garantir segurança, eficiência e durabilidade em cada projeto executado.",
       "A partir de 2019 a empresa passou a recuperar fachadas de edifícios residenciais em Vitória e, em 2021, a atender o Grupo Kora Saúde em reformas e ampliações hospitalares, incluindo a ampliação em estrutura metálica do Hospital São Luiz, em Vila Velha.",
       "Em 2023 a PCR entregou sua primeira incorporação própria, o Condomínio Luamar, com três casas geminadas em Jacaraípe."
     ],
@@ -223,7 +233,7 @@
   },
   "servicos": {
     "title": "Serviços",
-    "lead": "Seis frentes de trabalho, sempre com responsável técnico, ART e medição por item."
+    "lead": "Sete frentes de trabalho, sempre com responsável técnico, ART e medição por item."
   },
   "obras": {
     "title": "Obras",
