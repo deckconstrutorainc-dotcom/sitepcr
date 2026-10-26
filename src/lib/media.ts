@@ -27,4 +27,6 @@ export const media: Record<string, StaticImageData> = {
   "solar-tela": solarTela,
 };
 
-export const heroVideo = "/media/hero.mp4";
+// Trecho de 12 s de DJI_0809.MP4 (Hospital São Luiz). Full HD para telas grandes (~7 MB, 5 Mbps)
+// e 720p para celular (~3,7 MB, 2,5 Mbps). O componente escolhe pela largura física da tela.
+export const heroVideo = { hd: "/media/hero-1080.mp4", sd: "/media/hero-720.mp4" };

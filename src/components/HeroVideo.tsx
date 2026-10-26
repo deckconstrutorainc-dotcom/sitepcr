@@ -7,7 +7,7 @@ type Connection = { saveData?: boolean; effectiveType?: string };
 
 // O pôster (next/image, no servidor) é o LCP. O vídeo só começa a baixar depois do load da página,
 // e nunca com movimento reduzido, economia de dados ou conexão lenta.
-export function HeroVideo({ src, label, pauseLabel, playLabel }: { src: string; label: string; pauseLabel: string; playLabel: string }) {
+export function HeroVideo({ src, label, pauseLabel, playLabel }: { src: { hd: string; sd: string }; label: string; pauseLabel: string; playLabel: string }) {
   const ref = useRef<HTMLVideoElement>(null);
   const [ready, setReady] = useState(false);
   const [paused, setPaused] = useState(false);
@@ -19,7 +19,9 @@ export function HeroVideo({ src, label, pauseLabel, playLabel }: { src: string; 
     const start = () => {
       const v = ref.current;
       if (!v) return;
-      v.src = src;
+      // Full HD quando a área do vídeo passa de ~1400 px físicos (desktop, notebook, tablet retina)
+      const largura = v.clientWidth * window.devicePixelRatio;
+      v.src = largura > 1400 ? src.hd : src.sd;
       v.play()
         .then(() => setReady(true))
         .catch(() => setReady(false));

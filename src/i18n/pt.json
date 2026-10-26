@@ -11,7 +11,7 @@
     },
     "servicos": {
       "title": "Serviços de engenharia civil no Espírito Santo | PCR",
-      "description": "Recuperação de fachadas, recuperação estrutural, estrutura metálica, reformas e ampliações, laudos e perícias e incorporação em Serra, Vitória e Vila Velha."
+      "description": "Construção civil, recuperação de fachadas e estrutural, estrutura metálica, reformas, perícias e incorporação em todo o Espírito Santo."
     },
     "obras": {
       "title": "Obras realizadas no Espírito Santo | PCR Engenharia",
@@ -23,7 +23,7 @@
     },
     "contato": {
       "title": "Contato e orçamento de obra em Serra/ES | PCR Engenharia",
-      "description": "Fale com a PCR Engenharia: visita técnica, diagnóstico e proposta para a sua obra em Serra e região metropolitana de Vitória."
+      "description": "Fale com a PCR Engenharia: visita técnica, diagnóstico e proposta para a sua obra em qualquer cidade do Espírito Santo."
     },
     "privacidade": {
       "title": "Política de privacidade (LGPD) | PCR Engenharia",
@@ -85,7 +85,7 @@
     "conheca": "Conheça a PCR",
     "facts": {
       "atuacao": "Atuação",
-      "atuacaoValor": "Serra, Vitória, Vila Velha, Cariacica e região",
+      "atuacaoValor": "Todo o Espírito Santo, com sede em Serra",
       "clientes": "Clientes",
       "clientesValor": "Condomínios, hospitais, escolas e empresas",
       "rt": "Responsável técnico",
@@ -225,7 +225,7 @@
       "Em 2023 a PCR entregou sua primeira incorporação própria, o Condomínio Luamar, com três casas geminadas em Jacaraípe."
     ],
     "atuacaoTitle": "Onde atuamos",
-    "atuacao": "Obras e laudos em Serra, Vitória, Vila Velha, Cariacica, Anchieta e Aracruz, no Espírito Santo.",
+    "atuacao": "Obras, laudos e perícias em todo o Espírito Santo, com sede em Serra.",
     "rtTitle": "Responsável técnico",
     "grupoTitle": "Grupo",
     "grupoText": "A PCR integra o mesmo grupo econômico da Deck Construtora e Incorporadora.",
