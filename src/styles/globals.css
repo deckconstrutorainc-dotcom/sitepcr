@@ -1,0 +1,335 @@
+@import "tailwindcss";
+
+/* Tokens do DESIGN.md (v2.1 "Obra em primeiro plano"). Tema único claro, mineral, por decisão de projeto. */
+@theme {
+  --color-primary: #005e9c;
+  --color-primary-hover: #004b7f;
+  --color-primary-pressed: #003a63;
+  --color-primary-on-dark: #7cb6e6;
+  --color-ink: #151a20;
+  --color-ink-muted: #4d545b;
+  --color-ink-subtle: #5e6369;
+  --color-canvas: #f6f4ef;
+  --color-stone: #e8e4db;
+  --color-paper: #ffffff;
+  --color-hairline: #d6d1c6;
+  --color-hairline-strong: #807b71;
+  --color-night: #0f1923;
+  --color-night-muted: #a9b3bd;
+  --color-night-hairline: #5a6672;
+  --color-on-media: #e6ebf0;
+  --color-on-media-muted: #d6dee6;
+  --color-error: #b42318;
+  --color-success: #1f7a3d;
+
+  --font-display: var(--font-sora), "Segoe UI", Arial, sans-serif;
+  --font-sans: var(--font-manrope), system-ui, "Segoe UI", Roboto, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, Consolas, monospace;
+
+  --ease-expo: cubic-bezier(0.19, 1, 0.22, 1);
+  --ease-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+  --container-site: 1320px;
+  --container-measure: 620px;
+
+  /* Escala tipográfica semântica (DESIGN.md: Typography). Cada passo traz entrelinha e tracking,
+     então "text-section" basta, sem tracking-[...] solto pelo código. */
+  --text-hero: clamp(2.5rem, 6.2vw, 5rem);
+  --text-hero--line-height: 1;
+  --text-hero--letter-spacing: -0.035em;
+  --text-page: clamp(2rem, 4vw, 3.25rem);
+  --text-page--line-height: 1.04;
+  --text-page--letter-spacing: -0.035em;
+  --text-section: clamp(1.75rem, 3.2vw, 2.75rem);
+  --text-section--line-height: 1.08;
+  --text-section--letter-spacing: -0.03em;
+  --text-statement: clamp(1.375rem, 2.4vw, 2.125rem);
+  --text-statement--line-height: 1.3;
+  --text-statement--letter-spacing: -0.02em;
+  --text-feature: clamp(1.375rem, 2.2vw, 1.75rem);
+  --text-feature--line-height: 1.15;
+  --text-feature--letter-spacing: -0.02em;
+  --text-stat: clamp(2rem, 4.6vw, 4rem);
+  --text-stat--line-height: 1;
+  --text-stat--letter-spacing: -0.04em;
+  --text-heading: 1.5rem;
+  --text-heading--line-height: 1.2;
+  --text-heading--letter-spacing: -0.02em;
+  --text-phone: 1.375rem;
+  --text-phone--line-height: 1.35;
+  --text-phone--letter-spacing: -0.02em;
+  --text-title: 1.25rem;
+  --text-title--line-height: 1.25;
+  --text-title--letter-spacing: -0.015em;
+  --text-card: 1.125rem;
+  --text-card--line-height: 1.25;
+  --text-card--letter-spacing: -0.015em;
+  --text-lede: clamp(1rem, 1.3vw, 1.125rem);
+  --text-lede--line-height: 1.5;
+  --text-lead: 1.0625rem;
+  --text-lead--line-height: 1.6;
+  --text-ui: 0.9375rem;
+  --text-ui--line-height: 1.4;
+}
+
+/* Compensação do cabeçalho fixo (76px) + área segura do topo. */
+@utility pt-header {
+  padding-top: calc(env(safe-area-inset-top, 0px) + 76px);
+}
+@utility pt-safe {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
+/* Rótulo técnico (dt de fichas, campos de formulário). */
+@utility label {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: 11.5px;
+  line-height: 1.3;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-ink-subtle);
+}
+
+/* Linha forte que abre listas e fichas (DESIGN.md: 1,5px ink). */
+@utility rule-strong {
+  border-top: 1.5px solid var(--color-ink);
+}
+@utility rule-strong-b {
+  border-bottom: 1.5px solid var(--color-ink);
+}
+
+/* Véus "night" sobre foto/vídeo: garantem texto branco acima de 7:1 (DESIGN.md: Colors). */
+@utility scrim-hero {
+  background: linear-gradient(180deg, rgb(15 25 35 / 0.5) 0%, rgb(15 25 35 / 0) 20%, rgb(15 25 35 / 0) 45%, rgb(15 25 35 / 0.8) 100%);
+}
+@utility scrim-top {
+  background: linear-gradient(180deg, rgb(15 25 35 / 0.55) 0%, rgb(15 25 35 / 0) 28%);
+}
+@utility scrim-bottom {
+  background: linear-gradient(180deg, rgb(15 25 35 / 0) 45%, rgb(15 25 35 / 0.82) 100%);
+}
+@utility scrim-left {
+  background: linear-gradient(90deg, rgb(15 25 35 / 0.85) 0%, rgb(15 25 35 / 0.55) 50%, rgb(15 25 35 / 0.1) 100%);
+}
+
+/* Zoom discreto da imagem quando o card (.group) recebe hover. */
+@utility img-zoom {
+  transition: transform 0.8s var(--ease-expo);
+  :where(.group):hover & {
+    transform: scale(1.03);
+  }
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    /* âncoras e foco por teclado não ficam escondidos sob o cabeçalho fixo (76px) */
+    scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 96px);
+  }
+  a,
+  button,
+  summary,
+  label,
+  select {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: rgb(0 94 156 / 0.15);
+  }
+  body {
+    background: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 4px;
+  }
+  .on-dark :focus-visible {
+    outline-color: #fff;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      transition-duration: 0.01ms !important;
+      animation-duration: 0.01ms !important;
+    }
+  }
+}
+
+@utility wrap {
+  width: 100%;
+  max-width: calc(var(--container-site) + 32px);
+  margin-inline: auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  @media (width >= 64rem) {
+    max-width: calc(var(--container-site) + 64px);
+    padding-left: max(32px, env(safe-area-inset-left, 0px));
+    padding-right: max(32px, env(safe-area-inset-right, 0px));
+  }
+}
+
+@utility eyebrow {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.3;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+@utility data {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  font-variant-numeric: tabular-nums;
+}
+
+@utility section {
+  padding-block: 64px;
+  @media (width >= 64rem) {
+    padding-block: 96px;
+  }
+}
+
+/* Link de ação: sublinhado cresce da esquerda, seta desloca. */
+@utility link-cta {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.3;
+  white-space: nowrap;
+  text-decoration: none;
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 26px;
+    bottom: 9px;
+    height: 1.5px;
+    background: currentColor;
+    transform-origin: left;
+    transform: scaleX(0.3);
+    transition: transform 0.4s var(--ease-expo);
+  }
+  &:hover::after,
+  &:focus-visible::after {
+    transform: scaleX(1);
+  }
+  & > [data-arrow] {
+    transition: transform 0.4s var(--ease-expo);
+  }
+  &:hover > [data-arrow] {
+    transform: translateX(5px);
+  }
+}
+
+@utility btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-height: 56px;
+  padding-inline: 28px;
+  background: var(--color-primary);
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1;
+  white-space: nowrap;
+  transition: background-color 0.3s var(--ease-quad);
+  &:hover {
+    background: var(--color-primary-hover);
+  }
+  &:active {
+    background: var(--color-primary-pressed);
+    transform: translateY(1px);
+  }
+  &:disabled {
+    opacity: 0.7;
+    cursor: progress;
+  }
+}
+
+/* Faixa horizontal: alinhada ao container à esquerda, sangra até a borda à direita. */
+.strip-track {
+  padding-inline: max(16px, env(safe-area-inset-left, 0px));
+  scroll-padding-inline: max(16px, env(safe-area-inset-left, 0px));
+}
+@media (width >= 64rem) {
+  .strip-track {
+    padding-inline: max(32px, calc((100vw - 1320px) / 2));
+    scroll-padding-inline: max(32px, calc((100vw - 1320px) / 2));
+  }
+}
+
+/* Menu sobreposto: links sobem em sequência curta ao abrir. */
+@keyframes menu-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+#site-menu:not([hidden]) {
+  animation: fade-in 0.4s var(--ease-quad) both;
+}
+#site-menu:not([hidden]) .menu-link {
+  animation: menu-in 0.7s var(--ease-expo) both;
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+/* Revelação ao rolar: o estado de repouso é visível; só elementos abaixo da dobra recebem "pre". */
+[data-reveal] {
+  transition:
+    transform 0.9s var(--ease-expo),
+    opacity 0.6s var(--ease-quad);
+}
+/* só deslocamento: o texto nunca fica com contraste reduzido, nem durante a animação */
+[data-reveal="pre"] {
+  transform: translateY(20px);
+}
+[data-reveal-img] img {
+  transition: transform 1.4s var(--ease-expo);
+}
+[data-reveal-img="pre"] img {
+  transform: scale(1.06);
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal="pre"] {
+    transform: none;
+    opacity: 1;
+  }
+  [data-reveal-img="pre"] img {
+    transform: none;
+  }
+}

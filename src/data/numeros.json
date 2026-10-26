@@ -1,0 +1,24 @@
+{
+  "fundacao": "2018-04-27",
+  "obras_concluidas": {
+    "valor": 37
+  },
+  "m2_reformados": {
+    "valor": 12616.08,
+    "obras": 16
+  },
+  "estrutura_metalica_t": {
+    "valor": 18.262,
+    "obras": 3
+  },
+  "clientes_atendidos": {
+    "valor": 18
+  },
+  "municipios_atendidos": {
+    "valor": 6
+  },
+  "valor_total_executado_brl": {
+    "valor": 4347804.61,
+    "obras": 29
+  }
+}

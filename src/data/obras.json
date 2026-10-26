@@ -1,0 +1,1892 @@
+[
+  {
+    "slug": "galpao-comercial-nova-almeida",
+    "nome": "Galpão comercial de 2 pavimentos (371 m²) — Nova Almeida, Serra",
+    "cliente": "Cliente particular",
+    "tipo": "industrial",
+    "cidade": "Serra",
+    "bairro": "Nova Almeida Centro",
+    "inicio": "2025-06",
+    "fim": null,
+    "status": "em-andamento",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "ed-nahum-prado",
+    "nome": "Ed. Nahum Prado — reforma das fachadas (frontal e laterais)",
+    "cliente": "Condomínio do Edifício Nahum Prado",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Praia do Canto",
+    "inicio": "2023-03",
+    "fim": "2024-02",
+    "status": "concluida",
+    "area_m2": 2176,
+    "destaque": true,
+    "quantitativos": [
+      {
+        "item": "Demolição de revestimento cerâmico — fachada frontal",
+        "unidade": "m²",
+        "quantidade": 1651.48,
+        "base": "medicao"
+      },
+      {
+        "item": "Chapisco com aditivo aderente — fachada frontal",
+        "unidade": "m²",
+        "quantidade": 1651.48,
+        "base": "medicao"
+      },
+      {
+        "item": "Emboço/massa única 25 mm — fachada frontal",
+        "unidade": "m²",
+        "quantidade": 1651.48,
+        "base": "medicao"
+      },
+      {
+        "item": "Pastilha cerâmica/porcelana ATLAS 5x10 e 5x5 cm (4 referências) — fachada frontal",
+        "unidade": "m²",
+        "quantidade": 1558,
+        "base": "medicao"
+      },
+      {
+        "item": "Pastilha cerâmica ATLAS 5x10 cm (molduras) — fachada lateral 1",
+        "unidade": "m²",
+        "quantidade": 73.76,
+        "base": "medicao"
+      },
+      {
+        "item": "Pastilha cerâmica ATLAS 5x10 cm (molduras) — fachada lateral 2",
+        "unidade": "m²",
+        "quantidade": 76.82,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura com tinta emborrachada 3 demãos — fachada lateral 1",
+        "unidade": "m²",
+        "quantidade": 374.43,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura com tinta emborrachada 3 demãos — fachada lateral 2",
+        "unidade": "m²",
+        "quantidade": 340.46,
+        "base": "medicao"
+      },
+      {
+        "item": "Junta de assentamento com selante de silicone — fachada frontal",
+        "unidade": "m²",
+        "quantidade": 242,
+        "base": "medicao"
+      },
+      {
+        "item": "Peitoril linear em granito polido L=16,5 cm",
+        "unidade": "m",
+        "quantidade": 277,
+        "base": "medicao"
+      },
+      {
+        "item": "Retirada de terra, limpeza e impermeabilização das jardineiras",
+        "unidade": "m²",
+        "quantidade": 210,
+        "base": "medicao"
+      },
+      {
+        "item": "Brises verticais — limpeza, reparo e pintura",
+        "unidade": "m²",
+        "quantidade": 200,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura acrílica fachada 2 demãos (cor Topázio Bruto)",
+        "unidade": "m²",
+        "quantidade": 161,
+        "base": "medicao"
+      },
+      {
+        "item": "Tela plástica fachadeira — fachada frontal",
+        "unidade": "m²",
+        "quantidade": 1445.86,
+        "base": "medicao"
+      },
+      {
+        "item": "Paracisco + andaime suspenso elétrico (jaú) + entelamento — fachada frontal",
+        "unidade": "mês",
+        "quantidade": 7,
+        "base": "medicao"
+      },
+      {
+        "item": "Remoção de entulho (caminhão carreteiro)",
+        "unidade": "m³",
+        "quantidade": 57.66,
+        "base": "medicao"
+      },
+      {
+        "item": "Retirada e recolocação de ar-condicionado split",
+        "unidade": "un",
+        "quantidade": 10,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "consultorio-estancia-monazitica",
+    "nome": "Consultório (edificação comercial horizontal) — Estância Monazítica, Serra — responsabilidade técnica de execução",
+    "cliente": "Cliente particular",
+    "tipo": "comercial",
+    "cidade": "Serra",
+    "bairro": "Estância Monazítica",
+    "inicio": "2022-02",
+    "fim": "2024-01",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Área da edificação (ART final)",
+        "unidade": "m²",
+        "quantidade": 148.31,
+        "base": "documento"
+      }
+    ]
+  },
+  {
+    "slug": "casas-geminadas-jacaraipe-luamar",
+    "nome": "Condomínio Luamar — 3 casas geminadas (Jacaraípe, Serra)",
+    "cliente": "Incorporação própria",
+    "tipo": "residencial",
+    "cidade": "Serra",
+    "bairro": "São Francisco (Jacaraípe)",
+    "inicio": "2021-03",
+    "fim": "2023-11",
+    "status": "concluida",
+    "area_m2": 222.91,
+    "destaque": true,
+    "quantitativos": [
+      {
+        "item": "Área construída total (3 casas, 2 pavimentos)",
+        "unidade": "m²",
+        "quantidade": 222.91,
+        "base": "documento"
+      },
+      {
+        "item": "Área do lote",
+        "unidade": "m²",
+        "quantidade": 360,
+        "base": "documento"
+      },
+      {
+        "item": "Pintura interna de paredes, por casa (levantamento de execução 2023)",
+        "unidade": "m²",
+        "quantidade": 185.32,
+        "base": "documento"
+      },
+      {
+        "item": "Pintura de tetos, por casa (levantamento de execução 2023)",
+        "unidade": "m²",
+        "quantidade": 60.51,
+        "base": "documento"
+      }
+    ]
+  },
+  {
+    "slug": "ed-lion-dor-reboco",
+    "nome": "Ed. Lion D'Or — recuperação de reboco e trincas da fachada do 9º andar",
+    "cliente": "Condomínio do Edifício Lion D'Or",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Santa Helena",
+    "inicio": "2023-10",
+    "fim": null,
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "ed-lion-dor-fachada",
+    "nome": "Ed. Lion D'Or — reforma geral conforme Laudo de Inspeção Predial (fachadas, garagens, recuperação estrutural, chapins e pintura)",
+    "cliente": "Condomínio do Edifício Lion D'Or",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Santa Helena",
+    "inicio": "2022-01",
+    "fim": "2022-08",
+    "status": "concluida",
+    "area_m2": 2688.17,
+    "destaque": true,
+    "quantitativos": [
+      {
+        "item": "Fachadas e laterais do prédio — lavagem de alta pressão",
+        "unidade": "m²",
+        "quantidade": 3735.9,
+        "base": "medicao"
+      },
+      {
+        "item": "Fachadas e laterais do prédio — pintura látex PVA inclusive selador",
+        "unidade": "m²",
+        "quantidade": 3735.9,
+        "base": "medicao"
+      },
+      {
+        "item": "Garagem térreo — pintura de paredes",
+        "unidade": "m²",
+        "quantidade": 1360,
+        "base": "medicao"
+      },
+      {
+        "item": "Garagem térreo — pintura de tetos",
+        "unidade": "m²",
+        "quantidade": 456.9,
+        "base": "medicao"
+      },
+      {
+        "item": "Garagem piso G — pintura de paredes e tetos",
+        "unidade": "m²",
+        "quantidade": 770.15,
+        "base": "medicao"
+      },
+      {
+        "item": "Parede da divisa lado direito (Ed. Carrara D'Itália) — lavagem e pintura acrílica",
+        "unidade": "m²",
+        "quantidade": 559.9,
+        "base": "medicao"
+      },
+      {
+        "item": "Fachada frontal (entrada) — emassamento e pintura acrílica",
+        "unidade": "m²",
+        "quantidade": 212.45,
+        "base": "medicao"
+      },
+      {
+        "item": "Chapim de granito cinza polido 30 cm com pingadeira — garagem pilotis",
+        "unidade": "m²",
+        "quantidade": 58.4,
+        "base": "medicao"
+      },
+      {
+        "item": "Chapim de granito com pingadeira — área de lazer/telhado divisa Carrara",
+        "unidade": "ml",
+        "quantidade": 53.67,
+        "base": "medicao"
+      },
+      {
+        "item": "Chapim de granito 30 cm com pingadeira — telhado",
+        "unidade": "m2",
+        "quantidade": 27.21,
+        "base": "medicao"
+      },
+      {
+        "item": "Telas fachadeiras de nylon (PEHD)",
+        "unidade": "m²",
+        "quantidade": 650,
+        "base": "medicao"
+      },
+      {
+        "item": "Andaime metálico de fachada tipo torre (locação)",
+        "unidade": "m²",
+        "quantidade": 266,
+        "base": "medicao"
+      },
+      {
+        "item": "Calafetação de esquadrias e juntas de parapeito em granito com PU",
+        "unidade": "ml",
+        "quantidade": 372.9,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura esmalte com fundo anticorrosivo em tubos de aço (garagem G)",
+        "unidade": "M²",
+        "quantidade": 158.4,
+        "base": "medicao"
+      },
+      {
+        "item": "Impermeabilização com manta asfáltica aluminizada 4 mm — telhado (pingadeira)",
+        "unidade": "m²",
+        "quantidade": 20,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "ed-lila-deck-piscina",
+    "nome": "Ed. Lila — reforma da borda da piscina em granito levigado e novo deck de madeira",
+    "cliente": "Condomínio do Edifício Lila",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Praia do Canto",
+    "inicio": "2022-04",
+    "fim": "2022-07",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Novo deck em madeira parajú 6x2 ou cumaru 10x2 cm, inclusive caibros (aditivo)",
+        "unidade": "m²",
+        "quantidade": 38.3,
+        "base": "medicao"
+      },
+      {
+        "item": "Borda em granito levigado vermelho Brasília com rejunte PU",
+        "unidade": "M²",
+        "quantidade": 22.5,
+        "base": "medicao"
+      },
+      {
+        "item": "Lixamento e pintura com verniz filtro solar do deck existente (3 demãos)",
+        "unidade": "m²",
+        "quantidade": 57.78,
+        "base": "medicao"
+      },
+      {
+        "item": "Retirada e reinstalação de lambris de madeira (deck)",
+        "unidade": "m²",
+        "quantidade": 27.4,
+        "base": "medicao"
+      },
+      {
+        "item": "Retirada de deck em madeira (aditivo)",
+        "unidade": "m²",
+        "quantidade": 14.8,
+        "base": "medicao"
+      },
+      {
+        "item": "Recuperação estrutural da borda (escarificação, tratamento de armadura, graute) — lateral/fundos + parte superior",
+        "unidade": "m²",
+        "quantidade": 10.18,
+        "base": "medicao"
+      },
+      {
+        "item": "Chapisco e reboco paulista (lateral/fundos + parte superior)",
+        "unidade": "m²",
+        "quantidade": 18.96,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "padaria-artezanal-2a-reforma",
+    "nome": "Padaria Artezanal (Jardim Camburi) — 2ª reforma: telhado da entrada, fechamento em vidro e forro de PVC",
+    "cliente": "Padaria Artezanal",
+    "tipo": "comercial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2022-03",
+    "fim": null,
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "laudo-ginasio-anchieta",
+    "nome": "Laudo técnico — Ginásio Poliesportivo de Anchieta (atestado de capacidade técnica)",
+    "cliente": "Comér Construtora e Incorporadora Ltda",
+    "tipo": "laudo-pericia",
+    "cidade": "Anchieta",
+    "bairro": "Vila Samarco",
+    "inicio": "2022-01",
+    "fim": "2022-02",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "praia-tenis-clube-diretoria-recepcao",
+    "nome": "Kora Saúde — sede administrativa (Praia Tênis Clube): reforma da diretoria e construção da recepção com catracas",
+    "cliente": "Hospital Meridional (Grupo Kora Saúde)",
+    "tipo": "comercial",
+    "cidade": "Vitória",
+    "bairro": null,
+    "inicio": "2021-10",
+    "fim": "2022-01",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Pontos elétricos (diretoria)",
+        "unidade": "und",
+        "quantidade": 95,
+        "base": "medicao"
+      },
+      {
+        "item": "Luminárias (diretoria)",
+        "unidade": "und",
+        "quantidade": 54,
+        "base": "medicao"
+      },
+      {
+        "item": "Emassamento (diretoria)",
+        "unidade": "m²",
+        "quantidade": 236.6,
+        "base": "medicao"
+      },
+      {
+        "item": "Rodapé Santa Luzia h=10 cm (diretoria)",
+        "unidade": "m",
+        "quantidade": 72.6,
+        "base": "medicao"
+      },
+      {
+        "item": "Porcelanato 60x60 cimento grigio + 63x63 Sensation Cream (diretoria)",
+        "unidade": "m²",
+        "quantidade": 38.5,
+        "base": "medicao"
+      },
+      {
+        "item": "Forro mineral 60x60 Topiq Prime (diretoria)",
+        "unidade": "m²",
+        "quantidade": 35,
+        "base": "medicao"
+      },
+      {
+        "item": "Fechamento em placa cimentícia (diretoria)",
+        "unidade": "m²",
+        "quantidade": 22.75,
+        "base": "medicao"
+      },
+      {
+        "item": "Portas de vidro 80x210 (diretoria)",
+        "unidade": "und",
+        "quantidade": 5,
+        "base": "medicao"
+      },
+      {
+        "item": "Estrutura metálica com telhado em telhas termoacústicas (recepção/catracas)",
+        "unidade": "m²",
+        "quantidade": 20,
+        "base": "medicao"
+      },
+      {
+        "item": "Paredes de vedação em placa cimentícia (recepção/catracas)",
+        "unidade": "m²",
+        "quantidade": 33,
+        "base": "medicao"
+      },
+      {
+        "item": "Calçada em cimento polido (recepção/catracas)",
+        "unidade": "m²",
+        "quantidade": 17.6,
+        "base": "medicao"
+      },
+      {
+        "item": "Drywall com isolamento acústico (diretoria, levantamento)",
+        "unidade": "m²",
+        "quantidade": 91.5,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-meridional-cozinha",
+    "nome": "Hospital Meridional (Cariacica) — reforma do piso da cozinha",
+    "cliente": "Hospital Meridional (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Cariacica",
+    "bairro": "Alto Lage",
+    "inicio": null,
+    "fim": "2021-12",
+    "status": "concluida",
+    "area_m2": 111.32,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Retirada de piso gail existente",
+        "unidade": "m²",
+        "quantidade": 111.32,
+        "base": "documento"
+      },
+      {
+        "item": "Assentamento de piso gail (material pelo contratante)",
+        "unidade": "m²",
+        "quantidade": 111.32,
+        "base": "documento"
+      },
+      {
+        "item": "Raspagem de argamassa e rejunte",
+        "unidade": "m²",
+        "quantidade": 111.32,
+        "base": "documento"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-luiz-ampliacao",
+    "nome": "Hospital São Luiz — ampliação (escada de emergência, elevador e novos pavimentos em estrutura metálica)",
+    "cliente": "Hospital São Luiz (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Ibes",
+    "inicio": "2021-04",
+    "fim": "2021-10",
+    "status": "concluida",
+    "area_m2": 363.75,
+    "destaque": true,
+    "quantitativos": [
+      {
+        "item": "Estrutura metálica completa fornecida e montada, inclusive lajes pré-moldadas e casa de máquinas",
+        "unidade": "kg",
+        "quantidade": 18013.54,
+        "base": "medicao"
+      },
+      {
+        "item": "Concreto usinado fck 30 MPa bombeado em fundação e baldrame",
+        "unidade": "m³",
+        "quantidade": 35,
+        "base": "medicao"
+      },
+      {
+        "item": "Ferragens (aço) para fundação e baldrames",
+        "unidade": "kg",
+        "quantidade": 2100,
+        "base": "medicao"
+      },
+      {
+        "item": "Formas para fundação e baldrames",
+        "unidade": "m²",
+        "quantidade": 280,
+        "base": "medicao"
+      },
+      {
+        "item": "Escavação mecanizada para fundação direta e caixa de elevador",
+        "unidade": "m³",
+        "quantidade": 250,
+        "base": "medicao"
+      },
+      {
+        "item": "Parede steel frame cimentícia 121 mm, pé-direito 12 m, RF 2 h (CI/90/TYVEK/OSB/LÃ/RF/RF)",
+        "unidade": "m²",
+        "quantidade": 336.76,
+        "base": "medicao"
+      },
+      {
+        "item": "Parede steel frame cimentícia 121 mm (CI/90/TYVEK/OSB/LÃ/1ST)",
+        "unidade": "m²",
+        "quantidade": 101.2,
+        "base": "medicao"
+      },
+      {
+        "item": "Paredes internas em drywall (2RF/90/2RF 112,43 + 2RF/90/1ST 86,33 + 1ST/90/1ST 45,43)",
+        "unidade": "m²",
+        "quantidade": 244.19,
+        "base": "medicao"
+      },
+      {
+        "item": "Impermeabilização com manta asfáltica 4 mm (laje nova elevador/farmácia 114,50 + laje existente do pronto-socorro 114,50)",
+        "unidade": "m²",
+        "quantidade": 229,
+        "base": "medicao"
+      },
+      {
+        "item": "Forro de gesso acartonado",
+        "unidade": "m²",
+        "quantidade": 310.25,
+        "base": "medicao"
+      },
+      {
+        "item": "Piso em porcelanato natural esmaltado 80x80",
+        "unidade": "m²",
+        "quantidade": 226.8,
+        "base": "medicao"
+      },
+      {
+        "item": "Emassamento de paredes e teto com massa PVA",
+        "unidade": "m²",
+        "quantidade": 937,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura de paredes com tinta acrílica",
+        "unidade": "m²",
+        "quantidade": 635,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura de paredes externas com textura acrílica",
+        "unidade": "m²",
+        "quantidade": 478,
+        "base": "medicao"
+      },
+      {
+        "item": "Corrimão em tubo de ferro galvanizado 3\"",
+        "unidade": "ml",
+        "quantidade": 65,
+        "base": "medicao"
+      },
+      {
+        "item": "Portas corta-fogo",
+        "unidade": "und",
+        "quantidade": 6,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-metropolitano-banheiros",
+    "nome": "Hospital Metropolitano (Serra) — reforma de 38 banheiros",
+    "cliente": "Hospital Metropolitano (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Serra",
+    "bairro": "Civit II",
+    "inicio": "2021-09",
+    "fim": null,
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Banheiros reformados",
+        "unidade": "und",
+        "quantidade": 38,
+        "base": "medicao"
+      },
+      {
+        "item": "Revestimento cerâmico em parede, assentado (inclui rejunte)",
+        "unidade": "m²",
+        "quantidade": 922.26,
+        "base": "medicao"
+      },
+      {
+        "item": "Regularização de base para revestimento (3 cm)",
+        "unidade": "m²",
+        "quantidade": 798,
+        "base": "medicao"
+      },
+      {
+        "item": "Revestimento cerâmico em piso, assentado",
+        "unidade": "m²",
+        "quantidade": 171,
+        "base": "medicao"
+      },
+      {
+        "item": "Demolição de revestimento cerâmico de paredes",
+        "unidade": "m²",
+        "quantidade": 1468.8,
+        "base": "medicao"
+      },
+      {
+        "item": "Demolição de piso cerâmico",
+        "unidade": "m²",
+        "quantidade": 219.6,
+        "base": "medicao"
+      },
+      {
+        "item": "Rodapé 10 cm branco Itaúnas",
+        "unidade": "m",
+        "quantidade": 248.52,
+        "base": "medicao"
+      },
+      {
+        "item": "Divisórias em granito 0,60x1,80",
+        "unidade": "und",
+        "quantidade": 38,
+        "base": "medicao"
+      },
+      {
+        "item": "Pias em granito com cuba",
+        "unidade": "und",
+        "quantidade": 38,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-luiz-aditivos-coleta-eletrica-marquise",
+    "nome": "Hospital São Luiz — reforma da nova sala de coleta, forro da marquise e nova rede elétrica das enfermarias",
+    "cliente": "Hospital São Luiz (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Ibes",
+    "inicio": "2021-07",
+    "fim": "2021-08",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "hospital-sao-luiz-enfermarias",
+    "nome": "Hospital São Luiz — adequação das enfermarias (novos leitos) e reforma do consultório 3",
+    "cliente": "Hospital São Luiz (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Ibes",
+    "inicio": "2021-05",
+    "fim": "2021-08",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Pintura acrílica acetinada de paredes (alvenaria/gesso) — item 3.6",
+        "unidade": "m²",
+        "quantidade": 174.98,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura acrílica acetinada de paredes — item 5.18 (segundo bloco)",
+        "unidade": "m²",
+        "quantidade": 174.98,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura de tetos (quarto e banheiro)",
+        "unidade": "m²",
+        "quantidade": 68.75,
+        "base": "medicao"
+      },
+      {
+        "item": "Porcelanato White Plain Lux 30x60 (paredes dos banheiros)",
+        "unidade": "m²",
+        "quantidade": 95.33,
+        "base": "medicao"
+      },
+      {
+        "item": "Porcelanato 60x60 retificado (piso dos banheiros)",
+        "unidade": "m²",
+        "quantidade": 11.46,
+        "base": "medicao"
+      },
+      {
+        "item": "Porcelanato Bianco Plus 80x80 (quarto)",
+        "unidade": "m²",
+        "quantidade": 20,
+        "base": "medicao"
+      },
+      {
+        "item": "Impermeabilização com manta asfáltica 4 mm (banheiros)",
+        "unidade": "m²",
+        "quantidade": 30,
+        "base": "medicao"
+      },
+      {
+        "item": "Banheiros completos construídos",
+        "unidade": "und",
+        "quantidade": 5,
+        "base": "medicao"
+      },
+      {
+        "item": "Lavatórios suspensos Deca Vogue Plus com pontos hidráulicos",
+        "unidade": "und",
+        "quantidade": 10,
+        "base": "medicao"
+      },
+      {
+        "item": "Pontos de tomada 2P+T (quartos)",
+        "unidade": "pt",
+        "quantidade": 30,
+        "base": "medicao"
+      },
+      {
+        "item": "Janelas de correr em alumínio",
+        "unidade": "und",
+        "quantidade": 5,
+        "base": "medicao"
+      },
+      {
+        "item": "Básculas maxim-ar em alumínio (banheiros)",
+        "unidade": "und",
+        "quantidade": 5,
+        "base": "medicao"
+      },
+      {
+        "item": "Remanejamento de aparelhos de ar split",
+        "unidade": "und",
+        "quantidade": 5,
+        "base": "medicao"
+      },
+      {
+        "item": "Limpeza final da obra (área)",
+        "unidade": "m²",
+        "quantidade": 150,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-luiz-sala-de-oftalmologia",
+    "nome": "Hospital São Luiz — reforma da sala (consultório) de oftalmologia",
+    "cliente": "Hospital São Luiz (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Ibes",
+    "inicio": null,
+    "fim": "2021-08",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Pintura látex PVA em paredes e forros (3 demãos)",
+        "unidade": "m²",
+        "quantidade": 96.88,
+        "base": "contrato"
+      },
+      {
+        "item": "Lixamento de parede com pintura antiga",
+        "unidade": "m²",
+        "quantidade": 50.4,
+        "base": "contrato"
+      },
+      {
+        "item": "Assentamento de porcelanato (meia parede)",
+        "unidade": "m²",
+        "quantidade": 42,
+        "base": "contrato"
+      },
+      {
+        "item": "Perfil U de alumínio branco",
+        "unidade": "ml",
+        "quantidade": 33.6,
+        "base": "contrato"
+      },
+      {
+        "item": "Emassamento de parede de gesso (2 demãos PVA)",
+        "unidade": "m²",
+        "quantidade": 24.96,
+        "base": "contrato"
+      },
+      {
+        "item": "Pontos de tomada 2P+T",
+        "unidade": "pt",
+        "quantidade": 10,
+        "base": "contrato"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-luiz-setor-de-imagem",
+    "nome": "Hospital São Luiz — reforma do Setor de Imagem (raio-X, tomografia e ultrassom)",
+    "cliente": "Hospital São Luiz (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Ibes",
+    "inicio": "2021-06",
+    "fim": "2021-08",
+    "status": "concluida",
+    "area_m2": 150.74,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Argamassa baritada na sala de RX (altura até 2,20 m)",
+        "unidade": "m³",
+        "quantidade": 1.8,
+        "base": "medicao"
+      },
+      {
+        "item": "Divisórias em drywall ST/ST 11,5 cm",
+        "unidade": "m²",
+        "quantidade": 132,
+        "base": "medicao"
+      },
+      {
+        "item": "Divisórias em drywall ST/cimentícia 11,5 cm",
+        "unidade": "m²",
+        "quantidade": 46.5,
+        "base": "medicao"
+      },
+      {
+        "item": "Divisórias em drywall ST/RU 11,5 cm",
+        "unidade": "m²",
+        "quantidade": 42,
+        "base": "medicao"
+      },
+      {
+        "item": "Reforço geral e enchimento acústico das paredes de drywall",
+        "unidade": "m²",
+        "quantidade": 220.5,
+        "base": "medicao"
+      },
+      {
+        "item": "Demolição de piso e contrapiso existentes",
+        "unidade": "m²",
+        "quantidade": 150.71,
+        "base": "medicao"
+      },
+      {
+        "item": "Contrapiso / regularização de piso",
+        "unidade": "m²",
+        "quantidade": 150.71,
+        "base": "medicao"
+      },
+      {
+        "item": "Forro de gesso acartonado",
+        "unidade": "m²",
+        "quantidade": 133.91,
+        "base": "medicao"
+      },
+      {
+        "item": "Porcelanato de piso 90x90 Palazzo Travertino com rodapé",
+        "unidade": "m²",
+        "quantidade": 85.18,
+        "base": "medicao"
+      },
+      {
+        "item": "Piso vinílico Tarkett 4004 com rodapés curvos",
+        "unidade": "m²",
+        "quantidade": 60.59,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura acrílica acetinada (paredes)",
+        "unidade": "m²",
+        "quantidade": 540,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura PVA tetos",
+        "unidade": "m²",
+        "quantidade": 170,
+        "base": "medicao"
+      },
+      {
+        "item": "Tapume",
+        "unidade": "m²",
+        "quantidade": 42,
+        "base": "medicao"
+      },
+      {
+        "item": "Portas de madeira (2 de correr 120 cm, 4 de abrir 70 cm, 1 chumbada 160 cm)",
+        "unidade": "und",
+        "quantidade": 7,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-francisco-fachada",
+    "nome": "Hospital São Francisco de Assis (Cariacica) — reforma da fachada, rampas acessíveis e sala dos compressores",
+    "cliente": "Hospital São Francisco de Assis",
+    "tipo": "institucional",
+    "cidade": "Cariacica",
+    "bairro": "Campo Grande",
+    "inicio": "2021-05",
+    "fim": "2021-07",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": true,
+    "quantitativos": [
+      {
+        "item": "Pintura acrílica da fachada principal (cor preta)",
+        "unidade": "m²",
+        "quantidade": 246.25,
+        "base": "medicao"
+      },
+      {
+        "item": "Lavagem e pintura acrílica dos fundos (cor cinza)",
+        "unidade": "m²",
+        "quantidade": 191.4,
+        "base": "medicao"
+      },
+      {
+        "item": "Porcelanato 1,00x1,00 cimento queimado (fachada 28,00 + compressores 53,00)",
+        "unidade": "m²",
+        "quantidade": 81,
+        "base": "medicao"
+      },
+      {
+        "item": "Paredes/revestimento em placas cimentícias sobre steel frame galvanizado",
+        "unidade": "m²",
+        "quantidade": 93.05,
+        "base": "medicao"
+      },
+      {
+        "item": "Corrimão em tubo de ferro galvanizado 3''",
+        "unidade": "m",
+        "quantidade": 25.2,
+        "base": "medicao"
+      },
+      {
+        "item": "Concreto Fck=30 MPa (viga pele de vidro 5,00 + radier rampa 10,00)",
+        "unidade": "m³",
+        "quantidade": 15,
+        "base": "medicao"
+      },
+      {
+        "item": "Armadura CA-50/CA-60 (viga 103,62 + radier 427,05)",
+        "unidade": "kg",
+        "quantidade": 530.67,
+        "base": "medicao"
+      },
+      {
+        "item": "Laje pré-fabricada treliçada (rampa dos fundos)",
+        "unidade": "m²",
+        "quantidade": 36.8,
+        "base": "medicao"
+      },
+      {
+        "item": "Estrutura metálica em perfis formados a frio (ampliação de parede frontal 5,0 x 1,50 m)",
+        "unidade": "kg",
+        "quantidade": 75,
+        "base": "medicao"
+      },
+      {
+        "item": "Alvenaria de blocos de concreto 14 cm (rampa)",
+        "unidade": "m²",
+        "quantidade": 25,
+        "base": "medicao"
+      },
+      {
+        "item": "Rampa de acesso ao prédio (radier 23 x 1,60 m)",
+        "unidade": "m",
+        "quantidade": 23,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-luiz-fachada",
+    "nome": "Hospital São Luiz — reforma da fachada",
+    "cliente": "Hospital São Luiz (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Ibes",
+    "inicio": "2021-04",
+    "fim": "2021-07",
+    "status": "concluida",
+    "area_m2": 335.42,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Pintura de paredes da fachada com tinta acrílica",
+        "unidade": "m²",
+        "quantidade": 335.42,
+        "base": "medicao"
+      },
+      {
+        "item": "Retirada de pastilhas com som cavo",
+        "unidade": "m²",
+        "quantidade": 320.42,
+        "base": "medicao"
+      },
+      {
+        "item": "Regularização de parede de alvenaria com argamassa",
+        "unidade": "m²",
+        "quantidade": 320.42,
+        "base": "medicao"
+      },
+      {
+        "item": "Impermeabilização com manta asfáltica 4 mm (laje da entrada)",
+        "unidade": "m²",
+        "quantidade": 60,
+        "base": "medicao"
+      },
+      {
+        "item": "Retirada de placas de granito do barrado",
+        "unidade": "m²",
+        "quantidade": 33,
+        "base": "medicao"
+      },
+      {
+        "item": "Chapisco e reboco paulista",
+        "unidade": "m²",
+        "quantidade": 25,
+        "base": "medicao"
+      },
+      {
+        "item": "Retirada de caixas de ar-condicionado ACJ",
+        "unidade": "und",
+        "quantidade": 5,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "praia-tenis-clube-ti",
+    "nome": "Kora Saúde — sede administrativa (Praia Tênis Clube): reforma do setor de TI",
+    "cliente": "Hospital Meridional (Grupo Kora Saúde)",
+    "tipo": "comercial",
+    "cidade": "Vitória",
+    "bairro": null,
+    "inicio": "2021-07",
+    "fim": null,
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Fechamento em drywall com isolamento acústico (TI)",
+        "unidade": "m²",
+        "quantidade": 33,
+        "base": "documento"
+      },
+      {
+        "item": "Fechamento em placa cimentícia (TI)",
+        "unidade": "m²",
+        "quantidade": 12,
+        "base": "documento"
+      },
+      {
+        "item": "Porcelanato 60x60 cm (TI)",
+        "unidade": "m²",
+        "quantidade": 32,
+        "base": "documento"
+      },
+      {
+        "item": "Pontos elétricos (TI)",
+        "unidade": "und",
+        "quantidade": 76,
+        "base": "documento"
+      },
+      {
+        "item": "Luminárias (TI)",
+        "unidade": "und",
+        "quantidade": 19,
+        "base": "documento"
+      },
+      {
+        "item": "Pintura de parede (TI)",
+        "unidade": "m²",
+        "quantidade": 236,
+        "base": "documento"
+      },
+      {
+        "item": "Telhado em estrutura metálica com telhas termoacústicas (TI)",
+        "unidade": "m²",
+        "quantidade": 18,
+        "base": "documento"
+      },
+      {
+        "item": "Demolição de alvenaria em blocos cerâmicos",
+        "unidade": "m²",
+        "quantidade": 38,
+        "base": "documento"
+      },
+      {
+        "item": "Área do projeto (Diretoria + TI, planilha de cotação)",
+        "unidade": "m²",
+        "quantidade": 580,
+        "base": "documento"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-francisco-sala-coleta",
+    "nome": "Hospital São Francisco de Assis (Cariacica) — reforma da sala de coleta",
+    "cliente": "Hospital São Francisco de Assis",
+    "tipo": "institucional",
+    "cidade": "Cariacica",
+    "bairro": "Campo Grande",
+    "inicio": null,
+    "fim": "2021-06",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Pontos elétricos padrão (tomada/iluminação)",
+        "unidade": "pt",
+        "quantidade": 30,
+        "base": "medicao"
+      },
+      {
+        "item": "Porcelanato 60x60",
+        "unidade": "m²",
+        "quantidade": 4,
+        "base": "medicao"
+      },
+      {
+        "item": "Soleira em granito branco Itaúnas",
+        "unidade": "m",
+        "quantidade": 4,
+        "base": "medicao"
+      },
+      {
+        "item": "Lavatórios com coluna Deca Vogue Plus completos",
+        "unidade": "und",
+        "quantidade": 2,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "hospital-sao-luiz-infiltracao-banheiros",
+    "nome": "Hospital São Luiz — eliminação de infiltração nos banheiros dos quartos 214/215",
+    "cliente": "Hospital São Luiz (Grupo Kora Saúde)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Ibes",
+    "inicio": null,
+    "fim": "2021-06",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Impermeabilização com manta asfáltica 4 mm",
+        "unidade": "m²",
+        "quantidade": 10,
+        "base": "documento"
+      },
+      {
+        "item": "Demolição de revestimento com azulejos / retirada de reboco antigo",
+        "unidade": "m²",
+        "quantidade": 12.76,
+        "base": "documento"
+      },
+      {
+        "item": "Assentamento de porcelanato no piso",
+        "unidade": "m²",
+        "quantidade": 12.76,
+        "base": "documento"
+      },
+      {
+        "item": "Recuperação estrutural (escarificação, tratamento de armadura e recomposição com grout)",
+        "unidade": "m²",
+        "quantidade": 2.88,
+        "base": "documento"
+      },
+      {
+        "item": "Recuperação de teto em gesso placa",
+        "unidade": "m²",
+        "quantidade": 2.88,
+        "base": "documento"
+      }
+    ]
+  },
+  {
+    "slug": "ed-lion-dor-estrutura-metalica",
+    "nome": "Ed. Lion D'Or — remoção de cobertura em estrutura metálica e policarbonato da portaria",
+    "cliente": "Condomínio do Edifício Lion D'Or",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Santa Helena",
+    "inicio": "2021-02",
+    "fim": "2021-02",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "padaria-artezanal",
+    "nome": "Padaria Artezanal (Jardim Camburi) — reforma geral da loja, recuperação estrutural e pintura",
+    "cliente": "Padaria Artezanal",
+    "tipo": "comercial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2021-01",
+    "fim": null,
+    "status": "concluida",
+    "area_m2": 300,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Porcelanato 80x80 (entrada 41,40 + banheiro 8,50)",
+        "unidade": "m²",
+        "quantidade": 49.9,
+        "base": "contrato"
+      },
+      {
+        "item": "Porcelanato 62,5x62,5 (banheiro feminino)",
+        "unidade": "m²",
+        "quantidade": 43.9,
+        "base": "contrato"
+      },
+      {
+        "item": "Pintura acrílica/látex (soma dos itens de pintura do contrato)",
+        "unidade": "m²",
+        "quantidade": 478.9,
+        "base": "contrato"
+      },
+      {
+        "item": "Recuperação de trincas e fissuras com selatrinca",
+        "unidade": "m²",
+        "quantidade": 114.9,
+        "base": "contrato"
+      },
+      {
+        "item": "Reboco paulista novo",
+        "unidade": "m²",
+        "quantidade": 45.65,
+        "base": "contrato"
+      },
+      {
+        "item": "Impermeabilização com manta asfáltica (laje, aditivo)",
+        "unidade": "m²",
+        "quantidade": 56.42,
+        "base": "contrato"
+      },
+      {
+        "item": "Impermeabilização com manta asfáltica (caixa d'água)",
+        "unidade": "m²",
+        "quantidade": 9.5,
+        "base": "contrato"
+      },
+      {
+        "item": "Forro de gesso acartonado (placas 1,20x1,80)",
+        "unidade": "placas",
+        "quantidade": 20,
+        "base": "contrato"
+      },
+      {
+        "item": "Piso cimentado camurçado (calçada 17,78 + corredor 25,00, aditivo)",
+        "unidade": "m²",
+        "quantidade": 42.78,
+        "base": "documento"
+      },
+      {
+        "item": "Remoção de entulho",
+        "unidade": "m³",
+        "quantidade": 21,
+        "base": "contrato"
+      }
+    ]
+  },
+  {
+    "slug": "kuruma-estacionamento",
+    "nome": "Kurumá Veículos (Vitória) — pavimentação do estacionamento em pavi-s, muro, gradil e rampa acessível",
+    "cliente": "Kurumá Veículos",
+    "tipo": "comercial",
+    "cidade": "Vitória",
+    "bairro": "Santa Luíza",
+    "inicio": "2020-06",
+    "fim": "2020-07",
+    "status": "concluida",
+    "area_m2": 300,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Pavimentação em blocos pré-moldados de concreto tipo pavi-s e=6 cm (35 MPa) sobre pó de pedra 10 cm",
+        "unidade": "m²",
+        "quantidade": 286.14,
+        "base": "contrato"
+      },
+      {
+        "item": "Gradil Nylofor 3D em painel de aço galvanizado H=2,03 m",
+        "unidade": "m",
+        "quantidade": 33.26,
+        "base": "contrato"
+      },
+      {
+        "item": "Alvenaria de blocos de concreto 9 cm (muro)",
+        "unidade": "m²",
+        "quantidade": 22,
+        "base": "contrato"
+      },
+      {
+        "item": "Chapisco + reboco paulista (muro, duas faces)",
+        "unidade": "m²",
+        "quantidade": 44,
+        "base": "contrato"
+      },
+      {
+        "item": "Pintura acrílica (muro)",
+        "unidade": "m²",
+        "quantidade": 44,
+        "base": "contrato"
+      },
+      {
+        "item": "Fôrma de tábua para fundações",
+        "unidade": "m²",
+        "quantidade": 51.89,
+        "base": "contrato"
+      },
+      {
+        "item": "Concreto Fck=25 MPa (fundação 5,10 m³ + rampa 1,00 m³)",
+        "unidade": "m³",
+        "quantidade": 6.1,
+        "base": "contrato"
+      },
+      {
+        "item": "Armadura CA-50",
+        "unidade": "kg",
+        "quantidade": 194.64,
+        "base": "contrato"
+      },
+      {
+        "item": "Demolição de piso cimentado (recuperação de calçada)",
+        "unidade": "m²",
+        "quantidade": 29.3,
+        "base": "contrato"
+      },
+      {
+        "item": "Piso cimentado camurçado (calçada)",
+        "unidade": "m²",
+        "quantidade": 25,
+        "base": "contrato"
+      },
+      {
+        "item": "Retirada de meio-fio existente",
+        "unidade": "m",
+        "quantidade": 35.5,
+        "base": "contrato"
+      }
+    ]
+  },
+  {
+    "slug": "ed-solar-do-atlantico",
+    "nome": "Ed. Solar do Atlântico — revitalização da fachada frontal (granito → porcelanato)",
+    "cliente": "Condomínio do Edifício Solar do Atlântico",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim da Penha",
+    "inicio": "2019-11",
+    "fim": "2020-06",
+    "status": "concluida",
+    "area_m2": 175.75,
+    "destaque": true,
+    "quantitativos": [
+      {
+        "item": "Fachada — assentamento de porcelanato (mão de obra)",
+        "unidade": "m²",
+        "quantidade": 175.75,
+        "base": "contrato"
+      },
+      {
+        "item": "Remoção de granito da fachada",
+        "unidade": "m²",
+        "quantidade": 175.75,
+        "base": "contrato"
+      },
+      {
+        "item": "Regularização de argamassa na fachada",
+        "unidade": "m²",
+        "quantidade": 175.75,
+        "base": "contrato"
+      },
+      {
+        "item": "Aditivo — retirada de reboco solto / chapisco / reboco",
+        "unidade": "m²",
+        "quantidade": 55,
+        "base": "contrato"
+      },
+      {
+        "item": "Aditivo — escarificação de concreto afetado (vigas)",
+        "unidade": "m²",
+        "quantidade": 7,
+        "base": "contrato"
+      },
+      {
+        "item": "Aditivo — pontos de ancoragem em aço inox",
+        "unidade": "und",
+        "quantidade": 20,
+        "base": "contrato"
+      }
+    ]
+  },
+  {
+    "slug": "ed-praia-das-gaivotas",
+    "nome": "Cond. Praia das Gaivotas II C — laudo técnico para padronização de ar-condicionado split",
+    "cliente": "Condomínio do Conjunto Residencial Praia das Gaivotas II C",
+    "tipo": "laudo-pericia",
+    "cidade": "Vila Velha",
+    "bairro": "Praia das Gaivotas",
+    "inicio": "2020-01",
+    "fim": "2020-05",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Unidades habitacionais abrangidas pelo laudo",
+        "unidade": "apartamentos",
+        "quantidade": 96,
+        "base": "documento"
+      },
+      {
+        "item": "Edifícios de 4 pavimentos",
+        "unidade": "edifícios",
+        "quantidade": 6,
+        "base": "documento"
+      },
+      {
+        "item": "Páginas do laudo entregue",
+        "unidade": "páginas",
+        "quantidade": 36,
+        "base": "documento"
+      }
+    ]
+  },
+  {
+    "slug": "escola-vasco-coutinho",
+    "nome": "CEET Vasco Coutinho (Vila Velha) — reforma do Laboratório de Gastronomia",
+    "cliente": "CEET Vasco Coutinho (SEDU/ES)",
+    "tipo": "institucional",
+    "cidade": "Vila Velha",
+    "bairro": "Centro",
+    "inicio": null,
+    "fim": "2020-02",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "ed-villa-toscana-piscina",
+    "nome": "Ed. Villa Toscana — reforma da piscina (impermeabilização e revestimento)",
+    "cliente": "Condomínio do Edifício Villa Toscana",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim da Penha",
+    "inicio": "2019-07",
+    "fim": "2019-10",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "noroeste-centro-calcada-laudo",
+    "nome": "Supermercado Noroeste (Nova Almeida Centro) — laudo de conformidade de calçada (calçada legal)",
+    "cliente": "ALM Supermercados (Supermercados Noroeste)",
+    "tipo": "laudo-pericia",
+    "cidade": "Serra",
+    "bairro": "Nova Almeida Centro",
+    "inicio": "2019-09",
+    "fim": "2019-10",
+    "status": "concluida",
+    "area_m2": 51.38,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Calçada avaliada",
+        "unidade": "m²",
+        "quantidade": 51.38,
+        "base": "documento"
+      }
+    ]
+  },
+  {
+    "slug": "ed-laguna-cobertura-lixo",
+    "nome": "Ed. Laguna — cobertura metálica para área de coleta de lixo",
+    "cliente": "Condomínio do Edifício Laguna",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2019-08",
+    "fim": "2019-08",
+    "status": "concluida",
+    "area_m2": 20,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "ed-monte-castelo",
+    "nome": "Ed. Monte Castelo — lavagem, recuperação de trincas e pintura das fachadas laterais",
+    "cliente": "Condomínio do Edifício Monte Castelo",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2019-05",
+    "fim": "2019-08",
+    "status": "concluida",
+    "area_m2": 1506.5,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Pintura acrílica de paredes externas (2 demãos)",
+        "unidade": "m²",
+        "quantidade": 1506.5,
+        "base": "contrato"
+      },
+      {
+        "item": "Lavagem de paredes com alta pressão",
+        "unidade": "m²",
+        "quantidade": 1506.5,
+        "base": "contrato"
+      },
+      {
+        "item": "Recuperação de superfície com trincas (argamassa)",
+        "unidade": "m²",
+        "quantidade": 753.5,
+        "base": "contrato"
+      },
+      {
+        "item": "Emassamento das áreas recuperadas (massa acrílica)",
+        "unidade": "m²",
+        "quantidade": 753.5,
+        "base": "contrato"
+      },
+      {
+        "item": "Textura acrílica das áreas recuperadas",
+        "unidade": "m²",
+        "quantidade": 753.5,
+        "base": "contrato"
+      },
+      {
+        "item": "Instalação de tela fachadeira",
+        "unidade": "m²",
+        "quantidade": 700,
+        "base": "contrato"
+      }
+    ]
+  },
+  {
+    "slug": "ed-villa-toscana",
+    "nome": "Ed. Villa Toscana — lavagem e pintura de fachadas, calçada cidadã e rejuntamento da piscina",
+    "cliente": "Condomínio do Edifício Villa Toscana",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim da Penha",
+    "inicio": "2019-04",
+    "fim": null,
+    "status": "concluida",
+    "area_m2": 3665.2,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "ed-laguna-manta-telhado",
+    "nome": "Ed. Laguna — substituição de rufo com manta asfáltica e restauração do telhado",
+    "cliente": "Condomínio do Edifício Laguna",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2019-02",
+    "fim": "2019-03",
+    "status": "concluida",
+    "area_m2": 150,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "ed-laguna-cobertura-calha-calcamento",
+    "nome": "Ed. Laguna — cobertura metálica nova, calha e calçamento novo",
+    "cliente": "Condomínio do Edifício Laguna",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2018-10",
+    "fim": "2018-11",
+    "status": "concluida",
+    "area_m2": 25.6,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Estrutura metálica para cobertura (perfis formados a frio ASTM A-570/A-36)",
+        "unidade": "kg",
+        "quantidade": 173.22,
+        "base": "medicao"
+      },
+      {
+        "item": "Cobertura nova em telhas onduladas de fibrocimento 6 mm",
+        "unidade": "m2",
+        "quantidade": 25.6,
+        "base": "medicao"
+      },
+      {
+        "item": "Calçamento novo em blocos Pavi S e=8 cm (usado)",
+        "unidade": "m2",
+        "quantidade": 26,
+        "base": "medicao"
+      },
+      {
+        "item": "Impermeabilização com manta asfáltica 3 mm",
+        "unidade": "m2",
+        "quantidade": 11.38,
+        "base": "medicao"
+      },
+      {
+        "item": "Calha em chapa zincalume e=0,43 mm (desenvolvimento 80 cm)",
+        "unidade": "m",
+        "quantidade": 6,
+        "base": "medicao"
+      },
+      {
+        "item": "Escavação manual até 1,50 m",
+        "unidade": "m3",
+        "quantidade": 4.9,
+        "base": "medicao"
+      },
+      {
+        "item": "Concreto Fck 20 MPa (bases dos pilares)",
+        "unidade": "m3",
+        "quantidade": 0.4,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "ed-laguna-pintura-garagem",
+    "nome": "Ed. Laguna — pintura e restauração de trincas da garagem e bicicletário",
+    "cliente": "Condomínio do Edifício Laguna",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2018-10",
+    "fim": "2018-11",
+    "status": "concluida",
+    "area_m2": null,
+    "destaque": false,
+    "quantitativos": []
+  },
+  {
+    "slug": "ed-laguna-calcamento-chapim-pintura",
+    "nome": "Ed. Laguna — reforma do calçamento, chapim de granito e pintura de muro",
+    "cliente": "Condomínio do Edifício Laguna",
+    "tipo": "residencial",
+    "cidade": "Vitória",
+    "bairro": "Jardim Camburi",
+    "inicio": "2018-07",
+    "fim": "2018-09",
+    "status": "concluida",
+    "area_m2": 750,
+    "destaque": false,
+    "quantitativos": [
+      {
+        "item": "Retirada e recolocação manual de blocos Pavi S (calçamento)",
+        "unidade": "m2",
+        "quantidade": 612.13,
+        "base": "medicao"
+      },
+      {
+        "item": "Chapim de granito cinza andorinha 20 cm e=2cm",
+        "unidade": "m2",
+        "quantidade": 86,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura acrílica em paredes (muro) a duas demãos",
+        "unidade": "m2",
+        "quantidade": 382,
+        "base": "medicao"
+      },
+      {
+        "item": "Escavação / remoção de solo borrachudo",
+        "unidade": "m3",
+        "quantidade": 29.56,
+        "base": "medicao"
+      },
+      {
+        "item": "Brita graduada (substituição do solo)",
+        "unidade": "m3",
+        "quantidade": 29.56,
+        "base": "medicao"
+      },
+      {
+        "item": "Pó de pedra",
+        "unidade": "m3",
+        "quantidade": 30,
+        "base": "medicao"
+      },
+      {
+        "item": "Emassamento e textura acrílica (muro)",
+        "unidade": "m2",
+        "quantidade": 29.5,
+        "base": "medicao"
+      },
+      {
+        "item": "Tubo PVC esgoto 100 mm e 150 mm (drenagem)",
+        "unidade": "m",
+        "quantidade": 35.5,
+        "base": "medicao"
+      },
+      {
+        "item": "Limpeza geral da obra",
+        "unidade": "m2",
+        "quantidade": 612.13,
+        "base": "medicao"
+      }
+    ]
+  },
+  {
+    "slug": "cafeteria-choperia-aeroporto",
+    "nome": "Cafeteria e Choperia do Mestre — Aeroporto de Vitória (construção de praça de alimentação e quiosques)",
+    "cliente": "Cafeteria e Choperia do Mestre",
+    "tipo": "comercial",
+    "cidade": "Vitória",
+    "bairro": "Aeroporto",
+    "inicio": "2018-05",
+    "fim": "2018-06",
+    "status": "concluida",
+    "area_m2": 210,
+    "destaque": true,
+    "quantitativos": [
+      {
+        "item": "Piso quartzito Avohai e=3 cm, instalação (piso fornecido pelo cliente)",
+        "unidade": "m²",
+        "quantidade": 195,
+        "base": "medicao"
+      },
+      {
+        "item": "Execução de rejunte do piso",
+        "unidade": "m²",
+        "quantidade": 195,
+        "base": "medicao"
+      },
+      {
+        "item": "Limpeza geral da obra e retirada do tapume (área da obra)",
+        "unidade": "m²",
+        "quantidade": 210,
+        "base": "medicao"
+      },
+      {
+        "item": "Tapume de madeirite móvel h=2,20 m",
+        "unidade": "m",
+        "quantidade": 76,
+        "base": "medicao"
+      },
+      {
+        "item": "Demolição de piso em granito existente, inclusive contrapiso (contrato)",
+        "unidade": "m²",
+        "quantidade": 22,
+        "base": "medicao"
+      },
+      {
+        "item": "Demolição de piso em granito existente (1º aditivo, serviços diversos)",
+        "unidade": "m²",
+        "quantidade": 15.54,
+        "base": "medicao"
+      },
+      {
+        "item": "Pontos elétricos executados (124 previstos + 93 acrescidos)",
+        "unidade": "pontos",
+        "quantidade": 217,
+        "base": "medicao"
+      },
+      {
+        "item": "Cabo de cobre 1000 V, 50 mm²",
+        "unidade": "m",
+        "quantidade": 400,
+        "base": "medicao"
+      },
+      {
+        "item": "Fio de cobre 750 V, 2,5 mm²",
+        "unidade": "m",
+        "quantidade": 700,
+        "base": "medicao"
+      },
+      {
+        "item": "Quadros de distribuição (34 e 44 disjuntores DIN, barramento trifásico 150 A)",
+        "unidade": "und",
+        "quantidade": 2,
+        "base": "medicao"
+      },
+      {
+        "item": "Parede de gesso acartonado (drywall) — sala de escritório",
+        "unidade": "m²",
+        "quantidade": 11.4,
+        "base": "medicao"
+      },
+      {
+        "item": "Forro de gesso acartonado — sala de escritório",
+        "unidade": "m²",
+        "quantidade": 12.16,
+        "base": "medicao"
+      },
+      {
+        "item": "Pintura látex acrílica em paredes — sala de escritório",
+        "unidade": "m²",
+        "quantidade": 61.2,
+        "base": "medicao"
+      },
+      {
+        "item": "Piso quartzito Avohai — sala de escritório (aditivo)",
+        "unidade": "m²",
+        "quantidade": 12.16,
+        "base": "medicao"
+      },
+      {
+        "item": "Remoção de entulho",
+        "unidade": "m³",
+        "quantidade": 5,
+        "base": "medicao"
+      }
+    ]
+  }
+]

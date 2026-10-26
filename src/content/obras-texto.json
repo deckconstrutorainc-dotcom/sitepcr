@@ -1,0 +1,838 @@
+{
+  "galpao-comercial-nova-almeida": {
+    "titulo": {
+      "pt": "Galpão em Nova Almeida: construção em 2 pavimentos",
+      "en": "Warehouse in Nova Almeida: two-storey construction"
+    },
+    "resumo": {
+      "pt": "Construção de galpão comercial de 371 m² em 2 pavimentos, em andamento, com responsabilidade técnica da PCR pela execução.",
+      "en": "Construction of a 371 m² two-storey commercial warehouse, in progress, with PCR as technical lead for the works."
+    },
+    "escopo": {
+      "pt": "Responsabilidade técnica pela execução de galpão comercial de 371 m² com 2 pavimentos, registrado como edificação comercial, armazém e estrutura metálica. Obra iniciada em junho de 2025, em andamento.",
+      "en": "Technical responsibility for building a 371 m² two-storey commercial warehouse, registered as commercial building, warehouse and steel structure work. Work started in June 2025 and is in progress."
+    },
+    "local": {
+      "pt": "Nova Almeida Centro, Serra",
+      "en": "Nova Almeida Centro, Serra"
+    },
+    "alt": {
+      "pt": "Galpão comercial em construção em Nova Almeida, Serra",
+      "en": "Commercial warehouse under construction in Nova Almeida, Serra"
+    }
+  },
+  "ed-nahum-prado": {
+    "titulo": {
+      "pt": "Ed. Nahum Prado: reforma das fachadas",
+      "en": "Nahum Prado Building: facade renovation"
+    },
+    "resumo": {
+      "pt": "Reforma das fachadas de edifício de 9 pavimentos, com 1.558 m² de novo revestimento em pastilha cerâmica na fachada frontal.",
+      "en": "Facade renovation of a 9-storey building, including 1,558 m² of new ceramic mosaic tiles on the front facade."
+    },
+    "escopo": {
+      "pt": "Na fachada frontal, demolição de 1.651,48 m² de revestimento cerâmico, chapisco, emboço de 25 mm e nova pastilha em quatro cores, além de 277 m de peitoris em granito e 210 m² de jardineiras impermeabilizadas. Nas laterais, hidrojateamento, recomposição de molduras em pastilha, tratamento de fissuras e pintura emborrachada em 3 demãos. Trabalho com andaime suspenso elétrico e ensaios de arrancamento.",
+      "en": "On the front facade: removal of 1,651.48 m² of ceramic cladding, scratch coat, 25 mm render and new mosaic tiles in four colours, plus 277 m of granite sills and 210 m² of waterproofed planters. On the side facades: hydroblasting, rebuilt tile mouldings, crack treatment and three coats of elastomeric paint. Work carried out from electric suspended platforms, with pull-off tests."
+    },
+    "local": {
+      "pt": "Praia do Canto, Vitória",
+      "en": "Praia do Canto, Vitória"
+    },
+    "alt": {
+      "pt": "Fachada do Ed. Nahum Prado durante a reforma, em Vitória",
+      "en": "Facade of the Nahum Prado building during renovation, Vitória"
+    }
+  },
+  "consultorio-estancia-monazitica": {
+    "titulo": {
+      "pt": "Consultório na Serra: construção de edificação comercial",
+      "en": "Medical office in Serra: commercial building construction"
+    },
+    "resumo": {
+      "pt": "Execução de edificação comercial de 148,31 m² para consultório, com atestado de conclusão de obras emitido pela prefeitura em 2024.",
+      "en": "Construction of a 148.31 m² commercial building for a medical office, with a certificate of completion issued by the municipality in 2024."
+    },
+    "escopo": {
+      "pt": "Responsabilidade técnica pela execução da edificação conforme projeto aprovado pela Prefeitura da Serra. O Atestado de Conclusão de Obras, de janeiro de 2024, confirma habitabilidade, acessibilidade e conformidade com o projeto.",
+      "en": "Technical responsibility for construction according to the design approved by the Serra municipality. The certificate of completion, issued in January 2024, confirms occupancy, accessibility and compliance with the approved design."
+    },
+    "local": {
+      "pt": "Estância Monazítica, Serra",
+      "en": "Estância Monazítica, Serra"
+    },
+    "alt": {
+      "pt": "Edificação do consultório em Estância Monazítica, Serra",
+      "en": "Medical office building in Estância Monazítica, Serra"
+    }
+  },
+  "casas-geminadas-jacaraipe-luamar": {
+    "titulo": {
+      "pt": "Condomínio Luamar: 3 casas geminadas em Jacaraípe",
+      "en": "Luamar Condominium: 3 semi-detached houses in Jacaraípe"
+    },
+    "resumo": {
+      "pt": "Incorporação e construção de três casas geminadas de dois pavimentos, com 222,91 m² de área construída e habite-se emitido.",
+      "en": "Development and construction of three two-storey semi-detached houses, totalling 222.91 m² of built area, with occupancy certificates issued."
+    },
+    "escopo": {
+      "pt": "Incorporação própria da PCR em lote de 360 m²: cada casa tem sala, cozinha, lavabo, varanda e duas suítes no segundo pavimento. Estrutura em concreto armado com radier e laje treliçada, alvenaria cerâmica, esquadrias de alumínio, porcelanato e forro de gesso. Atestado de conclusão em 2023 e certidões de habitabilidade em 2024.",
+      "en": "A PCR property development on a 360 m² plot: each house has a living room, kitchen, powder room, balcony and two en-suite bedrooms upstairs. Reinforced concrete raft foundation and lattice-joist slabs, ceramic block masonry, aluminium frames, porcelain tiles and plasterboard ceilings. Completion certified in 2023 and occupancy certificates issued in 2024."
+    },
+    "local": {
+      "pt": "São Francisco (Jacaraípe), Serra",
+      "en": "São Francisco (Jacaraípe), Serra"
+    },
+    "alt": {
+      "pt": "Casas geminadas do Condomínio Luamar em Jacaraípe, Serra",
+      "en": "Semi-detached houses at the Luamar Condominium in Jacaraípe, Serra"
+    }
+  },
+  "ed-lion-dor-reboco": {
+    "titulo": {
+      "pt": "Ed. Lion D'Or: recuperação de trincas na fachada",
+      "en": "Lion D'Or Building: facade crack repair"
+    },
+    "resumo": {
+      "pt": "Recuperação de trincas nas fachadas frontal e lateral do 9º andar, com manta telada, massa única, textura e pintura.",
+      "en": "Crack repair on the front and side facades at the 9th floor, using mesh reinforcement, render, texture coat and paint."
+    },
+    "escopo": {
+      "pt": "Retirada da textura grafiato e raspagem do reboco até a alvenaria nas fachadas lateral direita e frontal do 9º andar. Aplicação de manta telada de 1,00 m, massa única, argamassa AC3, textura e pintura, além de 6 m² de chapisco e reboco novos.",
+      "en": "Removal of the textured finish and render down to the masonry on the right-side and front facades at the 9th floor. Application of 1.00 m mesh strips, render, AC3 adhesive mortar, texture coat and paint, plus 6 m² of new scratch coat and render."
+    },
+    "local": {
+      "pt": "Santa Helena, Vitória",
+      "en": "Santa Helena, Vitória"
+    },
+    "alt": {
+      "pt": "Fachada do Ed. Lion D'Or durante a recuperação de trincas, em Vitória",
+      "en": "Facade of the Lion D'Or building during crack repair, Vitória"
+    }
+  },
+  "ed-lion-dor-fachada": {
+    "titulo": {
+      "pt": "Ed. Lion D'Or: reforma conforme inspeção predial",
+      "en": "Lion D'Or Building: renovation after building inspection"
+    },
+    "resumo": {
+      "pt": "Reforma geral indicada no laudo de inspeção predial, com lavagem e pintura de 3.735,90 m² de fachadas e laterais.",
+      "en": "Full renovation based on the building inspection report, including washing and painting of 3,735.90 m² of facades and side walls."
+    },
+    "escopo": {
+      "pt": "Empreitada global com recuperação de trincas, recuperação estrutural localizada e pintura de fachadas, garagens, rampas e áreas técnicas. Substituição de chapins de concreto por granito com pingadeira, calafetação de 372,9 m de esquadrias e juntas e impermeabilização do telhado com manta asfáltica. Executada de janeiro a agosto de 2022.",
+      "en": "Lump-sum contract covering crack repair, localised structural repair and painting of facades, garages, ramps and service areas. Concrete copings replaced with granite copings with drip edges, 372.9 m of frames and joints sealed, and roof waterproofed with asphalt membrane. Carried out from January to August 2022."
+    },
+    "local": {
+      "pt": "Santa Helena, Vitória",
+      "en": "Santa Helena, Vitória"
+    },
+    "alt": {
+      "pt": "Fachada do Ed. Lion D'Or durante a reforma, em Vitória",
+      "en": "Facade of the Lion D'Or building during renovation, Vitória"
+    }
+  },
+  "ed-lila-deck-piscina": {
+    "titulo": {
+      "pt": "Ed. Lila: borda da piscina e novo deck de madeira",
+      "en": "Lila Building: pool edge and new timber deck"
+    },
+    "resumo": {
+      "pt": "Recuperação estrutural da borda da piscina, nova borda em granito levigado de 22,5 m² e novo deck de madeira de 38,30 m².",
+      "en": "Structural repair of the pool edge, a new 22.5 m² honed granite coping and a new 38.30 m² timber deck."
+    },
+    "escopo": {
+      "pt": "Retirada do deck e da borda existentes, recuperação do concreto da borda com tratamento das armaduras e recomposição com graute, seguida de chapisco e reboco. Assentamento de borda em granito levigado vermelho Brasília com rejunte PU e verniz no deck existente (57,78 m²). Por aditivo, construção de novo deck em madeira com caibros.",
+      "en": "Removal of the existing deck and edge, repair of the concrete edge with rebar treatment and grout, followed by scratch coat and render. Installation of honed Vermelho Brasília granite coping with PU grout, and varnishing of the existing deck (57.78 m²). Under a contract addendum, a new timber deck was built on joists."
+    },
+    "local": {
+      "pt": "Praia do Canto, Vitória",
+      "en": "Praia do Canto, Vitória"
+    },
+    "alt": {
+      "pt": "Área da piscina do Ed. Lila, em Vitória",
+      "en": "Pool area of the Lila building, Vitória"
+    }
+  },
+  "padaria-artezanal-2a-reforma": {
+    "titulo": {
+      "pt": "Padaria Artezanal: telhado, fechamento em vidro e forro",
+      "en": "Padaria Artezanal: entrance roof, glass enclosure and ceiling"
+    },
+    "resumo": {
+      "pt": "Segunda reforma da padaria, com telhado da entrada, fechamento em vidro temperado de 10 mm e forro de PVC.",
+      "en": "Second renovation of the bakery: entrance roof, 10 mm tempered glass enclosure and PVC ceiling."
+    },
+    "escopo": {
+      "pt": "Reforma do telhado da entrada e instalação de fechamento em vidro temperado de 10 mm, com retirada e reinstalação de porta de vidro. Remanejamento de ar-condicionado split, retirada de porta de madeira e instalação de forro de PVC na cor mogno, com fornecimento de material e mão de obra.",
+      "en": "Renovation of the entrance roof and installation of a 10 mm tempered glass enclosure, with the glass door removed and refitted. Split air-conditioner relocated, timber door removed and a mahogany-coloured PVC ceiling installed, materials and labour included."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Entrada da Padaria Artezanal em Jardim Camburi, Vitória",
+      "en": "Entrance of Padaria Artezanal in Jardim Camburi, Vitória"
+    }
+  },
+  "laudo-ginasio-anchieta": {
+    "titulo": {
+      "pt": "Ginásio Poliesportivo de Anchieta: laudo técnico",
+      "en": "Anchieta Sports Gymnasium: technical report"
+    },
+    "resumo": {
+      "pt": "Laudo técnico sobre a compatibilidade dos serviços de um atestado de capacidade técnica com as atribuições profissionais e as normas técnicas.",
+      "en": "Technical report assessing whether the services in a certificate of technical capacity match professional remits and technical standards."
+    },
+    "escopo": {
+      "pt": "Análise dos serviços listados no atestado de capacidade técnica emitido pela Prefeitura de Anchieta para a construção do Ginásio Poliesportivo. O laudo confirma a compatibilidade desses serviços com as atribuições profissionais e as normas técnicas e foi assinado em fevereiro de 2022.",
+      "en": "Review of the services listed in the certificate of technical capacity issued by the Anchieta municipality for construction of the sports gymnasium. The report confirms that those services are consistent with professional remits and technical standards, and was signed in February 2022."
+    },
+    "local": {
+      "pt": "Vila Samarco, Anchieta",
+      "en": "Vila Samarco, Anchieta"
+    },
+    "alt": {
+      "pt": "Documentação do laudo técnico do Ginásio Poliesportivo de Anchieta",
+      "en": "Technical report documents for the Anchieta Sports Gymnasium"
+    }
+  },
+  "praia-tenis-clube-diretoria-recepcao": {
+    "titulo": {
+      "pt": "Sede Kora Saúde: diretoria e recepção com catracas",
+      "en": "Kora Saúde head office: executive area and turnstile reception"
+    },
+    "resumo": {
+      "pt": "Reforma da diretoria, com 95 pontos elétricos e 54 luminárias, e construção da recepção com catracas em estrutura metálica.",
+      "en": "Renovation of the executive offices, with 95 electrical points and 54 light fittings, and construction of a steel-framed turnstile reception."
+    },
+    "escopo": {
+      "pt": "Na diretoria: fechamentos em placa cimentícia e drywall, vedação em vidro temperado, forros em gesso e mineral, porcelanato, telhado com telhas termoacústicas e portas de vidro. Na recepção: estrutura metálica com cobertura de 20 m², 33 m² de paredes em placa cimentícia, forro de gesso, elétrica e calçada em cimento polido.",
+      "en": "Executive offices: cement board and drywall partitions, tempered glass screens, plasterboard and mineral fibre ceilings, porcelain tiles, insulated roof panels and glass doors. Reception: steel structure with a 20 m² roof, 33 m² of cement board walls, plasterboard ceiling, electrical work and a polished concrete walkway."
+    },
+    "local": {
+      "pt": "Vitória",
+      "en": "Vitória"
+    },
+    "alt": {
+      "pt": "Ambiente interno da sede administrativa da Kora Saúde, em Vitória",
+      "en": "Interior of the Kora Saúde administrative head office, Vitória"
+    }
+  },
+  "hospital-meridional-cozinha": {
+    "titulo": {
+      "pt": "Hospital Meridional: reforma do piso da cozinha",
+      "en": "Hospital Meridional: kitchen floor renovation"
+    },
+    "resumo": {
+      "pt": "Substituição de 111,32 m² de piso gail na cozinha do hospital, com trabalho noturno.",
+      "en": "Replacement of 111.32 m² of Gail tile flooring in the hospital kitchen, with night-shift work."
+    },
+    "escopo": {
+      "pt": "Retirada do piso existente, raspagem de argamassa e rejunte, desengorduramento e assentamento do novo piso gail fornecido pelo hospital. Adequação de ralos e grelhas e instalação de divisórias em PVC tipo biombo, com remoção de entulho.",
+      "en": "Removal of the existing flooring, scraping of mortar and grout, degreasing and laying of new Gail tiles supplied by the hospital. Drains and gratings adjusted and PVC screen partitions installed, with debris removal."
+    },
+    "local": {
+      "pt": "Alto Lage, Cariacica",
+      "en": "Alto Lage, Cariacica"
+    },
+    "alt": {
+      "pt": "Cozinha do Hospital Meridional, em Cariacica",
+      "en": "Kitchen of Hospital Meridional, Cariacica"
+    }
+  },
+  "hospital-sao-luiz-ampliacao": {
+    "titulo": {
+      "pt": "Hospital São Luiz: ampliação em estrutura metálica",
+      "en": "Hospital São Luiz: steel-frame extension"
+    },
+    "resumo": {
+      "pt": "Ampliação para escada de emergência e elevador, com estrutura metálica de quatro pavimentos (18.013,54 kg) e vedações em steel frame.",
+      "en": "Extension for an emergency staircase and lift, with a four-storey steel structure (18,013.54 kg) and steel frame walls."
+    },
+    "escopo": {
+      "pt": "Fundação direta e fosso de elevador em concreto armado, estrutura metálica com lajes pré-moldadas e casa de máquinas. Vedações externas em steel frame com placas cimentícias, paredes internas em drywall, impermeabilização com manta asfáltica, forro de gesso, porcelanato 80x80, portas corta-fogo e instalações elétricas e hidrossanitárias.",
+      "en": "Shallow foundations and lift pit in reinforced concrete, steel structure with precast slabs and a machine room. External steel frame walls with cement boards, internal drywall partitions, asphalt membrane waterproofing, plasterboard ceilings, 80x80 porcelain tiles, fire doors, and electrical and plumbing installations."
+    },
+    "local": {
+      "pt": "Ibes, Vila Velha",
+      "en": "Ibes, Vila Velha"
+    },
+    "alt": {
+      "pt": "Ampliação do Hospital São Luiz em estrutura metálica, em Vila Velha",
+      "en": "Steel-frame extension of Hospital São Luiz, Vila Velha"
+    }
+  },
+  "hospital-metropolitano-banheiros": {
+    "titulo": {
+      "pt": "Hospital Metropolitano: reforma de 38 banheiros",
+      "en": "Hospital Metropolitano: renovation of 38 bathrooms"
+    },
+    "resumo": {
+      "pt": "Reforma de 38 banheiros, com 922,26 m² de revestimento cerâmico em paredes e 38 pias e divisórias em granito.",
+      "en": "Renovation of 38 bathrooms, with 922.26 m² of ceramic wall tiling and 38 granite vanities and partitions."
+    },
+    "escopo": {
+      "pt": "Retirada de louças e equipamentos, demolição de 1.468,80 m² de revestimento de parede e 219,60 m² de piso e regularização de base em 798 m². Assentamento de revestimento cerâmico em paredes e 171 m² de piso, rodapés, soleiras, pias com cuba e divisórias em granito, com fornecimento de material e mão de obra.",
+      "en": "Removal of fixtures, demolition of 1,468.80 m² of wall tiling and 219.60 m² of flooring, and 798 m² of substrate levelling. New ceramic wall tiling and 171 m² of floor tiles, skirting, thresholds, granite vanities with basins and granite partitions, materials and labour included."
+    },
+    "local": {
+      "pt": "Civit II, Serra",
+      "en": "Civit II, Serra"
+    },
+    "alt": {
+      "pt": "Banheiro do Hospital Metropolitano, na Serra",
+      "en": "Bathroom at Hospital Metropolitano, Serra"
+    }
+  },
+  "hospital-sao-luiz-aditivos-coleta-eletrica-marquise": {
+    "titulo": {
+      "pt": "Hospital São Luiz: sala de coleta, marquise e rede elétrica",
+      "en": "Hospital São Luiz: sample room, canopy and wiring"
+    },
+    "resumo": {
+      "pt": "Reforma da nova sala de coleta, forro da marquise e nova rede elétrica para as enfermarias do 2º e 3º pavimentos.",
+      "en": "Renovation of the new sample collection room and the entrance canopy ceiling, plus new wiring for the 2nd and 3rd floor wards."
+    },
+    "escopo": {
+      "pt": "Sala de coleta com paredes de gesso acartonado, pontos hidráulicos, iluminação LED, forro de gesso, pintura e piso em granito. Forro de gesso acartonado com massa e pintura na marquise. Nas enfermarias, circuitos de alimentação dos quadros do 2º e 3º pavimentos, infraestrutura para ar-condicionado e chuveiros e cabeamento dos leitos.",
+      "en": "Sample room with plasterboard walls, plumbing points, LED lighting, plasterboard ceiling, painting and granite flooring. Plasterboard ceiling with filler and paint on the entrance canopy. For the wards, supply circuits to the 2nd and 3rd floor distribution boards, infrastructure for air-conditioning and showers, and cabling to the beds."
+    },
+    "local": {
+      "pt": "Ibes, Vila Velha",
+      "en": "Ibes, Vila Velha"
+    },
+    "alt": {
+      "pt": "Ambiente interno do Hospital São Luiz, em Vila Velha",
+      "en": "Interior of Hospital São Luiz, Vila Velha"
+    }
+  },
+  "hospital-sao-luiz-enfermarias": {
+    "titulo": {
+      "pt": "Hospital São Luiz: adequação das enfermarias",
+      "en": "Hospital São Luiz: ward refurbishment"
+    },
+    "resumo": {
+      "pt": "Adequação das enfermarias para novos leitos, com 5 banheiros completos construídos e 10 lavatórios suspensos instalados.",
+      "en": "Ward refurbishment for new beds, including 5 complete bathrooms built and 10 wall-hung washbasins installed."
+    },
+    "escopo": {
+      "pt": "Divisão das salas com paredes de gesso acartonado com lã de rocha e paredes cimentícias nos banheiros, impermeabilização com manta asfáltica e porcelanato em paredes e pisos. Forro de gesso, portas, janelas e básculas de alumínio, pontos elétricos, luminárias LED, remanejamento de ar-condicionado split e pintura acrílica acetinada. Inclui a reforma do consultório 3.",
+      "en": "Rooms divided with plasterboard walls insulated with rock wool and cement board walls in the bathrooms, asphalt membrane waterproofing and porcelain tiles on walls and floors. Plasterboard ceilings, doors, aluminium windows and hopper vents, electrical points, LED lighting, relocated split air-conditioners and satin acrylic paint. Also includes renovation of consulting room 3."
+    },
+    "local": {
+      "pt": "Ibes, Vila Velha",
+      "en": "Ibes, Vila Velha"
+    },
+    "alt": {
+      "pt": "Enfermaria do Hospital São Luiz, em Vila Velha",
+      "en": "Ward at Hospital São Luiz, Vila Velha"
+    }
+  },
+  "hospital-sao-luiz-sala-de-oftalmologia": {
+    "titulo": {
+      "pt": "Hospital São Luiz: reforma da sala de oftalmologia",
+      "en": "Hospital São Luiz: ophthalmology room renovation"
+    },
+    "resumo": {
+      "pt": "Reforma do consultório de oftalmologia, com parede de gesso acartonado, 10 pontos de tomada e 42 m² de porcelanato em meia parede.",
+      "en": "Renovation of the ophthalmology consulting room, with a plasterboard wall, 10 power outlets and 42 m² of half-height porcelain tiling."
+    },
+    "escopo": {
+      "pt": "Parede de gesso acartonado com perfis de 70 mm e lã de vidro, fechamento de vãos de ar-condicionado e janelas com blocos cerâmicos e 3 luminárias LED 60x60. Retirada de reboco com som cavo e de rodapé de madeira, porcelanato em meia parede com perfil de alumínio, emassamento e pintura PVA.",
+      "en": "Plasterboard wall on 70 mm studs with glass wool, air-conditioner and window openings closed with ceramic blocks, and 3 LED panels (60x60). Removal of hollow-sounding render and timber skirting, half-height porcelain tiling with aluminium trim, skim coat and PVA paint."
+    },
+    "local": {
+      "pt": "Ibes, Vila Velha",
+      "en": "Ibes, Vila Velha"
+    },
+    "alt": {
+      "pt": "Consultório de oftalmologia do Hospital São Luiz, em Vila Velha",
+      "en": "Ophthalmology room at Hospital São Luiz, Vila Velha"
+    }
+  },
+  "hospital-sao-luiz-setor-de-imagem": {
+    "titulo": {
+      "pt": "Hospital São Luiz: reforma do setor de imagem",
+      "en": "Hospital São Luiz: imaging department renovation"
+    },
+    "resumo": {
+      "pt": "Reforma de 150,74 m² do setor de imagem, com salas de raio-X, tomografia e ultrassom e argamassa baritada na sala de raio-X.",
+      "en": "Renovation of the 150.74 m² imaging department, covering X-ray, CT and ultrasound rooms, with barium plaster in the X-ray room."
+    },
+    "escopo": {
+      "pt": "Demolição de pisos e contrapiso, novas divisórias em drywall com enchimento acústico e argamassa baritada conforme projeto do físico. Piso vinílico e porcelanato 90x90, forro de gesso acartonado, portas de madeira (inclusive porta chumbada), elétrica, hidráulica, louças e pintura, com fornecimento de material e mão de obra.",
+      "en": "Demolition of floors and screeds, new drywall partitions with acoustic infill, and barium plaster to the medical physicist's design. Vinyl and 90x90 porcelain flooring, plasterboard ceilings, timber doors (including a lead-lined door), electrical, plumbing, sanitary ware and painting, materials and labour included."
+    },
+    "local": {
+      "pt": "Ibes, Vila Velha",
+      "en": "Ibes, Vila Velha"
+    },
+    "alt": {
+      "pt": "Sala do setor de imagem do Hospital São Luiz, em Vila Velha",
+      "en": "Imaging room at Hospital São Luiz, Vila Velha"
+    }
+  },
+  "hospital-sao-francisco-fachada": {
+    "titulo": {
+      "pt": "Hospital São Francisco de Assis: fachada e rampas",
+      "en": "Hospital São Francisco de Assis: facade and ramps"
+    },
+    "resumo": {
+      "pt": "Reforma da fachada com pintura de 437,65 m², porcelanato de grande formato e reconstrução das rampas de acesso conforme calçada cidadã.",
+      "en": "Facade renovation with 437.65 m² of painting, large-format porcelain cladding and access ramps rebuilt to accessible sidewalk standards."
+    },
+    "escopo": {
+      "pt": "Lavagem e pintura da fachada principal e dos fundos e assentamento de 81 m² de porcelanato 1,00x1,00 na fachada e na sala dos compressores. Reconstrução das rampas da entrada do pronto-socorro e dos fundos, com radier, laje treliçada e corrimão galvanizado. Viga de concreto para a pele de vidro e 93,05 m² de placas cimentícias sobre steel frame.",
+      "en": "Washing and painting of the main and rear facades, and 81 m² of 1.00x1.00 porcelain tiles on the facade and compressor room. Ramps at the emergency entrance and rear rebuilt with a raft foundation, lattice-joist slab and galvanised handrail. Concrete beam to support the glass curtain wall and 93.05 m² of cement boards on steel frame."
+    },
+    "local": {
+      "pt": "Campo Grande, Cariacica",
+      "en": "Campo Grande, Cariacica"
+    },
+    "alt": {
+      "pt": "Fachada do Hospital São Francisco de Assis, em Cariacica",
+      "en": "Facade of Hospital São Francisco de Assis, Cariacica"
+    }
+  },
+  "hospital-sao-luiz-fachada": {
+    "titulo": {
+      "pt": "Hospital São Luiz: reforma da fachada",
+      "en": "Hospital São Luiz: facade renovation"
+    },
+    "resumo": {
+      "pt": "Reforma da fachada com retirada de 320,42 m² de pastilhas com som cavo, regularização das paredes e pintura acrílica de 335,42 m².",
+      "en": "Facade renovation with removal of 320.42 m² of hollow-sounding mosaic tiles, wall levelling and 335.42 m² of acrylic paint."
+    },
+    "escopo": {
+      "pt": "Retirada de pastilhas com som cavo, elementos em forma de bola, caixas de ar-condicionado e placas de granito do barrado. Regularização das paredes com argamassa, chapisco e reboco nas áreas recuperadas, pintura acrílica e impermeabilização com manta asfáltica de 60 m² na laje da entrada.",
+      "en": "Removal of hollow-sounding mosaic tiles, ball-shaped elements, air-conditioner housings and granite base panels. Walls levelled with mortar, scratch coat and render on repaired areas, acrylic paint, and 60 m² of asphalt membrane waterproofing on the entrance slab."
+    },
+    "local": {
+      "pt": "Ibes, Vila Velha",
+      "en": "Ibes, Vila Velha"
+    },
+    "alt": {
+      "pt": "Fachada do Hospital São Luiz, em Vila Velha",
+      "en": "Facade of Hospital São Luiz, Vila Velha"
+    }
+  },
+  "praia-tenis-clube-ti": {
+    "titulo": {
+      "pt": "Sede Kora Saúde: reforma do setor de TI",
+      "en": "Kora Saúde head office: IT department renovation"
+    },
+    "resumo": {
+      "pt": "Reforma do setor de TI da sede administrativa, com fechamentos em drywall acústico, porcelanato, pontos elétricos e cobertura metálica.",
+      "en": "Renovation of the IT department at the administrative head office, with acoustic drywall, porcelain flooring, electrical points and a steel roof."
+    },
+    "escopo": {
+      "pt": "Demolição de alvenaria e divisórias, baldrame para ampliar a sala de coordenação de TI e fechamentos em drywall com isolamento acústico e placa cimentícia. Piso em concreto armado e porcelanato 60x60, pontos elétricos, luminárias e infraestrutura de rede, forro de gesso, pintura, telhado em estrutura metálica com telhas termoacústicas e ar-condicionado.",
+      "en": "Demolition of masonry and partitions, a ground beam to extend the IT coordination room, and acoustic drywall and cement board partitions. Reinforced concrete slab with 60x60 porcelain tiles, electrical points, lighting and network infrastructure, plasterboard ceiling, painting, a steel-framed roof with insulated panels, and air-conditioning."
+    },
+    "local": {
+      "pt": "Vitória",
+      "en": "Vitória"
+    },
+    "alt": {
+      "pt": "Setor de TI da sede da Kora Saúde, em Vitória",
+      "en": "IT department at the Kora Saúde head office, Vitória"
+    }
+  },
+  "hospital-sao-francisco-sala-coleta": {
+    "titulo": {
+      "pt": "Hospital São Francisco de Assis: sala de coleta",
+      "en": "Hospital São Francisco de Assis: sample room"
+    },
+    "resumo": {
+      "pt": "Reforma da sala de coleta, com piso vinílico, revestimentos cerâmicos, 30 pontos elétricos e novas louças e metais.",
+      "en": "Renovation of the sample collection room, with vinyl flooring, ceramic tiling, 30 electrical points and new sanitary ware and taps."
+    },
+    "escopo": {
+      "pt": "Demolição de paredes, revestimentos, pisos e louças. Piso vinílico com rodapé curvo e cordão de solda, porcelanato 60x60, soleiras em granito, revestimentos cerâmicos e pintura, forro com luminárias, lavatórios com coluna e torneiras de fechamento automático, marcenaria e esquadrias.",
+      "en": "Demolition of walls, finishes, floors and sanitary ware. Vinyl flooring with coved skirting and welded seams, 60x60 porcelain tiles, granite thresholds, ceramic tiling and paint, ceiling with light fittings, pedestal washbasins with self-closing taps, joinery and frames."
+    },
+    "local": {
+      "pt": "Campo Grande, Cariacica",
+      "en": "Campo Grande, Cariacica"
+    },
+    "alt": {
+      "pt": "Sala de coleta do Hospital São Francisco de Assis, em Cariacica",
+      "en": "Sample room at Hospital São Francisco de Assis, Cariacica"
+    }
+  },
+  "hospital-sao-luiz-infiltracao-banheiros": {
+    "titulo": {
+      "pt": "Hospital São Luiz: infiltração em banheiros de quartos",
+      "en": "Hospital São Luiz: patient bathroom leak repair"
+    },
+    "resumo": {
+      "pt": "Eliminação de vazamento nos banheiros de dois quartos, com nova impermeabilização em manta asfáltica e recuperação estrutural pontual.",
+      "en": "Leak repair in two patient-room bathrooms, with new asphalt membrane waterproofing and localised structural repair."
+    },
+    "escopo": {
+      "pt": "Demolição de piso, azulejos e rodapé, retirada e reinstalação de aparelhos hidráulicos e impermeabilização com manta asfáltica. Reboco e reassentamento de 12,76 m² de porcelanato, recuperação estrutural com tratamento das armaduras e graute, refazimento do forro de gesso de dois consultórios e pintura geral.",
+      "en": "Demolition of floor tiles, wall tiles and skirting, removal and refitting of fixtures, and asphalt membrane waterproofing. New render and 12.76 m² of relaid porcelain tiles, structural repair with rebar treatment and grout, plaster ceilings redone in two consulting rooms, and general repainting."
+    },
+    "local": {
+      "pt": "Ibes, Vila Velha",
+      "en": "Ibes, Vila Velha"
+    },
+    "alt": {
+      "pt": "Banheiro de quarto do Hospital São Luiz, em Vila Velha",
+      "en": "Patient-room bathroom at Hospital São Luiz, Vila Velha"
+    }
+  },
+  "ed-lion-dor-estrutura-metalica": {
+    "titulo": {
+      "pt": "Ed. Lion D'Or: remoção de cobertura da portaria",
+      "en": "Lion D'Or Building: entrance canopy removal"
+    },
+    "resumo": {
+      "pt": "Desmontagem e remoção da cobertura em estrutura metálica e policarbonato da portaria, com prazo de 1 dia útil.",
+      "en": "Dismantling and removal of the steel and polycarbonate canopy over the entrance lobby, on a one-working-day schedule."
+    },
+    "escopo": {
+      "pt": "Serviço de mão de obra para desmontar a cobertura em estrutura metálica e policarbonato da entrada principal do edifício. O descarte do material e a limpeza da obra ficaram a cargo da PCR.",
+      "en": "Labour service to dismantle the steel and polycarbonate canopy at the building's main entrance. PCR handled disposal of the material and site cleaning."
+    },
+    "local": {
+      "pt": "Santa Helena, Vitória",
+      "en": "Santa Helena, Vitória"
+    },
+    "alt": {
+      "pt": "Entrada principal do Ed. Lion D'Or, em Vitória",
+      "en": "Main entrance of the Lion D'Or building, Vitória"
+    }
+  },
+  "padaria-artezanal": {
+    "titulo": {
+      "pt": "Padaria Artezanal: reforma geral da loja",
+      "en": "Padaria Artezanal: full store renovation"
+    },
+    "resumo": {
+      "pt": "Reforma geral da loja, com porcelanato 80x80 na entrada, recuperação de 114,9 m² de trincas e 478,9 m² de pintura.",
+      "en": "Full store renovation, with 80x80 porcelain tiles at the entrance, 114.9 m² of crack repair and 478.9 m² of painting."
+    },
+    "escopo": {
+      "pt": "Troca do piso da entrada, reforma do banheiro de funcionários, shaft em placas cimentícias, refazimento de reboco, emassamento e pintura dos ambientes. Forro de gesso acartonado, caixa de gordura, ralo linear, portas de alumínio e impermeabilização com manta asfáltica. Por aditivo, calçada, piso do corredor externo e manta na laje.",
+      "en": "New entrance flooring, staff bathroom renovation, a cement board service shaft, new render, skim coat and painting throughout. Plasterboard ceiling, grease trap, linear drain, aluminium doors and asphalt membrane waterproofing. A contract addendum added a sidewalk, external corridor flooring and membrane on the roof slab."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Interior da Padaria Artezanal em Jardim Camburi, Vitória",
+      "en": "Interior of Padaria Artezanal in Jardim Camburi, Vitória"
+    }
+  },
+  "kuruma-estacionamento": {
+    "titulo": {
+      "pt": "Kurumá Veículos: estacionamento, muro e rampa",
+      "en": "Kurumá Veículos: car park, wall and ramp"
+    },
+    "resumo": {
+      "pt": "Pavimentação de 286,14 m² do estacionamento em blocos de concreto, com muro, gradil e rampa acessível.",
+      "en": "Paving of a 286.14 m² car park in concrete blocks, plus a boundary wall, mesh fencing and an accessible ramp."
+    },
+    "escopo": {
+      "pt": "Pavimentação em blocos pré-moldados de concreto tipo pavi-s sobre pó de pedra, muro em blocos de concreto com 33,26 m de gradil Nylofor 3D e recuperação de calçada. Rampa para pessoas com deficiência e pintura externa do muro. Executada de junho a julho de 2020, com termo de recebimento emitido pelo cliente.",
+      "en": "Precast concrete block paving (pavi-s type) on stone dust, a concrete block wall with 33.26 m of Nylofor 3D mesh fencing, and sidewalk repair. Wheelchair-accessible ramp and external painting of the wall. Carried out from June to July 2020, with a handover certificate issued by the client."
+    },
+    "local": {
+      "pt": "Santa Luíza, Vitória",
+      "en": "Santa Luíza, Vitória"
+    },
+    "alt": {
+      "pt": "Estacionamento da Kurumá Veículos, em Vitória",
+      "en": "Car park at Kurumá Veículos, Vitória"
+    }
+  },
+  "ed-solar-do-atlantico": {
+    "titulo": {
+      "pt": "Ed. Solar do Atlântico: revitalização da fachada",
+      "en": "Solar do Atlântico Building: facade refurbishment"
+    },
+    "resumo": {
+      "pt": "Troca do revestimento em granito da fachada frontal por 175,75 m² de porcelanato, com mão de obra da PCR.",
+      "en": "Replacement of the granite cladding on the front facade with 175.75 m² of porcelain tiles, with labour by PCR."
+    },
+    "escopo": {
+      "pt": "Retirada do granito, montagem de andaime e bandeja de proteção, regularização com argamassa e assentamento do novo porcelanato, com material fornecido pelo condomínio. Por aditivo, demolição de reboco solto, chapisco e reboco (55 m²), recuperação estrutural de vigas e 20 pontos de ancoragem em aço inox.",
+      "en": "Removal of the granite, scaffolding and protective fans, mortar levelling and installation of the new porcelain tiles supplied by the condominium. A contract addendum covered removal of loose render, new scratch coat and render (55 m²), structural repair of beams and 20 stainless steel anchor points."
+    },
+    "local": {
+      "pt": "Jardim da Penha, Vitória",
+      "en": "Jardim da Penha, Vitória"
+    },
+    "alt": {
+      "pt": "Fachada do Ed. Solar do Atlântico durante a revitalização, em Vitória",
+      "en": "Facade of the Solar do Atlântico building during refurbishment, Vitória"
+    }
+  },
+  "ed-praia-das-gaivotas": {
+    "titulo": {
+      "pt": "Praia das Gaivotas II C: laudo para ar-condicionado",
+      "en": "Praia das Gaivotas II C: air-conditioning technical report"
+    },
+    "resumo": {
+      "pt": "Laudo técnico para padronizar a instalação de ar-condicionado split em 96 apartamentos de seis edifícios em alvenaria estrutural.",
+      "en": "Technical report to standardise split air-conditioner installation across 96 apartments in six loadbearing masonry buildings."
+    },
+    "escopo": {
+      "pt": "Vistoria técnica, análise estrutural das aberturas na alvenaria estrutural e projeto em 3D com opções de padronização, com e sem brise. Inclui pranchas de fachada, detalhes de linha frigorígena e drenos e laudo das instalações elétricas, entregues em documento de 36 páginas em 2020.",
+      "en": "Site inspection, structural analysis of openings in the loadbearing masonry, and a 3D design with standardisation options, with and without sun screens. Includes facade drawings, refrigerant line and drain details, and an electrical installation report, delivered as a 36-page document in 2020."
+    },
+    "local": {
+      "pt": "Praia das Gaivotas, Vila Velha",
+      "en": "Praia das Gaivotas, Vila Velha"
+    },
+    "alt": {
+      "pt": "Edifícios do conjunto residencial Praia das Gaivotas II C, em Vila Velha",
+      "en": "Buildings of the Praia das Gaivotas II C residential complex, Vila Velha"
+    }
+  },
+  "escola-vasco-coutinho": {
+    "titulo": {
+      "pt": "CEET Vasco Coutinho: laboratório de gastronomia",
+      "en": "CEET Vasco Coutinho: culinary lab renovation"
+    },
+    "resumo": {
+      "pt": "Reforma do laboratório de gastronomia da escola, com novos revestimentos de parede, piso de alta resistência e reinstalação das bancadas.",
+      "en": "Renovation of the school's culinary lab, with new wall finishes, heavy-duty flooring and refitted worktops."
+    },
+    "escopo": {
+      "pt": "Retirada de revestimentos, demolição de pisos em granilite e de alvenaria e recuperação de reboco com chapisco e emboço. Novo revestimento de parede, piso de alta resistência, reassentamento de bancadas em inox e granito, pontos de água e esgoto e novas tomadas, com fornecimento de material e mão de obra.",
+      "en": "Removal of wall finishes, demolition of terrazzo floors and masonry, and render repair with scratch coat and plaster coat. New wall finishes, heavy-duty flooring, stainless steel and granite worktops refitted, water and drainage points and new sockets, materials and labour included."
+    },
+    "local": {
+      "pt": "Centro, Vila Velha",
+      "en": "Centro, Vila Velha"
+    },
+    "alt": {
+      "pt": "Laboratório de gastronomia do CEET Vasco Coutinho, em Vila Velha",
+      "en": "Culinary lab at CEET Vasco Coutinho, Vila Velha"
+    }
+  },
+  "ed-villa-toscana-piscina": {
+    "titulo": {
+      "pt": "Ed. Villa Toscana: reforma da piscina",
+      "en": "Villa Toscana Building: pool renovation"
+    },
+    "resumo": {
+      "pt": "Reforma da piscina com nova impermeabilização em manta asfáltica, teste de estanqueidade, novo revestimento e iluminação em LED.",
+      "en": "Pool renovation with new asphalt membrane waterproofing, a watertightness test, new tiling and LED lighting."
+    },
+    "escopo": {
+      "pt": "Retirada das pastilhas, reboco, borda e manta existentes, preparação da superfície e aplicação de nova manta asfáltica com proteção mecânica. Novo revestimento com junta de dilatação, grelhas ao redor da borda, bordas de granito e iluminação em LED, além da renovação dos rejuntes do deck, do hall da churrasqueira e da rampa.",
+      "en": "Removal of the existing tiles, render, edge and membrane, surface preparation and a new asphalt membrane with protective screed. New tiling with movement joints, gratings around the edge, granite coping and LED lighting, plus regrouting of the pool deck, barbecue area and access ramp."
+    },
+    "local": {
+      "pt": "Jardim da Penha, Vitória",
+      "en": "Jardim da Penha, Vitória"
+    },
+    "alt": {
+      "pt": "Piscina do Ed. Villa Toscana, em Vitória",
+      "en": "Pool at the Villa Toscana building, Vitória"
+    }
+  },
+  "noroeste-centro-calcada-laudo": {
+    "titulo": {
+      "pt": "Supermercado Noroeste: laudo de calçada acessível",
+      "en": "Supermercado Noroeste: accessible sidewalk report"
+    },
+    "resumo": {
+      "pt": "Laudo e relatório fotográfico atestando a conformidade de 51,38 m² de calçada com as normas de acessibilidade.",
+      "en": "Report and photographic survey certifying that 51.38 m² of sidewalk complies with accessibility standards."
+    },
+    "escopo": {
+      "pt": "Responsabilidade técnica e relatório fotográfico para confirmação de calçada legal em toda a testada do imóvel. O atestado verifica a conformidade com as normas ABNT NBR 9050 e NBR 16537, o Decreto Municipal 8.185/2016 e a Lei Federal 13.146/2015.",
+      "en": "Technical responsibility and photographic survey confirming a compliant sidewalk along the full frontage of the property. The certificate checks compliance with Brazilian standards ABNT NBR 9050 and NBR 16537, Municipal Decree 8,185/2016 and Federal Law 13,146/2015."
+    },
+    "local": {
+      "pt": "Nova Almeida Centro, Serra",
+      "en": "Nova Almeida Centro, Serra"
+    },
+    "alt": {
+      "pt": "Calçada do Supermercado Noroeste em Nova Almeida, Serra",
+      "en": "Sidewalk at Supermercado Noroeste in Nova Almeida, Serra"
+    }
+  },
+  "ed-laguna-cobertura-lixo": {
+    "titulo": {
+      "pt": "Ed. Laguna: cobertura metálica da área de lixo",
+      "en": "Laguna Building: steel roof for the refuse area"
+    },
+    "resumo": {
+      "pt": "Fornecimento e instalação de cobertura metálica de 20 m² sobre a área de coleta de lixo, no padrão das garagens.",
+      "en": "Supply and installation of a 20 m² steel roof over the refuse collection area, matching the existing garage roofs."
+    },
+    "escopo": {
+      "pt": "Estrutura em perfis formados a frio (100 kg), com base de concreto para o pilar e telhas onduladas de fibrocimento de 6 mm. Manta aluminizada entre o muro vizinho e o telhado e pintura esmalte com fundo anticorrosivo em 23 m² de estrutura.",
+      "en": "Cold-formed steel structure (100 kg) on a concrete column base, with 6 mm corrugated fibre cement sheets. Aluminium-faced membrane between the neighbouring wall and the roof, and enamel paint over anti-corrosion primer on 23 m² of steelwork."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Cobertura metálica da área de lixo do Ed. Laguna, em Vitória",
+      "en": "Steel roof over the refuse area at the Laguna building, Vitória"
+    }
+  },
+  "ed-monte-castelo": {
+    "titulo": {
+      "pt": "Ed. Monte Castelo: pintura das fachadas laterais",
+      "en": "Monte Castelo Building: side facade repainting"
+    },
+    "resumo": {
+      "pt": "Lavagem, recuperação de trincas e pintura acrílica de 1.506,5 m² nas fachadas laterais do edifício.",
+      "en": "Washing, crack repair and acrylic painting of 1,506.5 m² on the building's side facades."
+    },
+    "escopo": {
+      "pt": "Lavagem com alta pressão e recuperação de 753,5 m² de trincas e fissuras com argamassa, com emassamento e textura acrílica nas áreas recuperadas. Pintura acrílica em duas demãos e instalação de 700 m² de tela fachadeira.",
+      "en": "Pressure washing and repair of 753.5 m² of cracks with mortar, followed by filler and acrylic texture on the repaired areas. Two coats of acrylic paint and 700 m² of facade safety netting."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Fachada lateral do Ed. Monte Castelo, em Vitória",
+      "en": "Side facade of the Monte Castelo building, Vitória"
+    }
+  },
+  "ed-villa-toscana": {
+    "titulo": {
+      "pt": "Ed. Villa Toscana: fachadas, calçada e piscina",
+      "en": "Villa Toscana Building: facades, sidewalk and pool"
+    },
+    "resumo": {
+      "pt": "Lavagem de 2.012,46 m² de fachadas, pintura de áreas externas e internas e reconstrução de 145,64 m² de calçada cidadã.",
+      "en": "Washing of 2,012.46 m² of facades, interior and exterior painting, and reconstruction of 145.64 m² of accessible sidewalk."
+    },
+    "escopo": {
+      "pt": "Pintura acrílica da fachada com recuperação de trincas, pintura do muro, dos halls e das paredes das garagens (736,93 m²) e rejuntamento da piscina. Nova calçada em concreto armado com piso granilite e ladrilho podotátil, além da recuperação de trincas por recalque na garagem.",
+      "en": "Acrylic facade painting with crack repair, painting of the boundary wall, lobbies and garage walls (736.93 m²), and pool regrouting. New reinforced concrete sidewalk with terrazzo tiles and tactile paving, plus repair of settlement cracks in the garage."
+    },
+    "local": {
+      "pt": "Jardim da Penha, Vitória",
+      "en": "Jardim da Penha, Vitória"
+    },
+    "alt": {
+      "pt": "Fachada do Ed. Villa Toscana, em Vitória",
+      "en": "Facade of the Villa Toscana building, Vitória"
+    }
+  },
+  "ed-laguna-manta-telhado": {
+    "titulo": {
+      "pt": "Ed. Laguna: rufo em manta asfáltica e telhado",
+      "en": "Laguna Building: membrane flashing and roof repair"
+    },
+    "resumo": {
+      "pt": "Substituição do rufo do telhado da garagem por 60,25 m² de manta asfáltica e troca de 32,23 m² de telhas da cobertura.",
+      "en": "Garage roof flashing replaced with 60.25 m² of asphalt membrane, and 32.23 m² of roof sheets replaced."
+    },
+    "escopo": {
+      "pt": "Remoção da manta antiga e aplicação de manta asfáltica de 4 mm com acabamento em alumínio, em faixa de 1,00 m ao longo de todo o telhado da garagem. Na cobertura, troca de telhas onduladas de fibrocimento de 6 mm e dos parafusos de fixação, com material e mão de obra da PCR.",
+      "en": "Removal of the old membrane and application of 4 mm aluminium-faced asphalt membrane in a 1.00 m strip along the full length of the garage roof. On the main roof, 6 mm corrugated fibre cement sheets and fixing screws replaced, materials and labour by PCR."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Telhado do Ed. Laguna, em Vitória",
+      "en": "Roof of the Laguna building, Vitória"
+    }
+  },
+  "ed-laguna-cobertura-calha-calcamento": {
+    "titulo": {
+      "pt": "Ed. Laguna: cobertura metálica, calha e calçamento",
+      "en": "Laguna Building: steel roof, gutter and paving"
+    },
+    "resumo": {
+      "pt": "Cobertura metálica nova de 25,60 m², calha em zincalume e 26 m² de calçamento em blocos de concreto.",
+      "en": "New 25.60 m² steel roof, Zincalume gutter and 26 m² of concrete block paving."
+    },
+    "escopo": {
+      "pt": "Estrutura em perfis formados a frio (173,22 kg) com telhas de fibrocimento de 6 mm, impermeabilização com manta asfáltica e bases em concreto. Calçamento com blocos Pavi S reaproveitados, após retirada de grama, escavação e demolição de meio-fio, e calha em chapa zincalume com descida em PVC.",
+      "en": "Cold-formed steel structure (173.22 kg) with 6 mm fibre cement sheets, asphalt membrane waterproofing and concrete bases. Paving in reused Pavi S blocks after turf removal, excavation and kerb demolition, plus a Zincalume sheet gutter with PVC downpipe."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Cobertura metálica e calçamento no Ed. Laguna, em Vitória",
+      "en": "Steel roof and paving at the Laguna building, Vitória"
+    }
+  },
+  "ed-laguna-pintura-garagem": {
+    "titulo": {
+      "pt": "Ed. Laguna: pintura da garagem e bicicletário",
+      "en": "Laguna Building: garage and bike store painting"
+    },
+    "resumo": {
+      "pt": "Pintura acrílica de 569,41 m² de muros e paredes da garagem, com restauração de trincas e pintura do bicicletário.",
+      "en": "Acrylic painting of 569.41 m² of garage walls, with crack repair and painting of the bike store."
+    },
+    "escopo": {
+      "pt": "Restauração de trincas, emassamento e textura nos trechos recuperados, seguidos de pintura acrílica em duas demãos. No bicicletário, pintura esmalte de 40 m² de paredes e 11,2 m² de piso, além de 36,8 m² de faixas de sinalização de segurança.",
+      "en": "Crack repair, filler and texture on the repaired sections, followed by two coats of acrylic paint. In the bike store, enamel paint on 40 m² of walls and 11.2 m² of floor, plus 36.8 m² of safety marking stripes."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Garagem do Ed. Laguna, em Vitória",
+      "en": "Garage at the Laguna building, Vitória"
+    }
+  },
+  "ed-laguna-calcamento-chapim-pintura": {
+    "titulo": {
+      "pt": "Ed. Laguna: calçamento, chapim de granito e muro",
+      "en": "Laguna Building: paving, granite coping and wall"
+    },
+    "resumo": {
+      "pt": "Reforma de 612,13 m² de calçamento da garagem, 86 m² de chapim em granito e pintura de 382 m² do muro de divisa.",
+      "en": "Relaying of 612.13 m² of garage paving, 86 m² of granite coping and 382 m² of boundary wall painting."
+    },
+    "escopo": {
+      "pt": "Retirada dos blocos Pavi S, substituição do solo por brita graduada e pó de pedra e recolocação dos blocos refazendo os caimentos, com drenagem em tubos de PVC. Instalação de chapim em granito cinza andorinha com pingadeira dupla e restauração de trincas com pintura acrílica do muro.",
+      "en": "Pavi S blocks lifted, soft soil replaced with graded crushed stone and stone dust, and blocks relaid to new falls, with PVC drainage pipes. Cinza Andorinha granite coping with double drip edge installed, and the wall repaired and painted with acrylic paint."
+    },
+    "local": {
+      "pt": "Jardim Camburi, Vitória",
+      "en": "Jardim Camburi, Vitória"
+    },
+    "alt": {
+      "pt": "Calçamento da garagem do Ed. Laguna, em Vitória",
+      "en": "Garage paving at the Laguna building, Vitória"
+    }
+  },
+  "cafeteria-choperia-aeroporto": {
+    "titulo": {
+      "pt": "Aeroporto de Vitória: praça de alimentação e quiosques",
+      "en": "Vitória Airport: food court and kiosks"
+    },
+    "resumo": {
+      "pt": "Construção da praça de alimentação do desembarque, com 195 m² de piso em quartzito e 217 pontos elétricos para os quiosques.",
+      "en": "Construction of the arrivals food court, with 195 m² of quartzite flooring and 217 electrical points for the kiosks."
+    },
+    "escopo": {
+      "pt": "Tapume móvel, demolição de piso em granito para rampas e tubulações e assentamento de piso em quartzito fornecido pelo cliente. Instalações elétricas e hidrossanitárias com projeto e ART, quadros de distribuição dos quiosques e sala de escritório em drywall com forro, pintura e piso.",
+      "en": "Mobile hoarding, demolition of granite flooring for ramps and pipework, and laying of quartzite flooring supplied by the client. Electrical and plumbing installations with design and ART registration, distribution boards for the kiosks, and a drywall office with ceiling, painting and flooring."
+    },
+    "local": {
+      "pt": "Aeroporto, Vitória",
+      "en": "Aeroporto, Vitória"
+    },
+    "alt": {
+      "pt": "Praça de alimentação no Aeroporto de Vitória",
+      "en": "Food court at Vitória Airport"
+    }
+  }
+}

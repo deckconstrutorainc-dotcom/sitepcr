@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "siteName": "PCR Engenharia e Incorporação",
+    "home": {
+      "title": "PCR Engenharia | Civil engineering contractor in Serra, Brazil",
+      "description": "Civil engineering contractor in Serra, Espírito Santo, since 2018: facade repair, hospital renovations, steel structures and reports. 37 projects delivered."
+    },
+    "sobre": {
+      "title": "About PCR: civil engineering contractor in Serra since 2018",
+      "description": "Civil engineering contractor from Serra, Espírito Santo, founded in 2018 and part of the Deck group. History, service area and engineer of record."
+    },
+    "servicos": {
+      "title": "Civil engineering services in Espírito Santo, Brazil | PCR",
+      "description": "Facade repair, structural repair, steel structures, renovations and extensions, technical reports and property development in Serra, Vitória and Vila Velha."
+    },
+    "obras": {
+      "title": "Completed projects in Espírito Santo | PCR Engenharia",
+      "description": "PCR Engenharia portfolio: projects for condominiums, hospitals, schools and companies in Espírito Santo, with location, dates and scope."
+    },
+    "numeros": {
+      "title": "Track record and figures | PCR Engenharia",
+      "description": "Completed projects, facade area repaired, steel erected and clients served, with the documentary basis for each figure."
+    },
+    "contato": {
+      "title": "Contact and project enquiries | PCR Engenharia",
+      "description": "Talk to PCR Engenharia: site visit, assessment and proposal for your project in Serra and the Greater Vitória area."
+    },
+    "privacidade": {
+      "title": "Privacy policy (LGPD) | PCR Engenharia",
+      "description": "How PCR Engenharia collects, uses and keeps data sent through the website contact form, and how to request access or deletion under Brazil's LGPD."
+    },
+    "notFound": "Page not found"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "home": "Home",
+    "sobre": "About",
+    "servicos": "Services",
+    "obras": "Projects",
+    "numeros": "Numbers",
+    "contato": "Contact",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "switchTo": "Português",
+    "switchToShort": "PT",
+    "currentShort": "EN",
+    "menuHints": {
+      "sobre": "since 2018",
+      "servicos": "6 services",
+      "obras": "{n} completed",
+      "numeros": "with sources",
+      "contato": "{tel}"
+    },
+    "homeAria": "PCR Engenharia e Incorporação, home page"
+  },
+  "common": {
+    "verObra": "View project",
+    "verObras": "View projects",
+    "verTodas": "View all {n} projects",
+    "falar": "Talk to PCR",
+    "preencher": "[TO BE PROVIDED]",
+    "emAndamento": "In progress",
+    "semFoto": "No photographs on file",
+    "anterior": "Previous photos",
+    "proximo": "Next photos",
+    "tipos": {
+      "residencial": "Residential",
+      "comercial": "Commercial",
+      "industrial": "Industrial",
+      "institucional": "Institutional",
+      "laudo-pericia": "Reports and Surveys",
+      "estrutura": "Structures"
+    }
+  },
+  "home": {
+    "heroTitle": "Facades, hospitals and steel structures.",
+    "heroSub": "Civil engineering in Espírito Santo, Brazil, since 2018.",
+    "heroCaption": "Hospital São Luiz, Vila Velha. Steel-frame extension, 2021.",
+    "videoLabel": "Drone flight over the Hospital São Luiz extension in Vila Velha",
+    "pause": "Pause video",
+    "play": "Play video",
+    "statement": "Since 2018 we have repaired facades, extended hospitals and erected steel structures across Espírito Santo. {obras} delivered, every stage measured and signed off by an engineer.",
+    "statementEm": "{obras} projects",
+    "conheca": "About PCR",
+    "facts": {
+      "atuacao": "Service area",
+      "atuacaoValor": "Serra, Vitória, Vila Velha, Cariacica and nearby",
+      "clientes": "Clients",
+      "clientesValor": "Condominiums, hospitals, schools and companies",
+      "rt": "Engineer of record",
+      "grupo": "Group"
+    },
+    "featuredTitle": "Three projects, three scales of engineering.",
+    "numbersTitle": "Every figure comes from a progress report, a technical record or an invoice.",
+    "servicesTitle": "From the first report to the occupancy permit.",
+    "servicesAll": "All services",
+    "stripTitle": "What sits behind the finish.",
+    "stripLabel": "Work-in-progress photos, scroll sideways",
+    "coverTitle": "Tell us about your project.",
+    "coverText": "Site visit, assessment and an itemised proposal, with a clear schedule and a named engineer in charge.",
+    "coverAlt": "Aerial view of the Jacaraípe coastline in Serra, with the neighbourhood and the sea behind"
+  },
+  "strip": [
+    {
+      "img": "solar-armadura",
+      "caption": "Exposed rebar, Solar do Atlântico building",
+      "alt": "Corroded rebar exposed at the slab edge of the Solar do Atlântico building before structural repair"
+    },
+    {
+      "img": "nahum-jau",
+      "caption": "Suspended platform, Nahum Prado building",
+      "alt": "Electric suspended platform on the Nahum Prado building facade with safety netting"
+    },
+    {
+      "img": "solar-tela",
+      "caption": "Mesh-reinforced render, Solar do Atlântico building",
+      "alt": "Mesh-reinforced render being applied to the Solar do Atlântico building facade"
+    },
+    {
+      "img": "aco2",
+      "caption": "Steel erection, Hospital São Luiz",
+      "alt": "Steel-frame floors being erected for the Hospital São Luiz extension"
+    },
+    {
+      "img": "nahum-antes",
+      "caption": "Before the tile replacement, Nahum Prado building",
+      "alt": "Nahum Prado building facade with the original cladding before the mosaic tiles were removed"
+    },
+    {
+      "img": "luamar-acabamento",
+      "caption": "Finishing works, Luamar condominium",
+      "alt": "Front of the Luamar semi-detached houses during finishing works"
+    }
+  ],
+  "services": [
+    {
+      "id": "fachadas",
+      "img": "nahum-antes",
+      "title": "Facade repair",
+      "short": "Cladding, mosaic tiles, joints, painting and bond testing.",
+      "body": "Removal and reinstallation of cladding, crack and movement-joint treatment, painting and waterproofing. Pull-off tests on the scratch and render coats confirm adhesion before handover.",
+      "caption": "Nahum Prado building before the cladding replacement"
+    },
+    {
+      "id": "estrutural",
+      "img": "solar-armadura",
+      "title": "Structural repair",
+      "short": "Rebar treatment, structural mortar and strengthening.",
+      "body": "Removal of deteriorated concrete, cleaning and protection of reinforcement, reinstatement with structural mortar and strengthening of beams and slabs, under an engineer of record.",
+      "caption": "Exposed rebar at the Solar do Atlântico building"
+    },
+    {
+      "id": "metalica",
+      "img": "aco2",
+      "title": "Steel structures",
+      "short": "Extensions, roofs and mezzanines, designed and erected.",
+      "body": "Supply and erection of steel-section structures with steel-frame and drywall enclosures. The Hospital São Luiz extension alone took 18 tonnes of structural steel.",
+      "caption": "Steel erection at Hospital São Luiz"
+    },
+    {
+      "id": "reformas",
+      "img": "saoluiz",
+      "title": "Renovations and extensions",
+      "short": "Hospitals, offices, retail and common areas.",
+      "body": "Renovation of hospital wards, imaging departments, bathrooms and kitchens, as well as shops, offices and condominium common areas.",
+      "caption": "Hospital São Luiz, Vila Velha"
+    },
+    {
+      "id": "laudos",
+      "img": "nahum-jau",
+      "title": "Technical reports and surveys",
+      "short": "Building inspections, technical opinions and certified reports.",
+      "body": "Technical opinions for condominiums and inspection reports, issued with a technical responsibility record (ART) by a civil engineer, to support decisions before work is commissioned.",
+      "caption": "Facade inspection from a suspended platform"
+    },
+    {
+      "id": "incorporacao",
+      "img": "luamar-acabamento",
+      "title": "Property development",
+      "short": "In-house residential developments, from land to title deeds.",
+      "body": "In-house residential developments: design, permits, construction, occupancy permit and individual title deeds. The Luamar condominium in Jacaraípe was the first.",
+      "caption": "Luamar condominium, Jacaraípe"
+    }
+  ],
+  "numeros": {
+    "obrasConcluidas": "completed projects",
+    "m2": "of facades, painting and roofing repaired",
+    "aco": "of structural steel erected",
+    "clientes": "companies, condominiums and public bodies served",
+    "anos": "years in business",
+    "municipios": "municipalities served",
+    "executado": "in measured and invoiced work",
+    "notas": {
+      "obrasConcluidas": "Projects with a handover record, final progress report or invoice, 2018 to 2024.",
+      "m2": "Intervention area stated in the technical record or contract, across {n} completed projects. Not built floor area.",
+      "aco": "Sum of progress reports from {n} projects; 18.0 t on the Hospital São Luiz extension alone.",
+      "clientes": "Clients with a completed project. Private individuals are not counted.",
+      "anos": "Counted from the company's incorporation on 27 April 2018.",
+      "municipios": "Municipalities with a recorded project, report or design.",
+      "executado": "Sum of measured or invoiced amounts across {n} completed projects. Figures per project are not disclosed."
+    },
+    "pageTitle": "Numbers",
+    "pageLead": "The figures below only add up what is documented: progress reports, handover records, technical responsibility records (ART) or invoices. Projects without proof of execution are left out.",
+    "chartAno": "Completed projects by year",
+    "chartTipo": "Completed projects by type",
+    "semAno": "no date on record"
+  },
+  "sobre": {
+    "title": "An engineering company from Serra, with every job signed off and documented.",
+    "lead": "PCR Engenharia e Incorporação was incorporated on 27 April 2018 in Serra, Espírito Santo, to serve condominiums and companies that needed proper engineering for repair and renovation work.",
+    "historia": [
+      "The first contracts, in 2018, were the construction of the Cafeteria e Choperia do Mestre in the arrivals hall of Vitória Airport and works at the Laguna building in Jardim Camburi.",
+      "From 2019 the company took on facade repairs for residential buildings in Vitória and, in 2021, began working for the Kora Saúde hospital group on renovations and extensions, including the steel-frame extension of Hospital São Luiz in Vila Velha.",
+      "In 2023 PCR completed its first in-house development, the Luamar condominium: three semi-detached houses in Jacaraípe."
+    ],
+    "atuacaoTitle": "Where we work",
+    "atuacao": "Projects and reports in Serra, Vitória, Vila Velha, Cariacica, Anchieta and Aracruz, in the state of Espírito Santo.",
+    "rtTitle": "Engineer of record",
+    "grupoTitle": "Group",
+    "grupoText": "PCR belongs to the same business group as Deck Construtora e Incorporadora.",
+    "dadosTitle": "Company details"
+  },
+  "servicos": {
+    "title": "Services",
+    "lead": "Six lines of work, always with an engineer of record, a technical responsibility record and itemised progress reports."
+  },
+  "obras": {
+    "title": "Projects",
+    "lead": "{n} projects completed since 2018 for condominiums, hospitals, schools and companies in Espírito Santo.",
+    "filtroLabel": "Filter by type",
+    "todas": "All",
+    "buscaLabel": "Search by name, client or city",
+    "buscaPlaceholder": "Search project, client or city…",
+    "resultado": "{n} projects",
+    "resultadoUm": "1 project",
+    "vazio": "No projects found for \"{q}\".",
+    "limpar": "Clear filters",
+    "ficha": "Project details",
+    "quantitativos": "Quantities and quality control",
+    "cliente": "Client",
+    "local": "Location",
+    "periodo": "Dates",
+    "area": "Intervention area",
+    "tipo": "Type",
+    "status": "Status",
+    "servico": "Item",
+    "unidade": "Unit",
+    "quantidade": "Quantity",
+    "fonte": "Source: {fonte}.",
+    "fonteGenerica": "progress reports and project records",
+    "galeria": "Gallery",
+    "semelhantes": "Similar projects",
+    "status_concluida": "Completed",
+    "status_em-andamento": "In progress",
+    "status_desconhecido": "Contracted",
+    "fotoDe": "Photo {i} of {n}",
+    "fecharFoto": "Close photo",
+    "fotoAnterior": "Previous photo",
+    "fotoProxima": "Next photo"
+  },
+  "contato": {
+    "title": "Tell us about your project.",
+    "lead": "A few lines on what you need is enough. We will get back to you to book a site visit.",
+    "telefones": "Phone",
+    "email": "Email",
+    "endereco": "Address",
+    "horario": "Opening hours",
+    "form": {
+      "nome": "Name",
+      "email": "Email",
+      "telefone": "Phone",
+      "tipo": "Type of service",
+      "tipoPlaceholder": "Select",
+      "mensagem": "Message",
+      "enviar": "Send message",
+      "enviando": "Sending…",
+      "privacidade": "We only use your details to reply to this message.",
+      "privacidadeLink": "Privacy policy",
+      "sucesso": "Message sent. We will be in touch shortly.",
+      "erro": "We could not send it right now. Please try again or call {tel}.",
+      "semChave": "The form is not configured yet. Please call {tel}.",
+      "erros": {
+        "nome": "Please enter your name.",
+        "email": "Enter a full email address, such as name@domain.com.",
+        "telefone": "Enter a phone number with area code.",
+        "tipo": "Choose a type of service.",
+        "mensagem": "Tell us what you need in at least 10 characters."
+      }
+    },
+    "whatsapp": "Chat on WhatsApp",
+    "whatsappMsg": "Hello, I found PCR Engenharia online and would like to talk about a project."
+  },
+  "footer": {
+    "navegacao": "Navigation",
+    "endereco": "Address",
+    "empresa": "Company",
+    "idioma": "Language",
+    "rt": "Engineer of record",
+    "grupo": "Part of the {grupo} group",
+    "privacidade": "Privacy policy",
+    "direitos": "© {ano} PCR Engenharia e Incorporação"
+  },
+  "privacidade": {
+    "title": "Privacy policy",
+    "atualizado": "Updated October 2026.",
+    "secoes": [
+      {
+        "h": "Who handles your data",
+        "p": "PCR Engenharia e Incorporação Ltda, CNPJ 30.322.792/0001-81, Rua Cinco, 78, Jardim Bela Vista, Serra, Espírito Santo, Brazil."
+      },
+      {
+        "h": "What we collect",
+        "p": "Through the contact form: name, email, phone, type of service and your message. If audience measurement is enabled, anonymous and aggregated browsing data."
+      },
+      {
+        "h": "Why we use it",
+        "p": "To reply to you and, if you wish, prepare a proposal. We do not sell or share your data for advertising."
+      },
+      {
+        "h": "Who we share it with",
+        "p": "Form submissions pass through a third-party service that delivers the message to PCR by email. That service does not use the data for any other purpose."
+      },
+      {
+        "h": "How long we keep it",
+        "p": "For as long as needed to handle your request and meet legal obligations. After that, the data is deleted."
+      },
+      {
+        "h": "Your rights",
+        "p": "You may request access to, correction or deletion of your data at any time using the email or phone on this site, under Brazilian Law 13.709/2018 (LGPD)."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found.",
+    "text": "The address may have changed. Browse our projects or go back to the home page.",
+    "home": "Back to home"
+  }
+}

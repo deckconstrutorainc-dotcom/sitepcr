@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "siteName": "PCR Engenharia e Incorporação",
+    "home": {
+      "title": "PCR Engenharia | Construtora e engenharia civil em Serra/ES",
+      "description": "Construtora em Serra/ES desde 2018. Recuperação de fachadas, reformas hospitalares, estrutura metálica, laudos e incorporação, com 37 obras entregues."
+    },
+    "sobre": {
+      "title": "Sobre a PCR: construtora em Serra/ES desde 2018",
+      "description": "Construtora de Serra/ES fundada em 2018 e integrante do grupo Deck. Conheça a história, a área de atuação e o responsável técnico da PCR Engenharia."
+    },
+    "servicos": {
+      "title": "Serviços de engenharia civil no Espírito Santo | PCR",
+      "description": "Recuperação de fachadas, recuperação estrutural, estrutura metálica, reformas e ampliações, laudos e perícias e incorporação em Serra, Vitória e Vila Velha."
+    },
+    "obras": {
+      "title": "Obras realizadas no Espírito Santo | PCR Engenharia",
+      "description": "Portfólio da PCR Engenharia: obras em condomínios, hospitais, escolas e empresas do Espírito Santo, com local, período e escopo."
+    },
+    "numeros": {
+      "title": "Números e obras entregues | PCR Engenharia",
+      "description": "Obras concluídas, área de fachadas recuperadas, estrutura metálica montada e clientes atendidos, com a base documental de cada número."
+    },
+    "contato": {
+      "title": "Contato e orçamento de obra em Serra/ES | PCR Engenharia",
+      "description": "Fale com a PCR Engenharia: visita técnica, diagnóstico e proposta para a sua obra em Serra e região metropolitana de Vitória."
+    },
+    "privacidade": {
+      "title": "Política de privacidade (LGPD) | PCR Engenharia",
+      "description": "Como a PCR Engenharia coleta, usa e guarda os dados enviados pelo formulário de contato do site, e como pedir acesso ou exclusão, conforme a LGPD."
+    },
+    "notFound": "Página não encontrada"
+  },
+  "nav": {
+    "skip": "Pular para o conteúdo",
+    "home": "Início",
+    "sobre": "Sobre",
+    "servicos": "Serviços",
+    "obras": "Obras",
+    "numeros": "Números",
+    "contato": "Contato",
+    "menu": "Menu",
+    "close": "Fechar",
+    "language": "Idioma",
+    "switchTo": "English",
+    "switchToShort": "EN",
+    "currentShort": "PT",
+    "menuHints": {
+      "sobre": "desde 2018",
+      "servicos": "6 frentes",
+      "obras": "{n} concluídas",
+      "numeros": "com fonte",
+      "contato": "{tel}"
+    },
+    "homeAria": "PCR Engenharia e Incorporação, página inicial"
+  },
+  "common": {
+    "verObra": "Ver obra",
+    "verObras": "Ver obras",
+    "verTodas": "Ver as {n} obras",
+    "falar": "Falar com a PCR",
+    "preencher": "[PREENCHER]",
+    "emAndamento": "Em andamento",
+    "semFoto": "Sem registro fotográfico",
+    "anterior": "Fotos anteriores",
+    "proximo": "Próximas fotos",
+    "tipos": {
+      "residencial": "Residencial",
+      "comercial": "Comercial",
+      "industrial": "Industrial",
+      "institucional": "Institucional",
+      "laudo-pericia": "Laudos e Perícias",
+      "estrutura": "Estruturas"
+    }
+  },
+  "home": {
+    "heroTitle": "Fachadas, hospitais e estruturas.",
+    "heroSub": "Engenharia civil no Espírito Santo desde 2018.",
+    "heroCaption": "Hospital São Luiz, Vila Velha. Ampliação em estrutura metálica, 2021.",
+    "videoLabel": "Voo de drone sobre a ampliação do Hospital São Luiz, em Vila Velha",
+    "pause": "Pausar vídeo",
+    "play": "Reproduzir vídeo",
+    "statement": "Desde 2018, recuperamos fachadas, ampliamos hospitais e montamos estruturas metálicas no Espírito Santo. São {obras} obras entregues, cada etapa medida e assinada por engenheiro.",
+    "statementEm": "{obras} obras entregues",
+    "conheca": "Conheça a PCR",
+    "facts": {
+      "atuacao": "Atuação",
+      "atuacaoValor": "Serra, Vitória, Vila Velha, Cariacica e região",
+      "clientes": "Clientes",
+      "clientesValor": "Condomínios, hospitais, escolas e empresas",
+      "rt": "Responsável técnico",
+      "grupo": "Grupo"
+    },
+    "featuredTitle": "Três obras, três escalas de engenharia.",
+    "numbersTitle": "Cada número vem de um boletim, uma ART ou uma nota fiscal.",
+    "servicesTitle": "Do laudo ao habite-se.",
+    "servicesAll": "Todos os serviços",
+    "stripTitle": "O que fica por trás do acabamento.",
+    "stripLabel": "Fotos de obra em andamento, role para os lados",
+    "coverTitle": "Conte qual é a obra.",
+    "coverText": "Visita técnica, diagnóstico e proposta por item, com prazo e responsável definidos.",
+    "coverAlt": "Vista aérea do litoral de Jacaraípe, em Serra, com o bairro e o mar ao fundo"
+  },
+  "strip": [
+    {
+      "img": "solar-armadura",
+      "caption": "Armadura exposta, Ed. Solar do Atlântico",
+      "alt": "Armadura corroída exposta na borda da laje do Ed. Solar do Atlântico, antes da recuperação estrutural"
+    },
+    {
+      "img": "nahum-jau",
+      "caption": "Andaime suspenso, Ed. Nahum Prado",
+      "alt": "Andaime suspenso elétrico na fachada do Ed. Nahum Prado com tela de proteção"
+    },
+    {
+      "img": "solar-tela",
+      "caption": "Emboço armado com tela, Ed. Solar do Atlântico",
+      "alt": "Emboço armado com tela metálica sendo aplicado na fachada do Ed. Solar do Atlântico"
+    },
+    {
+      "img": "aco2",
+      "caption": "Montagem de aço, Hospital São Luiz",
+      "alt": "Montagem dos pavimentos em estrutura metálica na ampliação do Hospital São Luiz"
+    },
+    {
+      "img": "nahum-antes",
+      "caption": "Antes da troca, Ed. Nahum Prado",
+      "alt": "Fachada do Ed. Nahum Prado com o revestimento antigo antes da retirada das pastilhas"
+    },
+    {
+      "img": "luamar-acabamento",
+      "caption": "Acabamento, Condomínio Luamar",
+      "alt": "Fachada das casas geminadas do Condomínio Luamar em fase de acabamento"
+    }
+  ],
+  "services": [
+    {
+      "id": "fachadas",
+      "img": "nahum-antes",
+      "title": "Recuperação de fachadas",
+      "short": "Revestimento, pastilhas, juntas, pintura e ensaios de aderência.",
+      "body": "Retirada e reassentamento de revestimentos, tratamento de fissuras e juntas de dilatação, pintura e impermeabilização. Antes da entrega, ensaios de arrancamento de chapisco e emboço comprovam a aderência.",
+      "caption": "Ed. Nahum Prado antes da troca do revestimento"
+    },
+    {
+      "id": "estrutural",
+      "img": "solar-armadura",
+      "title": "Recuperação estrutural",
+      "short": "Tratamento de armaduras, argamassa estrutural e reforço.",
+      "body": "Remoção do concreto deteriorado, limpeza e proteção das armaduras, recomposição com argamassa estrutural e reforço de vigas e lajes, com responsável técnico e ART.",
+      "caption": "Armadura exposta no Ed. Solar do Atlântico"
+    },
+    {
+      "id": "metalica",
+      "img": "aco2",
+      "title": "Estruturas metálicas",
+      "short": "Ampliações, coberturas e mezaninos com projeto e montagem.",
+      "body": "Fornecimento e montagem de estruturas em perfis metálicos, com vedação em steel frame e drywall. Só a ampliação do Hospital São Luiz somou 18 toneladas de estrutura metálica.",
+      "caption": "Montagem de aço no Hospital São Luiz"
+    },
+    {
+      "id": "reformas",
+      "img": "saoluiz",
+      "title": "Reformas e ampliações",
+      "short": "Hospitais, escritórios, comércio e áreas comuns.",
+      "body": "Reformas de enfermarias, setores de imagem, banheiros e cozinhas hospitalares, além de lojas, salas comerciais e áreas comuns de condomínio.",
+      "caption": "Hospital São Luiz, Vila Velha"
+    },
+    {
+      "id": "laudos",
+      "img": "nahum-jau",
+      "title": "Laudos e perícias",
+      "short": "Inspeção predial, pareceres técnicos e laudos com ART.",
+      "body": "Pareceres técnicos para condomínios e laudos de inspeção, emitidos com ART por engenheiro civil, que orientam a decisão sobre a obra antes da contratação.",
+      "caption": "Inspeção de fachada com andaime suspenso"
+    },
+    {
+      "id": "incorporacao",
+      "img": "luamar-acabamento",
+      "title": "Incorporação",
+      "short": "Empreendimentos residenciais próprios, do terreno à matrícula.",
+      "body": "Desenvolvimento de empreendimentos residenciais próprios: projeto, aprovação, execução, habite-se e individualização das matrículas. O Condomínio Luamar, em Jacaraípe, foi o primeiro.",
+      "caption": "Condomínio Luamar, Jacaraípe"
+    }
+  ],
+  "numeros": {
+    "obrasConcluidas": "obras concluídas",
+    "m2": "de fachadas, pinturas e coberturas recuperadas",
+    "aco": "de estrutura metálica montada",
+    "clientes": "empresas, condomínios e órgãos atendidos",
+    "anos": "anos de atuação",
+    "municipios": "municípios atendidos",
+    "executado": "em obras medidas e faturadas",
+    "notas": {
+      "obrasConcluidas": "Obras com recebimento, medição final ou nota fiscal, de 2018 a 2024.",
+      "m2": "Área de intervenção declarada em ART ou contrato, em {n} obras concluídas. Não é área construída.",
+      "aco": "Soma das medições de {n} obras; 18,0 t na ampliação do Hospital São Luiz.",
+      "clientes": "Clientes com obra concluída. Pessoas físicas não são contadas.",
+      "anos": "Contados a partir da abertura da empresa, em 27/04/2018.",
+      "municipios": "Municípios onde há obra, laudo ou projeto registrado.",
+      "executado": "Soma dos valores medidos ou faturados em {n} obras concluídas. Valores por obra não são divulgados."
+    },
+    "pageTitle": "Números",
+    "pageLead": "Os indicadores abaixo somam apenas o que tem documento: boletim de medição, termo de recebimento, ART ou nota fiscal. Obras sem comprovação de execução ficam de fora.",
+    "chartAno": "Obras concluídas por ano",
+    "chartTipo": "Obras concluídas por tipo",
+    "semAno": "sem data registrada"
+  },
+  "sobre": {
+    "title": "Uma empresa de engenharia de Serra, com obra assinada e documentada.",
+    "lead": "A PCR Engenharia e Incorporação foi aberta em 27 de abril de 2018, em Serra, no Espírito Santo, para atender condomínios e empresas que precisavam de engenharia em obras de recuperação e reforma.",
+    "historia": [
+      "Os primeiros contratos, em 2018, foram a construção da Cafeteria e Choperia do Mestre no desembarque do Aeroporto de Vitória e os serviços no Ed. Laguna, em Jardim Camburi.",
+      "A partir de 2019 a empresa passou a recuperar fachadas de edifícios residenciais em Vitória e, em 2021, a atender o Grupo Kora Saúde em reformas e ampliações hospitalares, incluindo a ampliação em estrutura metálica do Hospital São Luiz, em Vila Velha.",
+      "Em 2023 a PCR entregou sua primeira incorporação própria, o Condomínio Luamar, com três casas geminadas em Jacaraípe."
+    ],
+    "atuacaoTitle": "Onde atuamos",
+    "atuacao": "Obras e laudos em Serra, Vitória, Vila Velha, Cariacica, Anchieta e Aracruz, no Espírito Santo.",
+    "rtTitle": "Responsável técnico",
+    "grupoTitle": "Grupo",
+    "grupoText": "A PCR integra o mesmo grupo econômico da Deck Construtora e Incorporadora.",
+    "dadosTitle": "Dados da empresa"
+  },
+  "servicos": {
+    "title": "Serviços",
+    "lead": "Seis frentes de trabalho, sempre com responsável técnico, ART e medição por item."
+  },
+  "obras": {
+    "title": "Obras",
+    "lead": "{n} obras concluídas desde 2018 em condomínios, hospitais, escolas e empresas do Espírito Santo.",
+    "filtroLabel": "Filtrar por tipo",
+    "todas": "Todas",
+    "buscaLabel": "Buscar por nome, cliente ou cidade",
+    "buscaPlaceholder": "Buscar obra, cliente ou cidade…",
+    "resultado": "{n} obras",
+    "resultadoUm": "1 obra",
+    "vazio": "Nenhuma obra encontrada para \"{q}\".",
+    "limpar": "Limpar filtros",
+    "ficha": "Ficha técnica",
+    "quantitativos": "Quantitativos e controle técnico",
+    "cliente": "Cliente",
+    "local": "Local",
+    "periodo": "Período",
+    "area": "Área de intervenção",
+    "tipo": "Tipo",
+    "status": "Situação",
+    "servico": "Serviço",
+    "unidade": "Un.",
+    "quantidade": "Quantidade",
+    "fonte": "Fonte: {fonte}.",
+    "fonteGenerica": "boletins de medição e documentos da obra",
+    "galeria": "Galeria",
+    "semelhantes": "Obras semelhantes",
+    "status_concluida": "Concluída",
+    "status_em-andamento": "Em andamento",
+    "status_desconhecido": "Contratada",
+    "fotoDe": "Foto {i} de {n}",
+    "fecharFoto": "Fechar foto",
+    "fotoAnterior": "Foto anterior",
+    "fotoProxima": "Próxima foto"
+  },
+  "contato": {
+    "title": "Conte qual é a obra.",
+    "lead": "Responda em poucas linhas o que precisa. Retornamos para agendar a visita técnica.",
+    "telefones": "Telefones",
+    "email": "E-mail",
+    "endereco": "Endereço",
+    "horario": "Atendimento",
+    "form": {
+      "nome": "Nome",
+      "email": "E-mail",
+      "telefone": "Telefone",
+      "tipo": "Tipo de serviço",
+      "tipoPlaceholder": "Selecione",
+      "mensagem": "Mensagem",
+      "enviar": "Enviar mensagem",
+      "enviando": "Enviando…",
+      "privacidade": "Usamos seus dados só para responder a este contato.",
+      "privacidadeLink": "Política de privacidade",
+      "sucesso": "Mensagem enviada. Retornamos em breve.",
+      "erro": "Não foi possível enviar agora. Tente de novo ou ligue para {tel}.",
+      "semChave": "O formulário ainda não está configurado. Ligue para {tel}.",
+      "erros": {
+        "nome": "Informe seu nome.",
+        "email": "Digite um e-mail completo, como nome@dominio.com.br.",
+        "telefone": "Informe um telefone com DDD.",
+        "tipo": "Escolha o tipo de serviço.",
+        "mensagem": "Conte em pelo menos 10 caracteres o que você precisa."
+      }
+    },
+    "whatsapp": "Conversar no WhatsApp",
+    "whatsappMsg": "Olá, vim pelo site da PCR Engenharia e gostaria de falar sobre uma obra."
+  },
+  "footer": {
+    "navegacao": "Navegação",
+    "endereco": "Endereço",
+    "empresa": "Empresa",
+    "idioma": "Idioma",
+    "rt": "Resp. técnico",
+    "grupo": "Integrante do grupo {grupo}",
+    "privacidade": "Política de privacidade",
+    "direitos": "© {ano} PCR Engenharia e Incorporação"
+  },
+  "privacidade": {
+    "title": "Política de privacidade",
+    "atualizado": "Atualizada em outubro de 2026.",
+    "secoes": [
+      {
+        "h": "Quem trata os dados",
+        "p": "PCR Engenharia e Incorporação Ltda, CNPJ 30.322.792/0001-81, com sede na Rua Cinco, 78, Jardim Bela Vista, Serra, ES."
+      },
+      {
+        "h": "Quais dados coletamos",
+        "p": "Pelo formulário de contato: nome, e-mail, telefone, tipo de serviço e a mensagem que você escrever. Se a medição de audiência estiver ativa, dados de navegação anônimos e agregados."
+      },
+      {
+        "h": "Para que usamos",
+        "p": "Para responder ao seu contato e, se você quiser, preparar uma proposta. Não vendemos nem compartilhamos seus dados para publicidade."
+      },
+      {
+        "h": "Com quem compartilhamos",
+        "p": "O envio do formulário passa por um serviço de terceiros que entrega a mensagem por e-mail à PCR. Os dados não são usados por esse serviço para outros fins."
+      },
+      {
+        "h": "Por quanto tempo guardamos",
+        "p": "Pelo tempo necessário para atender ao pedido e cumprir obrigações legais. Depois, os dados são apagados."
+      },
+      {
+        "h": "Seus direitos",
+        "p": "Você pode pedir acesso, correção ou exclusão dos seus dados a qualquer momento pelo e-mail ou telefone desta página, conforme a Lei 13.709/2018 (LGPD)."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Página não encontrada.",
+    "text": "O endereço pode ter mudado. Veja as obras ou volte para o início.",
+    "home": "Voltar ao início"
+  }
+}
