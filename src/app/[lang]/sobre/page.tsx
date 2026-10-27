@@ -20,7 +20,7 @@ export default async function SobrePage() {
   const dados = [
     [locale === "pt" ? "Razão social" : "Legal name", site.razaoSocial],
     ["CNPJ", site.cnpj],
-    [locale === "pt" ? "Abertura" : "Incorporated", locale === "pt" ? "27/04/2018" : "27 April 2018"],
+    [locale === "pt" ? "Fundação" : "Founded", locale === "pt" ? "27/04/2018" : "27 April 2018"],
     [locale === "pt" ? "Sede" : "Head office", `${site.endereco.rua}, ${site.endereco.bairro}, ${site.endereco.cidade} - ${site.endereco.uf}`],
   ];
   return (

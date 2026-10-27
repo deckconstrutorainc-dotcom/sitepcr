@@ -205,7 +205,7 @@
       "m2": "Área de intervenção declarada em ART ou contrato, em {n} obras concluídas. Não é área construída.",
       "aco": "Soma das medições de {n} obras; 18,0 t na ampliação do Hospital São Luiz.",
       "clientes": "Clientes com obra concluída. Pessoas físicas não são contadas.",
-      "anos": "Contados a partir da abertura da empresa, em 27/04/2018.",
+      "anos": "Contados a partir da fundação da empresa, em 27/04/2018.",
       "municipios": "Municípios onde há obra, laudo ou projeto registrado.",
       "executado": "Soma dos valores medidos ou faturados em {n} obras concluídas. Valores por obra não são divulgados."
     },
@@ -217,7 +217,7 @@
   },
   "sobre": {
     "title": "Engenharia civil com responsabilidade técnica desde 2018",
-    "lead": "A PCR Engenharia e Incorporação foi aberta em 27 de abril de 2018, em Serra, no Espírito Santo, para atender condomínios e empresas que precisavam de engenharia em obras de recuperação e reforma.",
+    "lead": "A PCR Engenharia e Incorporação foi fundada em 27 de abril de 2018, em Serra, no Espírito Santo, para atender condomínios e empresas que precisavam de engenharia em obras de recuperação e reforma.",
     "historia": [
       "Os primeiros contratos, em 2018, foram a construção da Cafeteria e Choperia do Mestre no desembarque do Aeroporto de Vitória e os serviços no Ed. Laguna, em Jardim Camburi.",
       "A PCR desenvolve soluções em engenharia civil com planejamento, organização e compromisso técnico. Trabalha com equipes qualificadas e processos bem definidos para garantir segurança, eficiência e durabilidade em cada projeto executado.",
