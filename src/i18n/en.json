@@ -74,13 +74,13 @@
     }
   },
   "home": {
-    "heroTitle": "Facades, hospitals and steel structures.",
-    "heroSub": "Civil engineering in Espírito Santo, Brazil, since 2018.",
+    "heroTitle": "Construction, renovation and building repair.",
+    "heroSub": "Civil engineering across Espírito Santo, Brazil, since 2018.",
     "heroCaption": "Hospital São Luiz, Vila Velha. Steel-frame extension, 2021.",
     "videoLabel": "Drone flight over the Hospital São Luiz extension in Vila Velha",
     "pause": "Pause video",
     "play": "Play video",
-    "statement": "Since 2018 we have repaired facades, extended hospitals and erected steel structures across Espírito Santo. {obras} delivered, every stage measured and signed off by an engineer.",
+    "statement": "Since 2018, PCR has delivered construction, renovation and repair of residential, commercial, industrial and institutional buildings across Espírito Santo: {obras} projects so far, every stage measured and signed off by an engineer.",
     "statementEm": "{obras} projects",
     "conheca": "About PCR",
     "facts": {
@@ -91,13 +91,13 @@
       "rt": "Engineer of record",
       "grupo": "Group"
     },
-    "featuredTitle": "Three projects, three scales of engineering.",
-    "numbersTitle": "Every figure comes from a progress report, a technical record or an invoice.",
-    "servicesTitle": "From the first report to the occupancy permit.",
+    "featuredTitle": "Featured projects",
+    "numbersTitle": "Our track record in numbers",
+    "servicesTitle": "What we do",
     "servicesAll": "All services",
-    "stripTitle": "What sits behind the finish.",
+    "stripTitle": "Work in progress",
     "stripLabel": "Work-in-progress photos, scroll sideways",
-    "coverTitle": "Tell us about your project.",
+    "coverTitle": "Request a site visit",
     "coverText": "Site visit, assessment and an itemised proposal, with a clear schedule and a named engineer in charge.",
     "coverAlt": "Aerial view of the Jacaraípe coastline in Serra, with the neighbourhood and the sea behind",
     "clientesTitle": "Our clients"
@@ -216,7 +216,7 @@
     "semAno": "no date on record"
   },
   "sobre": {
-    "title": "An engineering company from Serra, with every job signed off and documented.",
+    "title": "Civil engineering with technical accountability since 2018",
     "lead": "PCR Engenharia e Incorporação was incorporated on 27 April 2018 in Serra, Espírito Santo, to serve condominiums and companies that needed proper engineering for repair and renovation work.",
     "historia": [
       "The first contracts, in 2018, were the construction of the Cafeteria e Choperia do Mestre in the arrivals hall of Vitória Airport and works at the Laguna building in Jardim Camburi.",
@@ -270,7 +270,7 @@
     "fotoProxima": "Next photo"
   },
   "contato": {
-    "title": "Tell us about your project.",
+    "title": "Request a site visit",
     "lead": "A few lines on what you need is enough. We will get back to you to book a site visit.",
     "telefones": "Phone",
     "email": "Email",

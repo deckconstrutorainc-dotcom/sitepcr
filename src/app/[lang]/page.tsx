@@ -43,7 +43,7 @@ export default async function Home() {
         <div aria-hidden="true" className="absolute inset-0 scrim-hero" />
         <div className="absolute inset-x-0 bottom-0 z-2 pb-[calc(env(safe-area-inset-bottom,0px)+28px)]">
           <div className="wrap">
-            <h1 className="max-w-[13ch] text-hero">{d.home.heroTitle}</h1>
+            <h1 className="max-w-[24ch] text-hero">{d.home.heroTitle}</h1>
             <p className="mt-4 text-lede text-on-media">{d.home.heroSub}</p>
             <div className="mt-8 flex flex-wrap items-center justify-between gap-x-6 gap-y-2 border-t border-white/35 pt-3.5">
               <span className="data text-on-media-muted">{d.home.heroCaption}</span>

@@ -74,13 +74,13 @@
     }
   },
   "home": {
-    "heroTitle": "Fachadas, hospitais e estruturas.",
-    "heroSub": "Engenharia civil no Espírito Santo desde 2018.",
+    "heroTitle": "Construção, reforma e recuperação de edificações.",
+    "heroSub": "Engenharia civil em todo o Espírito Santo desde 2018.",
     "heroCaption": "Hospital São Luiz, Vila Velha. Ampliação em estrutura metálica, 2021.",
     "videoLabel": "Voo de drone sobre a ampliação do Hospital São Luiz, em Vila Velha",
     "pause": "Pausar vídeo",
     "play": "Reproduzir vídeo",
-    "statement": "Desde 2018, recuperamos fachadas, ampliamos hospitais e montamos estruturas metálicas no Espírito Santo. São {obras} obras entregues, cada etapa medida e assinada por engenheiro.",
+    "statement": "Desde 2018, a PCR executa obras de construção, reforma e recuperação de edificações residenciais, comerciais, industriais e institucionais em todo o Espírito Santo. São {obras} obras entregues, cada etapa medida e assinada por engenheiro.",
     "statementEm": "{obras} obras entregues",
     "conheca": "Conheça a PCR",
     "facts": {
@@ -91,13 +91,13 @@
       "rt": "Responsável técnico",
       "grupo": "Grupo"
     },
-    "featuredTitle": "Três obras, três escalas de engenharia.",
-    "numbersTitle": "Cada número vem de um boletim, uma ART ou uma nota fiscal.",
-    "servicesTitle": "Do laudo ao habite-se.",
+    "featuredTitle": "Obras em destaque",
+    "numbersTitle": "Nossa trajetória em números",
+    "servicesTitle": "Áreas de atuação",
     "servicesAll": "Todos os serviços",
-    "stripTitle": "O que fica por trás do acabamento.",
+    "stripTitle": "Obras em execução",
     "stripLabel": "Fotos de obra em andamento, role para os lados",
-    "coverTitle": "Conte qual é a obra.",
+    "coverTitle": "Solicite uma visita técnica",
     "coverText": "Visita técnica, diagnóstico e proposta por item, com prazo e responsável definidos.",
     "coverAlt": "Vista aérea do litoral de Jacaraípe, em Serra, com o bairro e o mar ao fundo",
     "clientesTitle": "Nossos clientes"
@@ -216,7 +216,7 @@
     "semAno": "sem data registrada"
   },
   "sobre": {
-    "title": "Uma empresa de engenharia de Serra, com obra assinada e documentada.",
+    "title": "Engenharia civil com responsabilidade técnica desde 2018",
     "lead": "A PCR Engenharia e Incorporação foi aberta em 27 de abril de 2018, em Serra, no Espírito Santo, para atender condomínios e empresas que precisavam de engenharia em obras de recuperação e reforma.",
     "historia": [
       "Os primeiros contratos, em 2018, foram a construção da Cafeteria e Choperia do Mestre no desembarque do Aeroporto de Vitória e os serviços no Ed. Laguna, em Jardim Camburi.",
@@ -270,7 +270,7 @@
     "fotoProxima": "Próxima foto"
   },
   "contato": {
-    "title": "Conte qual é a obra.",
+    "title": "Solicite uma visita técnica",
     "lead": "Responda em poucas linhas o que precisa. Retornamos para agendar a visita técnica.",
     "telefones": "Telefones",
     "email": "E-mail",
