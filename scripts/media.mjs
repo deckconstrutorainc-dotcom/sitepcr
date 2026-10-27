@@ -17,10 +17,10 @@ const fotos = {
   "solar-tela": "ED. Solar do Atlântico/Fotos ED Solar do Atlantico (110).jpeg",
   "nahum-jau": "FOTOS DRONE OBRAS PCR/NAHUN PRADO/DJI_0348.JPG",
   "nahum-antes": "FOTOS DRONE OBRAS PCR/NAHUN PRADO/DJI_0354.JPG",
-  "luamar-acabamento": "FOTOS DRONE OBRAS PCR/CASAS GERMINADAS/DJI_0371.JPG",
+  "luamar-acabamento": "Contratos/OBRAS REALIZADAS/CASAS GERMINADAS JACARAIPE 1ª etapa LUAMAR/HABITE-SE/Luamar frente casas.jpeg",
 };
 
-await mkdir(path.join(ROOT, "public/media"), { recursive: true });
+await mkdir(path.join(ROOT, "src/assets/media"), { recursive: true });
 for (const [nome, rel] of Object.entries(fotos)) {
   const info = await sharp(path.join(SOURCE, rel))
     .rotate()
@@ -28,7 +28,7 @@ for (const [nome, rel] of Object.entries(fotos)) {
     .linear(1.12, -(128 * 0.12))
     .modulate({ saturation: 1.18 })
     .jpeg({ quality: 82, mozjpeg: true, progressive: true })
-    .toFile(path.join(ROOT, "public/media", `${nome}.jpg`));
+    .toFile(path.join(ROOT, "src/assets/media", `${nome}.jpg`));
   console.log(nome, info.width, "x", info.height);
 }
 

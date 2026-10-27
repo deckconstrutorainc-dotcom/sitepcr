@@ -31,7 +31,9 @@ const excluidas = new Set((curadoria.excluir_fotos ?? []).map((f) => f.toLowerCa
 function selecionar(fotos) {
   const vistos = new Set();
   const validas = fotos.filter((f) => {
-    if (!EXT.test(f) || EXCLUIR.test(f) || excluidas.has(path.basename(f).toLowerCase())) return false;
+    // excluir_fotos aceita o nome do arquivo ou o caminho relativo (quando o nome se repete em outras pastas)
+    const rel = f.replaceAll("\\", "/").toLowerCase();
+    if (!EXT.test(f) || EXCLUIR.test(f) || excluidas.has(path.basename(f).toLowerCase()) || excluidas.has(rel)) return false;
     const nome = path.basename(f).toLowerCase();
     if (vistos.has(nome)) return false; // a mesma foto aparece nas pastas avulsas e em Contratos
     vistos.add(nome);
