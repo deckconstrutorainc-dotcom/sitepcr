@@ -66,7 +66,7 @@ export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
           }))}
           shortcuts={[
             { href: href(locale, "obras"), label: d.nav.obras },
-            { href: href(locale, "contato"), label: d.nav.contato },
+            { href: href(locale, "contato"), label: d.common.falar, cta: true },
           ]}
           labels={{
             menu: d.nav.menu,

@@ -9,6 +9,8 @@ import { getObra, semelhantes, slugs } from "@/lib/obras";
 import { pageMetadata, breadcrumbJsonLd, jsonLd, seoTitle, seoDescription } from "@/lib/seo";
 import { site } from "@/lib/site";
 import { Gallery } from "@/components/Gallery";
+import { BeforeAfter } from "@/components/BeforeAfter";
+import casos from "@/content/cases.json";
 
 export function generateStaticParams() {
   return slugs().map((slug) => ({ slug }));
@@ -51,6 +53,8 @@ export default async function ObraPage({ params }: PageProps<"/[lang]/obras/[slu
     [d.obras.status, d.obras[`status_${obra.status}` as "status_concluida"]],
   ].filter((r): r is [string, string] => Boolean(r[1]));
   const temMedicao = obra.quantitativos.some((q) => q.base === "medicao");
+  const caso = (casos as unknown as Record<string, Record<"pt" | "en", Record<"desafio" | "solucao" | "resultado", string>>>)[obra.slug]?.[locale];
+  const antesDepois = d.home.antesDepois.itens.find((p) => p.slug === obra.slug);
 
   return (
     <article>
@@ -88,6 +92,31 @@ export default async function ObraPage({ params }: PageProps<"/[lang]/obras/[slu
             </div>
           ))}
         </dl>
+
+        {caso && (
+          <section className="grid gap-8 pt-12 lg:grid-cols-3 lg:gap-x-8" aria-labelledby="caso-t">
+            <h2 id="caso-t" className="text-heading lg:col-span-3">
+              {d.obras.caso.titulo}
+            </h2>
+            {(["desafio", "solucao", "resultado"] as const).map((k) => (
+              <div key={k} data-reveal className="grid content-start gap-3 rule-strong pt-5">
+                <h3 className={`eyebrow ${k === "resultado" ? "text-primary" : "text-ink-subtle"}`}>{d.obras.caso[k]}</h3>
+                <p className="text-ink-muted">{caso[k]}</p>
+              </div>
+            ))}
+          </section>
+        )}
+
+        {antesDepois && (
+          <section className="pt-12" aria-labelledby="ad-t">
+            <h2 id="ad-t" className="mb-6 text-heading">
+              {d.home.antesDepois.title}
+            </h2>
+            <div className="max-w-[880px]">
+              <BeforeAfter par={antesDepois} />
+            </div>
+          </section>
+        )}
 
         {obra.quantitativos.length > 0 && (
           <details className="group border-b border-hairline">

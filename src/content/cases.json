@@ -1,0 +1,51 @@
+{
+  "_nota": "Mini-cases (desafio, solução, resultado) das obras principais. Só fatos dos documentos da obra (contrato, ART, boletins, portfólio PCR). Não afirmar prazo cumprido, ausência de aditivo ou operação ininterrupta: não há documento que sustente.",
+  "hospital-sao-luiz-ampliacao": {
+    "pt": {
+      "desafio": "Ampliar o hospital com escada de emergência, elevador e novos pavimentos. O contrato inicial estimava 3,6 toneladas de estrutura metálica; o projeto estrutural definitivo exigiu 18 toneladas.",
+      "solucao": "Fundação direta e fosso do elevador em concreto armado, estrutura metálica de quatro pavimentos com lajes pré-moldadas, vedação externa em steel frame com placas cimentícias e paredes internas em drywall. A mudança de escopo foi formalizada em replanilhamento e aditivo, e os materiais comprados diretamente pelo hospital foram descontados nas medições.",
+      "resultado": "Obra medida em sete boletins até outubro de 2021, com 18.013 kg de estrutura metálica, 35 m³ de concreto e 363,75 m² de área de intervenção registrados em ART."
+    },
+    "en": {
+      "desafio": "Extend the hospital with an emergency stair, a lift and new floors. The original contract estimated 3.6 tonnes of structural steel; the final structural design required 18 tonnes.",
+      "solucao": "Pad foundations and a reinforced concrete lift pit, a four-storey steel frame with precast slabs, external steel-frame walls with cement boards and internal drywall. The change in scope was formalised through a revised bill of quantities and a change order, and materials bought directly by the hospital were deducted from the progress payments.",
+      "resultado": "Work measured across seven progress reports up to October 2021, with 18,013 kg of structural steel, 35 m³ of concrete and 363.75 m² of intervention area on the technical responsibility record."
+    }
+  },
+  "ed-nahum-prado": {
+    "pt": {
+      "desafio": "Substituir todo o revestimento em pastilhas da fachada frontal de um edifício de nove pavimentos na Praia do Canto, garantindo a aderência do novo revestimento.",
+      "solucao": "Demolição de 1.651 m² de revestimento, chapisco com aditivo e emboço de 25 mm, ensaios de arrancamento do chapisco e do emboço e de tração da argamassa colante antes do novo assentamento, e 1.558 m² de pastilhas novas. Proteção com tela fachadeira, bandeja de proteção e andaime suspenso elétrico durante os sete meses de fachada aberta.",
+      "resultado": "Contrato medido em dez boletins até fevereiro de 2024, com 99,99% do valor contratado executado e 2.176 m² de área de intervenção registrados em ART."
+    },
+    "en": {
+      "desafio": "Replace all the mosaic tile cladding on the front facade of a nine-storey building in Praia do Canto, while ensuring the new cladding bonds properly.",
+      "solucao": "Removal of 1,651 m² of cladding, a scratch coat with bonding additive and a 25 mm render, pull-off tests on the scratch and render coats and tensile tests on the tile adhesive before laying, and 1,558 m² of new mosaic tiles. Safety netting, a debris catch fan and an electric suspended platform were in place for the seven months the facade was open.",
+      "resultado": "Contract measured across ten progress reports up to February 2024, with 99.99% of the contract value executed and 2,176 m² of intervention area on the technical responsibility record."
+    }
+  },
+  "ed-lion-dor-fachada": {
+    "pt": {
+      "desafio": "Executar os reparos apontados no Laudo de Inspeção Predial do condomínio: trincas e fissuras nas fachadas, pontos de armadura exposta, garagens, chapins e telhado.",
+      "solucao": "Empreitada global com escopo vinculado ao laudo: tratamento de trincas com selante PU, recuperação estrutural localizada com argamassa polimérica, lavagem e pintura de 3.735 m² de fachadas, chapins em granito com pingadeira e manta asfáltica no telhado, com andaime, telas e proteção de veículos e pedestres.",
+      "resultado": "Contrato medido a 100% no boletim final de agosto de 2022, com 2.688 m² de área de intervenção registrados em ART."
+    },
+    "en": {
+      "desafio": "Carry out the repairs listed in the condominium's building inspection report: cracks on the facades, exposed reinforcement, car parks, copings and the roof.",
+      "solucao": "A lump-sum contract with scope tied to the report: crack treatment with PU sealant, local structural repair with polymer mortar, washing and painting of 3,735 m² of facades, granite copings with drip edges and a bituminous membrane on the roof, with scaffolding, netting and protection for vehicles and pedestrians.",
+      "resultado": "Contract measured at 100% in the final progress report of August 2022, with 2,688 m² of intervention area on the technical responsibility record."
+    }
+  },
+  "ed-solar-do-atlantico": {
+    "pt": {
+      "desafio": "Placas de granito se soltando da fachada frontal de um edifício à beira-mar, em Jardim da Penha, com concreto deteriorado pela maresia.",
+      "solucao": "Retirada do granito, demolição cuidadosa do concreto solto, troca de aço e reconstrução com argamassa estrutural, lavagem para descontaminação da maresia, chapisco, emboço armado com tela e novo revestimento em porcelanato.",
+      "resultado": "Fachada frontal revestida com 175,75 m² de porcelanato, com a recuperação das vigas incluída por aditivo durante a obra."
+    },
+    "en": {
+      "desafio": "Granite panels coming loose from the front facade of a seafront building in Jardim da Penha, with concrete damaged by salt air.",
+      "solucao": "Removal of the granite, careful demolition of loose concrete, replacement of reinforcement and reinstatement with structural mortar, washing to remove salt contamination, scratch coat, mesh-reinforced render and new porcelain cladding.",
+      "resultado": "Front facade clad with 175.75 m² of porcelain tiles, with the beam repairs added by change order during the works."
+    }
+  }
+}

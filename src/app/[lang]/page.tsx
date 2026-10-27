@@ -16,6 +16,7 @@ import { StatsBand } from "@/components/StatsBand";
 import { ServicesIndex } from "@/components/ServicesIndex";
 import { ProcessStrip } from "@/components/ProcessStrip";
 import { ClientLogos } from "@/components/ClientLogos";
+import { BeforeAfter } from "@/components/BeforeAfter";
 
 export async function generateMetadata(): Promise<Metadata> {
   const { locale, d } = await getDict();
@@ -44,14 +45,18 @@ export default async function Home() {
         <div className="absolute inset-x-0 bottom-0 z-2 pb-[calc(env(safe-area-inset-bottom,0px)+28px)]">
           <div className="wrap">
             <h1 className="max-w-[24ch] text-hero">{d.home.heroTitle}</h1>
-            <p className="mt-4 text-lede text-on-media">{d.home.heroSub}</p>
-            <div className="mt-8 flex flex-wrap items-center justify-between gap-x-6 gap-y-2 border-t border-white/35 pt-3.5">
-              <span className="data text-on-media-muted">{d.home.heroCaption}</span>
+            <p className="mt-4 max-w-[62ch] text-lede text-on-media">{d.home.heroSub}</p>
+            <div className="mt-7 flex flex-wrap items-center gap-x-8 gap-y-3">
+              <Link href={href(locale, "contato")} className="btn-primary no-underline">
+                {d.home.heroCta}
+                <ArrowRight size={18} strokeWidth={1.75} aria-hidden="true" />
+              </Link>
               <Link href={href(locale, "obras")} className="link-cta">
                 {d.common.verObras}
                 <ArrowRight data-arrow size={18} strokeWidth={1.75} aria-hidden="true" />
               </Link>
             </div>
+            <p className="data mt-6 border-t border-white/35 pt-3.5 text-on-media-muted">{d.home.heroCaption}</p>
           </div>
         </div>
       </section>
@@ -113,11 +118,47 @@ export default async function Home() {
         </div>
       </section>
 
+      {/* 3b. Antes e depois (pares do portfólio da PCR) */}
+      <section className="section pt-0!" aria-labelledby="ad-t">
+        <div className="wrap">
+          <SectionHead id="ad-t" title={d.home.antesDepois.title} />
+          <div className="grid gap-10 lg:grid-cols-2 lg:gap-8">
+            {d.home.antesDepois.itens.map((par) => (
+              <BeforeAfter key={par.slug} par={par} href={href(locale, "obras", par.slug)} compact />
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* 4. Números */}
       <section className="section bg-stone" aria-labelledby="num-t">
         <div className="wrap">
           <SectionHead id="num-t" title={d.home.numbersTitle} />
           <StatsBand items={[ind.obrasConcluidas, ind.m2, ind.aco, ind.clientes]} intl={intl} />
+        </div>
+      </section>
+
+      {/* 4b. Por que contratar a PCR: pilares verificáveis nos documentos das obras */}
+      <section className="section" aria-labelledby="porque-t">
+        <div className="wrap">
+          <SectionHead
+            id="porque-t"
+            title={d.home.porque.title}
+            action={
+              <Link href={href(locale, "contato")} className="link-cta">
+                {d.common.falar}
+                <ArrowRight data-arrow size={18} strokeWidth={1.75} aria-hidden="true" />
+              </Link>
+            }
+          />
+          <ul className="m-0 grid list-none gap-x-8 gap-y-10 p-0 md:grid-cols-2 lg:grid-cols-4">
+            {d.home.porque.itens.map((it) => (
+              <li key={it.t} data-reveal className="grid content-start gap-3 rule-strong pt-5">
+                <h3 className="text-title">{it.t}</h3>
+                <p className="text-ink-muted">{it.p}</p>
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 

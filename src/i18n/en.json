@@ -58,7 +58,7 @@
     "verObra": "View project",
     "verObras": "View projects",
     "verTodas": "View all {n} projects",
-    "falar": "Request a technical contact",
+    "falar": "Request a site visit",
     "preencher": "[TO BE PROVIDED]",
     "emAndamento": "In progress",
     "semFoto": "No photographs on file",
@@ -74,13 +74,13 @@
     }
   },
   "home": {
-    "heroTitle": "Construction, renovation and building repair.",
-    "heroSub": "Civil engineering across Espírito Santo, Brazil, since 2018.",
+    "heroTitle": "Civil engineering from foundations to handover.",
+    "heroSub": "Construction, renovation and structural repair with itemised budgets, measured progress reports and an engineer of record at every stage.",
     "heroCaption": "Hospital São Luiz, Vila Velha. Steel-frame extension, 2021.",
     "videoLabel": "Drone flight over the Hospital São Luiz extension in Vila Velha",
     "pause": "Pause video",
     "play": "Play video",
-    "statement": "Since 2018, PCR has delivered construction, renovation and repair of residential, commercial, industrial and institutional buildings across Espírito Santo: {obras} projects so far, every stage measured and signed off by an engineer.",
+    "statement": "Based in Serra, with quick access to the whole of Espírito Santo, PCR delivers construction, renovation and building repair in line with technical standards: {obras} projects so far, every stage measured in progress reports, documented and checked against the budget approved by the client.",
     "statementEm": "{obras} projects",
     "conheca": "About PCR",
     "facts": {
@@ -100,7 +100,56 @@
     "coverTitle": "Request a site visit",
     "coverText": "Site visit, assessment and an itemised proposal, with a clear schedule and a named engineer in charge.",
     "coverAlt": "Aerial view of the Jacaraípe coastline in Serra, with the neighbourhood and the sea behind",
-    "clientesTitle": "Our clients"
+    "clientesTitle": "Our clients",
+    "heroCta": "Request a site visit",
+    "porque": {
+      "title": "Why choose PCR",
+      "itens": [
+        {
+          "t": "Itemised budgets and measured progress",
+          "p": "Every contract has an itemised bill of quantities. Payment follows the progress report, based on the quantities actually executed, and scope changes are formalised through change orders."
+        },
+        {
+          "t": "An engineer of record at every stage",
+          "p": "A civil engineer is responsible from estimate to handover, with a technical responsibility record (ART) filed with CREA-ES."
+        },
+        {
+          "t": "Technical control of the works",
+          "p": "Scope based on a building inspection report where needed, bond tests on facades and photographic records of every stage."
+        },
+        {
+          "t": "Experience in hospital settings",
+          "p": "Renovations and extensions in four hospitals in the Greater Vitória area, including an imaging department with barium plaster walls and a steel-frame extension."
+        }
+      ]
+    },
+    "antesDepois": {
+      "title": "Before and after",
+      "antes": "Before",
+      "depois": "After",
+      "itens": [
+        {
+          "slug": "ed-lion-dor-fachada",
+          "nome": "Lion D'Or Building, Santa Helena, Vitória",
+          "antes": "lion-antes",
+          "depois": "lion-depois",
+          "antesRotulo": "Start of works",
+          "depoisRotulo": "Completed",
+          "antesAlt": "Front facade of the Lion D'Or building at the start of works, with safety netting",
+          "depoisAlt": "Front facade of the Lion D'Or building after completion, freshly painted"
+        },
+        {
+          "slug": "ed-solar-do-atlantico",
+          "nome": "Solar do Atlântico Building, Jardim da Penha, Vitória",
+          "antes": "solar-antes",
+          "depois": "solar-depois",
+          "antesRotulo": "Before",
+          "depoisRotulo": "Completed",
+          "antesAlt": "Corner of the Solar do Atlântico facade with granite panels coming loose, before the works",
+          "depoisAlt": "The same corner of the Solar do Atlântico facade with the new porcelain cladding"
+        }
+      ]
+    }
   },
   "strip": [
     {
@@ -267,7 +316,13 @@
     "fotoDe": "Photo {i} of {n}",
     "fecharFoto": "Close photo",
     "fotoAnterior": "Previous photo",
-    "fotoProxima": "Next photo"
+    "fotoProxima": "Next photo",
+    "caso": {
+      "titulo": "Challenge and solution",
+      "desafio": "Challenge",
+      "solucao": "Solution",
+      "resultado": "Result"
+    }
   },
   "contato": {
     "title": "Request a site visit",

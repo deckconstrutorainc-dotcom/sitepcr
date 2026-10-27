@@ -13,7 +13,7 @@ type Props = {
   logo: ReactNode;
   logoMenu: ReactNode;
   items: NavItem[];
-  shortcuts: { href: string; label: string }[];
+  shortcuts: { href: string; label: string; cta?: boolean }[];
   labels: { menu: string; close: string; language: string; switchTo: string; switchToShort: string; currentShort: string; siteName: string };
   contact: ReactNode;
 };
@@ -86,11 +86,22 @@ export function SiteHeader({ locale, logo, logoMenu, items, shortcuts, labels, c
         <div className="wrap flex h-[76px] items-center justify-between gap-4">
           {logo}
           <nav aria-label={labels.siteName} className="flex items-center gap-7">
-            {shortcuts.map((s) => (
-              <Link key={s.href} href={s.href} className="hidden min-h-11 items-center text-ui font-bold no-underline lg:inline-flex">
-                {s.label}
-              </Link>
-            ))}
+            {shortcuts.map((s) =>
+              s.cta ? (
+                // botão de ação do cabeçalho: compacto (44px), sempre azul, sobre mídia ou sobre o fundo claro
+                <Link
+                  key={s.href}
+                  href={s.href}
+                  className="hidden min-h-11 items-center bg-primary px-4 text-ui font-bold text-white no-underline transition-colors hover:bg-primary-hover lg:inline-flex"
+                >
+                  {s.label}
+                </Link>
+              ) : (
+                <Link key={s.href} href={s.href} className="hidden min-h-11 items-center text-ui font-bold no-underline lg:inline-flex">
+                  {s.label}
+                </Link>
+              ),
+            )}
             <Link
               href={switchLocalePath(pathname, other)}
               hrefLang={other === "pt" ? "pt-BR" : "en"}

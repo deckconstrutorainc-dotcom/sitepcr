@@ -58,7 +58,7 @@
     "verObra": "Ver obra",
     "verObras": "Ver obras",
     "verTodas": "Ver as {n} obras",
-    "falar": "Solicitar contato técnico",
+    "falar": "Solicitar visita técnica",
     "preencher": "[PREENCHER]",
     "emAndamento": "Em andamento",
     "semFoto": "Sem registro fotográfico",
@@ -74,13 +74,13 @@
     }
   },
   "home": {
-    "heroTitle": "Construção, reforma e recuperação de edificações.",
-    "heroSub": "Engenharia civil em todo o Espírito Santo desde 2018.",
+    "heroTitle": "Engenharia civil da fundação à entrega.",
+    "heroSub": "Construção, reforma e recuperação estrutural com orçamento por item, medição em boletim e responsável técnico em todas as etapas.",
     "heroCaption": "Hospital São Luiz, Vila Velha. Ampliação em estrutura metálica, 2021.",
     "videoLabel": "Voo de drone sobre a ampliação do Hospital São Luiz, em Vila Velha",
     "pause": "Pausar vídeo",
     "play": "Reproduzir vídeo",
-    "statement": "Desde 2018, a PCR executa obras de construção, reforma e recuperação de edificações residenciais, comerciais, industriais e institucionais em todo o Espírito Santo. São {obras} obras entregues, cada etapa medida e assinada por engenheiro.",
+    "statement": "Com sede na Serra e acesso rápido a todo o Espírito Santo, a PCR executa construção, reforma e recuperação de edificações em conformidade com as normas técnicas. São {obras} obras entregues, cada etapa medida em boletim, documentada e conferida com o orçamento aprovado pelo cliente.",
     "statementEm": "{obras} obras entregues",
     "conheca": "Conheça a PCR",
     "facts": {
@@ -100,7 +100,56 @@
     "coverTitle": "Solicite uma visita técnica",
     "coverText": "Visita técnica, diagnóstico e proposta por item, com prazo e responsável definidos.",
     "coverAlt": "Vista aérea do litoral de Jacaraípe, em Serra, com o bairro e o mar ao fundo",
-    "clientesTitle": "Nossos clientes"
+    "clientesTitle": "Nossos clientes",
+    "heroCta": "Solicitar visita técnica",
+    "porque": {
+      "title": "Por que contratar a PCR",
+      "itens": [
+        {
+          "t": "Orçamento por item e medição em boletim",
+          "p": "Cada contrato tem planilha por item. O pagamento acompanha o boletim de medição, com o quantitativo efetivamente executado, e mudanças de escopo são formalizadas em aditivo."
+        },
+        {
+          "t": "Responsável técnico em todas as etapas",
+          "p": "Engenheiro civil responsável do orçamento à entrega, com Anotação de Responsabilidade Técnica registrada no CREA-ES."
+        },
+        {
+          "t": "Controle técnico da execução",
+          "p": "Escopo definido a partir de laudo de inspeção quando necessário, ensaios de aderência em fachadas e registro fotográfico de cada etapa."
+        },
+        {
+          "t": "Experiência em ambientes hospitalares",
+          "p": "Reformas e ampliações em quatro hospitais da Grande Vitória, incluindo setor de imagem com paredes baritadas e ampliação em estrutura metálica."
+        }
+      ]
+    },
+    "antesDepois": {
+      "title": "Antes e depois",
+      "antes": "Antes",
+      "depois": "Depois",
+      "itens": [
+        {
+          "slug": "ed-lion-dor-fachada",
+          "nome": "Ed. Lion D'Or, Santa Helena, Vitória",
+          "antes": "lion-antes",
+          "depois": "lion-depois",
+          "antesRotulo": "Início da obra",
+          "depoisRotulo": "Obra concluída",
+          "antesAlt": "Fachada frontal do Ed. Lion D'Or no início da obra, com tela de proteção",
+          "depoisAlt": "Fachada frontal do Ed. Lion D'Or concluída, com a pintura nova"
+        },
+        {
+          "slug": "ed-solar-do-atlantico",
+          "nome": "Ed. Solar do Atlântico, Jardim da Penha, Vitória",
+          "antes": "solar-antes",
+          "depois": "solar-depois",
+          "antesRotulo": "Antes",
+          "depoisRotulo": "Obra finalizada",
+          "antesAlt": "Quina da fachada do Ed. Solar do Atlântico com placas de granito se soltando, antes da obra",
+          "depoisAlt": "Mesma quina da fachada do Ed. Solar do Atlântico com o novo revestimento em porcelanato"
+        }
+      ]
+    }
   },
   "strip": [
     {
@@ -267,7 +316,13 @@
     "fotoDe": "Foto {i} de {n}",
     "fecharFoto": "Fechar foto",
     "fotoAnterior": "Foto anterior",
-    "fotoProxima": "Próxima foto"
+    "fotoProxima": "Próxima foto",
+    "caso": {
+      "titulo": "O desafio e a solução",
+      "desafio": "Desafio",
+      "solucao": "Solução",
+      "resultado": "Resultado"
+    }
   },
   "contato": {
     "title": "Solicite uma visita técnica",
