@@ -5,8 +5,9 @@ import { Pause, Play } from "lucide-react";
 
 type Connection = { saveData?: boolean; effectiveType?: string };
 
-// O pôster (next/image, no servidor) é o LCP. O vídeo só começa a baixar depois do load da página,
-// e nunca com movimento reduzido, economia de dados ou conexão lenta.
+// O pôster (next/image, no servidor) é o LCP. O vídeo só começa a baixar depois do load da página
+// e não carrega com economia de dados ou conexão lenta. Toca também com "movimento reduzido" ativo
+// (decisão do cliente, 27/10/2026): é um voo lento, sem som e sem flashes, sempre com botão de pausar.
 export function HeroVideo({ src, label, pauseLabel, playLabel }: { src: { hd: string; sd: string }; label: string; pauseLabel: string; playLabel: string }) {
   const ref = useRef<HTMLVideoElement>(null);
   const [ready, setReady] = useState(false);
@@ -15,7 +16,7 @@ export function HeroVideo({ src, label, pauseLabel, playLabel }: { src: { hd: st
   useEffect(() => {
     const conn = (navigator as Navigator & { connection?: Connection }).connection;
     const lento = conn?.saveData || /(^|-)2g|3g/.test(conn?.effectiveType ?? "");
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches || lento) return;
+    if (lento) return;
     const start = () => {
       const v = ref.current;
       if (!v) return;

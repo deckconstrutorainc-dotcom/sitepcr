@@ -362,7 +362,7 @@ Plano, sem sombras. A profundidade vem da troca de camada (`canvas` → `stone` 
 
 ### Vídeo do topo
 - `<video muted playsinline loop preload="none" poster>`. O **pôster é o LCP** (AVIF/WebP, `priority`), e o vídeo só carrega depois do `load`.
-- Não carrega com `prefers-reduced-motion`, `Save-Data` ou conexão 2G/3G (`navigator.connection`); nesses casos fica a foto.
+- Não carrega com `Save-Data` ou conexão 2G/3G (`navigator.connection`); nesses casos fica a foto. **Toca mesmo com `prefers-reduced-motion`** (decisão do cliente em 27/10/2026, para o vídeo aparecer em computadores corporativos com animações do Windows desligadas): é um voo lento, sem som e sem flashes, sempre com botão de pausar visível (WCAG 2.2.2).
 - **Botão de pausar/reproduzir** visível (exigência do WCAG 2.2.2 para movimento automático acima de 5s), canto inferior direito, 44×44, com `aria-label` que alterna.
 - Arquivos: trecho de 12 s de `DJI_0809.MP4`, H.264 em duas passadas, sem áudio, `faststart`, sem filtro de nitidez. **Full HD** (1920×1080, 5 Mbps, ~7 MB) quando a área do vídeo passa de ~1400 px físicos; **720p** (2,5 Mbps, ~3,7 MB) no celular. A primeira versão (720p a CRF 30, 2,1 MB) ficou borrada em tela cheia no desktop e foi substituída.
 
@@ -395,7 +395,7 @@ Círculo de 56px no canto inferior direito, verde `success`, ícone branco e `ar
 
 - **Nunca** animar texto acima da dobra no carregamento (protege o LCP); o título do topo aparece estático.
 - Elementos começam visíveis no HTML (sem JS, tudo aparece); a classe de revelação só é aplicada depois que o JS confirma o suporte.
-- `prefers-reduced-motion: reduce` desliga vídeo, revelações, escala e contagem; só as transições de cor permanecem.
+- `prefers-reduced-motion: reduce` desliga revelações, escala e contagem; só as transições de cor permanecem. O vídeo do topo é a exceção (ver "Vídeo do topo").
 
 ## Voz e texto
 
