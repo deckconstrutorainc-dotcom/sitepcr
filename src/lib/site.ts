@@ -7,15 +7,14 @@ export const site = {
   cnpj: "30.322.792/0001-81",
   fundacao: "2018-04-27",
   endereco: {
-    rua: "Rua Cinco, 78",
+    rua: "Rua Seis, 73, Lotes 01 e 03, Galpão 01",
     bairro: "Jardim Bela Vista",
     cidade: "Serra",
     uf: "ES",
-    cep: "29177-358",
+    cep: "29177-420",
   },
   telefones: ["(27) 3291-4003", "(27) 3291-7978"],
-  // PENDENTE: confirmar grafia ("pcronstrutora" x "pcrconstrutora")
-  email: "pcr@pcronstrutora.com.br",
+  email: "pcr@pcrengenharia.com",
   horario: null as string | null,
   responsavelTecnico: { nome: "Eng. Civil Bruno Feitosa Tedesco", crea: "CREA-ES 11026/D" },
   grupo: "Deck Construtora e Incorporadora",
