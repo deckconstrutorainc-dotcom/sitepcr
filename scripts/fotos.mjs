@@ -26,6 +26,7 @@ const EXT = /\.(jpe?g)$/i;
 const obras = JSON.parse(await readFile(path.join(ROOT, "privado/obras.json"), "utf8"));
 const curadoria = JSON.parse(await readFile(path.join(ROOT, "privado/curadoria.json"), "utf8"));
 const capas = curadoria.capas ?? {};
+const galerias = curadoria.galerias ?? {}; // lista escolhida à mão, na ordem de exibição (a primeira é a capa)
 const excluidas = new Set((curadoria.excluir_fotos ?? []).map((f) => f.toLowerCase()));
 
 function selecionar(fotos) {
@@ -53,9 +54,9 @@ for (const obra of obras) {
   if (obra.excluir_do_site || !obra.fotos?.length) continue;
   if (ONLY && obra.slug !== ONLY) continue;
 
-  let escolhidas = selecionar(obra.fotos);
+  let escolhidas = galerias[obra.id] ?? selecionar(obra.fotos);
   const capa = capas[obra.id];
-  if (capa) escolhidas = [capa, ...escolhidas.filter((f) => path.basename(f) !== path.basename(capa))].slice(0, MAX);
+  if (capa && !galerias[obra.id]) escolhidas = [capa, ...escolhidas.filter((f) => path.basename(f) !== path.basename(capa))].slice(0, MAX);
   if (!escolhidas.length) continue;
 
   const dir = path.join(ROOT, "public/obras", obra.slug);
